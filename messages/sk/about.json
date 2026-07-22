@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "O nás · EFU | Elite Fight Universe",
+    "description": "Spoznaj Elite Fight Universe (EFU): talentovú šou EFU Reality, galavečer EFU Fight Night a digitálnu platformu EFU TV. Vlastný pravidlový systém, hlavná cena 10 mil. HUF a reálna profesionálna kariérna cesta."
+  },
+  "nav": {
+    "about": "O nás",
+    "aboutAria": "Prejsť na stránku O nás"
+  },
+  "hero": {
+    "eyebrow": "O nás",
+    "title": "Čo je EFU?",
+    "intro": "Elite Fight Universe (EFU) je bojové a zábavné ekosystém založený na vlastnom súťažnom systéme: športové podujatia, talentové formáty a digitálne prenosy. EFU vytvára novú scénu pre bojovníkov — kde fanúšikovia sledujú nielen zápasy, ale celú cestu športovcov."
+  },
+  "pillars": {
+    "eyebrow": "Tri piliere",
+    "title": "Celý vesmír na troch pilieroch",
+    "intro": "EFU stojí na troch hlavných pilieroch: Reality, Fight Night a EFU TV.",
+    "realityTitle": "EFU Reality",
+    "realityTag": "Hľadanie talentov",
+    "realityDesc": "Viac-týždňový súťažný a talentový formát. Účastníci sa dokazujú v úlohách, výzvach a zápasoch, zatiaľ čo diváci nahliadajú do ich osobnosti, prípravy a každodenného života. Cieľom EFU Reality je objavovať nové talenty, budovať charaktery a predstavovať bojovníkov zajtrajška.",
+    "fightNightTitle": "EFU Fight Night",
+    "fightNightTag": "Galavečer",
+    "fightNightDesc": "EFU Fight Night je oficiálna galavečerová séria EFU. Tu sa konajú hlavné zápasy, rebríčkové duely a majstrovské stretnutia organizácie. Na Fight Night dostávajú príležitosť amatérski, poloprofesionálni aj profesionálni športovci.",
+    "tvTitle": "EFU TV",
+    "tvTag": "Digitálna platforma",
+    "tvDesc": "EFU TV je digitálny domov Elite Fight Universe. Živé prenosy, epizódy Reality, galavečere, rozhovory, materiály zo zákulisia a exkluzívny obsah."
+  },
+  "ruleset": {
+    "eyebrow": "Ako to funguje",
+    "title": "Pravidlový systém EFU",
+    "intro": "Vlastný systém pravidiel EFU kladie na prvé miesto nepretržitú akciu a atraktívne zápasy.",
+    "standUpTitle": "EFU Stand-Up",
+    "standUpTagline": "Iba postojačky, bez zápasenia na zemi",
+    "standUpPoints": [
+      "MMA rukavice",
+      "Údery a kopy",
+      "Bez zápasenia na zemi"
+    ],
+    "hybridTitle": "EFU Hybrid",
+    "hybridTagline": "Postojačky + obmedzený pozemný boj",
+    "hybridPoints": [
+      "MMA rukavice",
+      "Kombinácia postojačiek a pozemných techník",
+      "Časovo obmedzený pozemný boj (20–30 sekúnd)",
+      "Rozhodca postaví bojovníkov späť na nohy",
+      "3 × 3-minútové kolá",
+      "1-minútová prestávka medzi kolami"
+    ]
+  },
+  "mission": {
+    "eyebrow": "Naše poslanie",
+    "title": "Komunita, ktorá spája",
+    "body": "Poslaním EFU je vybudovať stredoeurópsku bojovú komunitu, ktorá spája bojovníkov, fanúšikov a partnerov — a posunúť vzťah bojových športov a digitálnej zábavy na novú úroveň."
+  },
+  "timeline": {
+    "eyebrow": "Cesta značky",
+    "title": "Ako sa rodí EFU kariéra?",
+    "intro": "EFU ponúka trojstupňovú kariérnu cestu: prezriete sa v Reality, dokážete sa na Fight Night a v profesionálnom rebríčku sa váš príbeh môže naplno rozvinúť.",
+    "step1Label": "EFU Reality",
+    "step1Title": "Hľadanie talentov",
+    "step1Desc": "Viac-týždňový formát, kde sa súťažiaci dokazujú úlohami, výzvami a zápasmi.",
+    "step2Label": "EFU Fight Night",
+    "step2Title": "Galavečer",
+    "step2Desc": "Najlepší z Reality sa stretávajú na oficiálnej galavečerovej sérii EFU — v amatérskych, poloprofesionálnych a profesionálnych divíziách.",
+    "step3Label": "Profesionálna kariéra",
+    "step3Title": "Profesionálna kariéra",
+    "step3Desc": "Rastúci rebríček a titulový systém EFU otvárajú cestu k medzinárodnej profesionálnej kariére."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "shell": {
+    "title": "EFU Admin",
+    "shortTitle": "إدارة",
+    "tagline": "Elite Fight Universe — الإدارة",
+    "backToSite": "العودة إلى موقع EFU",
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة",
+    "collapseSidebar": "طي الشريط الجانبي",
+    "expandSidebar": "توسيع الشريط الجانبي"
+  },
+  "roles": {
+    "guest": "زائر",
+    "user": "مستخدم",
+    "Rendszeradminisztrator": "مدير النظام",
+    "Producer": "منتج",
+    "RealitySzerkeszto": "محرر Reality",
+    "Tartalomkeszito": "صانع المحتوى",
+    "Marketing": "تسويق",
+    "Moderator": "مشرف"
+  },
+  "groups": {
+    "workspace": "مساحة العمل",
+    "reality": "Reality والمنتج",
+    "content": "المحتوى",
+    "marketing": "التسويق",
+    "moderation": "الإشراف",
+    "system": "النظام"
+  },
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "applications": "الطلبات",
+    "analytics": "التحليلات",
+    "events": "الفعاليات",
+    "fightCards": "بطاقات القتال",
+    "results": "النتائج",
+    "votes": "التصويتات",
+    "realityTriggers": "محفزات Reality",
+    "audioLibrary": "مكتبة الصوت",
+    "pages": "الصفحات",
+    "news": "الأخبار",
+    "videos": "الفيديوهات",
+    "photos": "الصور",
+    "fighterProfiles": "ملفات المقاتلين",
+    "sponsors": "الرعاة",
+    "socialLinks": "روابط التواصل",
+    "chatModeration": "إشراف الدردشة",
+    "users": "المستخدمون",
+    "roles": "الأدوار",
+    "auditLogs": "سجلات التدقيق",
+    "systemSettings": "إعدادات النظام"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "welcome": "مرحبًا بك في إدارة EFU",
+    "recentActivity": "النشاط الأخير",
+    "latestApplications": "أحدث الطلبات",
+    "latestEmails": "أحدث رسائل البريد الصادرة",
+    "analyticsOverview": "نظرة عامة على التحليلات (7 أيام)",
+    "noApplications": "لا توجد طلبات بعد.",
+    "noEmails": "لم يتم إرسال رسائل بريد بعد.",
+    "loadingAnalytics": "جارٍ تحميل التحليلات…",
+    "openApplication": "فتح الطلب",
+    "noAnalytics": "لا توجد بيانات بعد. يتم تحميل أحداث تجريبية عند أول زيارة.",
+    "seeAllApplications": "جميع الطلبات",
+    "seeAnalytics": "تحليلات مفصلة",
+    "stats": {
+      "totalApplications": "إجمالي الطلبات",
+      "newApplications": "جديد (غير معالَج)",
+      "eventsLast7d": "الأحداث (7 أيام)",
+      "viewersNow": "المشاهدون الآن"
+    }
+  },
+  "common": {
+    "language": "اللغة",
+    "selectLanguage": "اختر اللغة",
+    "logout": "تسجيل الخروج",
+    "loading": "جارٍ التحميل…",
+    "comingSoon": "قريبًا",
+    "comingSoonBody": "هذه الصفحة عنصر نائب ريثما تكتمل بطاقات L6 الأخرى. فحص الدور مفعّل بالفعل — يمكن للأدوار المصرح لها فقط الوصول إلى هذا المسار."
+  },
+  "forbidden": {
+    "title": "الوصول مرفوض",
+    "code": "403",
+    "body": "ليس لديك حق الوصول إلى هذه الصفحة. في إدارة EFU، يعرض الشريط الجانبي الأقسام التي يمكن لدورك الوصول إليها فقط.",
+    "hint": "في التطوير يتم تحديد الدور عبر ملف تعريف الارتباط efu_role. مثال: document.cookie = \"efu_role=Rendszeradminisztrator\""
+  }
+}

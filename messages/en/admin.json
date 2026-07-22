@@ -1,0 +1,88 @@
+{
+  "shell": {
+    "title": "EFU Admin",
+    "shortTitle": "Admin",
+    "tagline": "Elite Fight Universe — administration",
+    "backToSite": "Back to EFU site",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "collapseSidebar": "Collapse sidebar",
+    "expandSidebar": "Expand sidebar"
+  },
+  "roles": {
+    "guest": "Guest",
+    "user": "User",
+    "Rendszeradminisztrator": "System administrator",
+    "Producer": "Producer",
+    "RealitySzerkeszto": "Reality editor",
+    "Tartalomkeszito": "Content creator",
+    "Marketing": "Marketing",
+    "Moderator": "Moderator"
+  },
+  "groups": {
+    "workspace": "Workspace",
+    "reality": "Reality & Producer",
+    "content": "Content",
+    "marketing": "Marketing",
+    "moderation": "Moderation",
+    "system": "System"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "applications": "Applications",
+    "analytics": "Analytics",
+    "events": "Events",
+    "fightCards": "Fight cards",
+    "results": "Results",
+    "votes": "Votes",
+    "realityTriggers": "Reality triggers",
+    "audioLibrary": "Audio library",
+    "pages": "Pages",
+    "news": "News",
+    "videos": "Videos",
+    "photos": "Photos",
+    "fighterProfiles": "Fighter profiles",
+    "sponsors": "Sponsors",
+    "socialLinks": "Social links",
+    "chatModeration": "Chat moderation",
+    "users": "Users",
+    "roles": "Roles",
+    "auditLogs": "Audit logs",
+    "systemSettings": "System settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to EFU admin",
+    "recentActivity": "Recent activity",
+    "latestApplications": "Latest applications",
+    "latestEmails": "Latest outbound emails",
+    "analyticsOverview": "Analytics overview (7 days)",
+    "noApplications": "No applications yet.",
+    "noEmails": "No emails sent yet.",
+    "loadingAnalytics": "Loading analytics…",
+    "openApplication": "Open application",
+    "noAnalytics": "No data yet. Demo events are seeded on first visit.",
+    "seeAllApplications": "All applications",
+    "seeAnalytics": "Detailed analytics",
+    "stats": {
+      "totalApplications": "Total applications",
+      "newApplications": "New (untouched)",
+      "eventsLast7d": "Events (7 days)",
+      "viewersNow": "Viewers now"
+    }
+  },
+  "common": {
+    "language": "Language",
+    "selectLanguage": "Select language",
+    "logout": "Log out",
+    "loading": "Loading…",
+    "comingSoon": "Coming soon",
+    "comingSoonBody": "This view is a placeholder until later L6 cards land. The role guard is already enforced — only authorized roles can reach this route."
+  },
+  "forbidden": {
+    "title": "Access denied",
+    "code": "403",
+    "body": "You do not have access to this view. In the EFU admin, the sidebar only shows surfaces your role can reach.",
+    "hint": "In development the role is set by the efu_role cookie. Example: document.cookie = \"efu_role=Rendszeradminisztrator\""
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "listing": {
+    "title": "Luptători",
+    "subtitle": "Cunoaște luptătorii EFU Reality și Fight Night — poveștile, drumul și bilanțul lor.",
+    "empty": "Încă nu există luptători publicați. În curând.",
+    "viewProfile": "Vezi profilul",
+    "fightRecord": "Bilanț",
+    "path": "Drumul EFU",
+    "filter": {
+      "label": "Filtru",
+      "all": "Toți",
+      "reality": "Reality",
+      "fight_night": "Fight Night",
+      "pro": "Pro"
+    }
+  },
+  "profile": {
+    "intro": "Introducere",
+    "story": "Poveste",
+    "efuPath": "Drumul EFU",
+    "efuPathTeaser": "De unde au început",
+    "record": "Bilanț",
+    "recordShort": "V-Î-E",
+    "videos": "Videoclipuri",
+    "videosEmpty": "Acest luptător nu are încă videoclipuri.",
+    "fightHistory": "Meciuri",
+    "fightHistoryEmpty": "Istoricul meciurilor nu este disponibil.",
+    "bio": {
+      "born": "Data nașterii",
+      "country": "Țară",
+      "hometown": "Oraș",
+      "gym": "Sală",
+      "weightClass": "Categorie de greutate",
+      "stance": "Postură",
+      "height": "Înălțime",
+      "reach": "Distanță"
+    },
+    "stats": {
+      "wins": "Victorii",
+      "losses": "Înfrângeri",
+      "draws": "Egaluri",
+      "kos": "KO-uri",
+      "submissions": "Submisiuni"
+    },
+    "notFound": "Acest luptător nu a fost găsit.",
+    "backToListing": "Înapoi la luptători",
+    "share": "Distribuie",
+    "stages": {
+      "reality": "EFU Reality",
+      "fight_night": "EFU Fight Night",
+      "pro": "Carieră pro"
+    }
+  },
+  "admin": {
+    "nav": "Luptători (admin)",
+    "title": "Gestionare luptători",
+    "newFighter": "Luptător nou",
+    "editFighter": "Editează luptător",
+    "deleteFighter": "Șterge luptător",
+    "deleteConfirm": "Sigur dorești să ștergi acest luptător?",
+    "fields": {
+      "slug": "URL slug",
+      "name": "Nume",
+      "nickname": "Poreclă",
+      "country": "Țară (ex. 🇭🇺 HU)",
+      "intro": "Introducere (scurt)",
+      "story": "Poveste (lung, HTML)",
+      "weightClass": "Categorie de greutate",
+      "hometown": "Oraș",
+      "gym": "Sală",
+      "dob": "Data nașterii",
+      "heightCm": "Înălțime (cm)",
+      "reachCm": "Distanță (cm)",
+      "stance": "Postură",
+      "photo": "Fotografie",
+      "photoUpload": "Încarcă fotografie",
+      "photoHint": "JPG/PNG, max 4MB",
+      "recordWins": "Victorii",
+      "recordLosses": "Înfrângeri",
+      "recordDraws": "Egaluri",
+      "recordKos": "KO-uri",
+      "recordSubmissions": "Submisiuni",
+      "efuPath": "Drumul EFU (câte unul pe linie: dată | etapă | titlu)",
+      "videos": "Videoclipuri (câte unul pe linie: youtube|mp4 | URL | titlu)",
+      "published": "Publicat",
+      "sortOrder": "Ordine"
+    },
+    "actions": {
+      "save": "Salvează",
+      "cancel": "Anulează",
+      "delete": "Șterge",
+      "upload": "Încarcă"
+    },
+    "messages": {
+      "saved": "Luptător salvat.",
+      "deleted": "Luptător șters.",
+      "slugExists": "Acest slug este deja folosit.",
+      "invalid": "Date invalide, te rog verifică câmpurile."
+    }
+  },
+  "common": {
+    "language": "Limbă",
+    "loading": "Se încarcă...",
+    "error": "Ceva nu a mers bine."
+  }
+}

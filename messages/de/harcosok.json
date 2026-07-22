@@ -1,0 +1,106 @@
+{
+  "listing": {
+    "title": "Kämpfer",
+    "subtitle": "Lerne die Kämpfer der EFU Reality und Fight Night kennen — ihre Geschichten, ihren Weg und ihre Bilanz.",
+    "empty": "Noch keine veröffentlichten Kämpfer. Bald verfügbar.",
+    "viewProfile": "Profil ansehen",
+    "fightRecord": "Bilanz",
+    "path": "EFU-Weg",
+    "filter": {
+      "label": "Filter",
+      "all": "Alle",
+      "reality": "Reality",
+      "fight_night": "Fight Night",
+      "pro": "Profi"
+    }
+  },
+  "profile": {
+    "intro": "Vorstellung",
+    "story": "Geschichte",
+    "efuPath": "EFU-Weg",
+    "efuPathTeaser": "Wo sie angefangen haben",
+    "record": "Bilanz",
+    "recordShort": "S-N-U",
+    "videos": "Videos",
+    "videosEmpty": "Für diesen Kämpfer sind noch keine Videos verfügbar.",
+    "fightHistory": "Kämpfe",
+    "fightHistoryEmpty": "Kein Kampfverlauf verfügbar.",
+    "bio": {
+      "born": "Geburtsdatum",
+      "country": "Land",
+      "hometown": "Heimatstadt",
+      "gym": "Gym",
+      "weightClass": "Gewichtsklasse",
+      "stance": "Stance",
+      "height": "Größe",
+      "reach": "Reichweite"
+    },
+    "stats": {
+      "wins": "Siege",
+      "losses": "Niederlagen",
+      "draws": "Unentschieden",
+      "kos": "KOs",
+      "submissions": "Submissions"
+    },
+    "notFound": "Dieser Kämpfer wurde nicht gefunden.",
+    "backToListing": "Zurück zu den Kämpfern",
+    "share": "Teilen",
+    "stages": {
+      "reality": "EFU Reality",
+      "fight_night": "EFU Fight Night",
+      "pro": "Profi-Karriere"
+    }
+  },
+  "admin": {
+    "nav": "Kämpfer (Admin)",
+    "title": "Kämpfer verwalten",
+    "newFighter": "Neuer Kämpfer",
+    "editFighter": "Kämpfer bearbeiten",
+    "deleteFighter": "Kämpfer löschen",
+    "deleteConfirm": "Diesen Kämpfer wirklich löschen?",
+    "fields": {
+      "slug": "URL-Slug",
+      "name": "Name",
+      "nickname": "Spitzname",
+      "country": "Land (z. B. 🇭🇺 HU)",
+      "intro": "Vorstellung (kurz)",
+      "story": "Geschichte (lang, HTML)",
+      "weightClass": "Gewichtsklasse",
+      "hometown": "Heimatstadt",
+      "gym": "Gym",
+      "dob": "Geburtsdatum",
+      "heightCm": "Größe (cm)",
+      "reachCm": "Reichweite (cm)",
+      "stance": "Stance",
+      "photo": "Foto",
+      "photoUpload": "Foto hochladen",
+      "photoHint": "JPG/PNG, max. 4MB",
+      "recordWins": "Siege",
+      "recordLosses": "Niederlagen",
+      "recordDraws": "Unentschieden",
+      "recordKos": "KOs",
+      "recordSubmissions": "Submissions",
+      "efuPath": "EFU-Weg (einer pro Zeile: Datum | Stufe | Titel)",
+      "videos": "Videos (eines pro Zeile: youtube|mp4 | URL | Titel)",
+      "published": "Veröffentlicht",
+      "sortOrder": "Sortierung"
+    },
+    "actions": {
+      "save": "Speichern",
+      "cancel": "Abbrechen",
+      "delete": "Löschen",
+      "upload": "Hochladen"
+    },
+    "messages": {
+      "saved": "Kämpfer gespeichert.",
+      "deleted": "Kämpfer gelöscht.",
+      "slugExists": "Dieser Slug ist bereits vergeben.",
+      "invalid": "Ungültige Daten, bitte Felder prüfen."
+    }
+  },
+  "common": {
+    "language": "Sprache",
+    "loading": "Lädt...",
+    "error": "Etwas ist schiefgelaufen."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "homeHero": {
+    "eyebrow": "EFU Reality · Saison 2026",
+    "venue": "Budapest Arena",
+    "datetime": "17. Juli 2026 · 15:00 MEZ",
+    "tagline": "Neue Chancen für Kämpfer, ein neues Level für Fans — live und auf Abruf.",
+    "prize": "EFU Reality — Hauptgewinn 10.000.000 HUF",
+    "countdownLabel": "Zeit bis zum Start",
+    "ctaWatch": "Live ansehen",
+    "ctaReality": "EFU Reality entdecken",
+    "ctaApply": "Als Kämpfer bewerben",
+    "ctaFightNight": "Nächster Fight Night",
+    "ctaWatchAria": "Live-Übertragung starten",
+    "playLiveHint": "Klicke, um die Live-Übertragung zu starten",
+    "liveLabel": "LIVE",
+    "channelHandle": "@EliteFightUniverse",
+    "scrollHint": "Scrolle nach unten"
+  },
+  "social": {
+    "heading": "Folge uns",
+    "youtube": "YouTube",
+    "twitch": "Twitch",
+    "kick": "Kick",
+    "tiktok": "TikTok",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "x": "X (ehemals Twitter)",
+    "dazn": "DAZN"
+  },
+  "hero": {
+    "eyebrow": "EFU Reality · 2026",
+    "title": "Als Kämpfer bewerben",
+    "body": "Die Elite Fight Universe (EFU) Reality baut die nächste Generation von EFU-Kämpfern auf.\nProfitraining, Medienauftritte, ein Startplatz beim EFU Fight Night und der Hauptpreis von 10.000.000 HUF warten auf dich.\nFülle das Formular aus — bewirb dich jetzt!"
+  },
+  "perk": {
+    "training": { "title": "Profitraining", "sub": "EFU-Trainerstab" },
+    "media": { "title": "Medienauftritte", "sub": "EFU TV + Fight Night" },
+    "prize": { "title": "10.000.000 HUF", "sub": "Hauptpreis + Vertrag" }
+  },
+  "field": {
+    "name": { "label": "Name" },
+    "age": { "label": "Alter" },
+    "city": { "label": "Stadt" },
+    "testSuly": {
+      "label": "Gewichtsklasse",
+      "placeholder": "Wähle eine Klasse…"
+    },
+    "sportMult": {
+      "label": "Sportlicher Hintergrund",
+      "placeholder": "Z. B. 5 Jahre MMA, 3 Jahre Boxen, frühere Turniere…"
+    },
+    "motivation": {
+      "label": "Motivation",
+      "placeholder": "Warum möchtest du bei EFU Reality dabei sein? (mind. 20 Zeichen)"
+    },
+    "videoOrSocialUrl": {
+      "label": "Video- oder Social-Link",
+      "hint": "YouTube, Instagram, TikTok, Facebook oder Vimeo"
+    },
+    "contact": {
+      "label": "Kontakt",
+      "hint": "E-Mail oder Telefon — wir melden uns",
+      "placeholder": "du@beispiel.de oder +49 …"
+    }
+  },
+  "gdpr": {
+    "consent": "Ich willige ein, dass Elite Fight Universe (EFU) die von mir angegebenen personenbezogenen Daten zum Zweck der Prüfung meiner Bewerbung und zur Kontaktaufnahme verarbeitet. Rechtsgrundlage ist Art. 6 Abs. 1 lit. a DSGVO (freiwillige Einwilligung). EFU behandelt die Daten vertraulich und gibt sie nicht an Dritte weiter.",
+    "acceptedAt": "Einwilligung erfasst ✓"
+  },
+  "submit": {
+    "label": "Bewerbung absenden",
+    "sending": "Wird gesendet…"
+  },
+  "success": {
+    "title": "Deine Bewerbung ist eingegangen!",
+    "body": "Danke! Unser Team prüft deine Bewerbung und meldet sich bei dir über die angegebenen Kontaktdaten.",
+    "another": "Weitere Bewerbung senden"
+  },
+  "error": {
+    "summary": "Bitte korrigiere die rot markierten Felder und versuche es erneut.",
+    "network": "Netzwerkfehler — bitte erneut versuchen.",
+    "name.too_short": "Der Name muss mindestens 2 Zeichen lang sein.",
+    "name.too_long": "Der Name darf höchstens 80 Zeichen lang sein.",
+    "age.invalid_number": "Bitte gib ein gültiges Alter an.",
+    "age.out_of_range": "Das Alter muss zwischen 16 und 60 liegen.",
+    "city.too_short": "Die Stadt muss mindestens 2 Zeichen lang sein.",
+    "city.too_long": "Die Stadt darf höchstens 80 Zeichen lang sein.",
+    "testSuly.required": "Bitte wähle eine Gewichtsklasse.",
+    "sportMult.required": "Bitte beschreibe deinen sportlichen Hintergrund.",
+    "sportMult.too_long": "Der sportliche Hintergrund darf höchstens 500 Zeichen umfassen.",
+    "motivation.too_short": "Die Motivation muss mindestens 20 Zeichen umfassen.",
+    "motivation.too_long": "Die Motivation darf höchstens 1500 Zeichen umfassen.",
+    "videoOrSocialUrl.required": "Bitte gib einen Video- oder Social-Link an.",
+    "videoOrSocialUrl.too_long": "Der Link darf höchstens 500 Zeichen lang sein.",
+    "videoOrSocialUrl.invalid": "Nur YouTube-, Instagram-, TikTok-, Facebook- oder Vimeo-Links sind zulässig.",
+    "contact.invalid": "Bitte gib eine gültige E-Mail oder Telefonnummer an.",
+    "contact.too_long": "Der Kontakt darf höchstens 120 Zeichen lang sein.",
+    "gdprConsent.required": "Die DSGVO-Einwilligung ist erforderlich.",
+    "turnstile_failed": "Bot-Prüfung fehlgeschlagen — bitte lade die Seite neu."
+  },
+  "form": {
+    "disclaimer": "EFU nutzt deine Daten ausschließlich zur Bearbeitung deiner Bewerbung. Die DSGVO-Einwilligung kann jederzeit widerrufen werden."
+  }
+}

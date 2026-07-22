@@ -1,0 +1,82 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/cms/media"
+public_folder: "/cms/media"
+
+auth_endpoint: auth
+
+collections:
+  - name: "pages"
+    label: "Oldalak"
+    folder: "data/cms/pages"
+    extension: "json"
+    format: "json"
+    identifier_field: "slug"
+    create: true
+    fields:
+      - { label: "Azonosító", name: "id", widget: "string", required: true }
+      - { label: "URL slug", name: "slug", widget: "string", required: true }
+      - label: "Cím"
+        name: "title"
+        widget: "object"
+        fields:
+          - { label: "Magyar", name: "hu", widget: "string", required: true }
+          - { label: "English", name: "en", widget: "string", required: true }
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        fields:
+          - label: "SEO Cím"
+            name: "title"
+            widget: "object"
+            fields:
+              - { label: "Magyar", name: "hu", widget: "string" }
+              - { label: "English", name: "en", widget: "string" }
+          - label: "SEO Leírás"
+            name: "description"
+            widget: "object"
+            fields:
+              - { label: "Magyar", name: "hu", widget: "string" }
+              - { label: "English", name: "en", widget: "string" }
+      - { label: "Publikált", name: "published", widget: "boolean", default: true }
+      - { label: "Létrehozva", name: "createdAt", widget: "datetime" }
+      - { label: "Frissítve", name: "updatedAt", widget: "datetime" }
+      - label: "Blokkok"
+        name: "blocks"
+        widget: "list"
+        types:
+          - label: "Hero szekció"
+            name: "hero"
+            widget: "object"
+            fields:
+              - { label: "Blokk azonosító", name: "id", widget: "string" }
+              - { label: "Típus", name: "type", widget: "hidden", default: "hero" }
+              - { label: "Elrendezés", name: "layout", widget: "select", options: ["full", "centered", "split"], default: "full" }
+              - label: "Tartalom"
+                name: "content"
+                widget: "object"
+                fields:
+                  - label: "Cím"
+                    name: "title"
+                    widget: "object"
+                    fields:
+                      - { label: "Magyar", name: "hu", widget: "string" }
+                      - { label: "English", name: "en", widget: "string" }
+                  - label: "Alcím"
+                    name: "subtitle"
+                    widget: "object"
+                    fields:
+                      - { label: "Magyar", name: "hu", widget: "string" }
+                      - { label: "English", name: "en", widget: "string" }
+                  - { label: "CTA szöveg", name: "ctaText", widget: "string" }
+                  - { label: "CTA link", name: "ctaLink", widget: "string" }
+              - label: "Beállítások"
+                name: "settings"
+                widget: "object"
+                fields:
+                  - { label: "Háttérszín", name: "backgroundColor", widget: "color", default: "#0A0A0A" }
+                  - { label: "Padding", name: "padding", widget: "select", options: ["small", "medium", "large"], default: "large" }
+              - { label: "Sorrend", name: "order", widget: "number", default: 0 }
+              - { label: "Látható", name: "visible", widget: "boolean", default: true }

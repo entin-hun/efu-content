@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "EFU Reality · Casa",
+    "description": "EFU Reality este formatul nostru de descoperire a talentelor în artele marțiale: Casa, Regulile, Mentorii, Concurenții și Premiul — tot ce trebuie să știi despre sezonul 2026."
+  },
+  "hero": {
+    "eyebrow": "EFU Reality · sezonul 2026",
+    "titleLine1": "CASA",
+    "titleLine2": "TE AȘTEAPTĂ",
+    "tagline": "EFU Reality este formatul nostru de descoperire a talentelor în artele marțiale. O competiție de mai multe săptămâni în care concurenții sunt testați nu doar în cușcă, ci și în viața de zi cu zi — prin sarcini, provocări și confruntări reale.",
+    "statusPill": "Înscrierile se deschid în curând"
+  },
+  "house": {
+    "eyebrow": "Unde trăiește sezonul",
+    "title": "Casa",
+    "intro": "Pentru sezonul 2026, concurenții se mută în Casa EFU: un complex de antrenament și locuit complet echipat, sub supraveghere 24 de ore. Casa este mai mult decât cazare — este a doua scenă a show-ului: antrenamentele comune, discuțiile din bucătărie, alergările din zori și provocările casei fac parte din format.",
+    "zones": {
+      "nappali": {
+        "name": "Living",
+        "tagline": "Spațiu comun",
+        "desc": "Spațiul central al Casei. Aici au loc mesele comune, briefingurile juriului, anunțurile provocărilor casei și conversațiile neoficiale — cea mai mare parte a dramei se naște aici."
+      },
+      "konyha": {
+        "name": "Bucătărie",
+        "tagline": "Recuperare și tactică",
+        "desc": "Inima Casei. Meniul conceput de consultantul nutriționist și bucătar susține recuperarea și pregătirea pe tot parcursul sezonului. Gătitul împreună este un moment important de consolidare a echipei."
+      },
+      "halok": {
+        "name": "Dormitoare",
+        "tagline": "Zonă de odihnă",
+        "desc": "Dormitoare separate pentru femei și bărbați, cu dulapuri personale și camere montate pe tăblii. Timpul de odihnă este strict protejat — Casa este construită pentru pregătire echilibrată, nu pentru privare de somn."
+      },
+      "edzoterem": {
+        "name": "Sală de antrenament",
+        "tagline": "Două sesiuni pe zi",
+        "desc": "Echipament MMA complet: cușcă, saltele pentru lovire și grappling, saci de box, stații de forță, colț de recuperare. Mentorii pot folosi sala 24/7 — sesiunile de antrenament sunt obligatorii."
+      },
+      "kert": {
+        "name": "Grădină",
+        "tagline": "Antrenament în aer liber și aer curat",
+        "desc": "Suprafață de iarbă pentru sprint și rezistență, saună în aer liber, jacuzzi și o terasă deschisă pentru conversații comune. Grădina găzduiește și provocările în aer liber."
+      },
+      "egyeb": {
+        "name": "Alte încăperi",
+        "tagline": "Saună, fizio, medical",
+        "desc": "Saună și jacuzzi pentru recuperare, cameră dedicată de fizioterapie și masaj, și o încăpere medicală 24/7. Întreaga infrastructură a Casei susține pregătirea sigură și profesională."
+      }
+    }
+  },
+  "rules": {
+    "eyebrow": "Cum funcționează",
+    "title": "Reguli",
+    "intro": "EFU Reality se construiește pe propriul set de reguli EFU. În Casă și în cușcă se aplică aceleași principii: respect, siguranță, fair play.",
+    "items": [
+      {
+        "title": "Mutare și selecție",
+        "tagline": "Clasament în Casă",
+        "points": [
+          "Mentorii stabilesc clasamentul din Casă în 48 de ore de la mutare",
+          "Clasamentul inițial se bazează pe demonstrații, interviuri și teste fizice",
+          "Concurentul de pe ultima poziție în prima săptămână riscă eliminarea imediată"
+        ]
+      },
+      {
+        "title": "Provocări săptămânale",
+        "tagline": "Antrenament și vot",
+        "points": [
+          "La începutul fiecărei săptămâni mentorii anunță o provocare publică a Casei",
+          "Provoarea este obligatorie — fiecare concurent susține prestația în fața întregii Case",
+          "Juriul (mentori + 1 invitat) acordă puncte, votul din Casă completează clasamentul final"
+        ]
+      },
+      {
+        "title": "Confruntări în cușcă",
+        "tagline": "EFU Stand-Up și Hybrid",
+        "points": [
+          "Meciurile se desfășoară exclusiv conform setului de reguli EFU (Stand-Up sau Hybrid)",
+          "Control medical obligatoriu înainte de fiecare confruntare",
+          "În caz de dispută, decizia arbitrului este verificată cu fișele de scor din Casă"
+        ]
+      },
+      {
+        "title": "Eliminare și revenire",
+        "tagline": "Fără eliminare permanentă din Casă",
+        "points": [
+          "Concurentul de pe ultima poziție trebuie să susțină un duel în următorul meci",
+          "Câștigătorul duelului rămâne în Casă, mentorii pot oferi pierzătorului o șansă de revenire",
+          "Doar combinația dintre clasamentul din Casă și votul publicului poate duce pe cineva în finală"
+        ]
+      },
+      {
+        "title": "Conduită în Casă",
+        "tagline": "În fața și în spatele camerei",
+        "points": [
+          "Agresiunea, hărțuirea sau deteriorarea infrastructurii Casei duc la eliminare imediată",
+          "Consumul de alcool și substanțe este interzis — teste regulate pe tot parcursul sezonului",
+          "Protecția intimității: imaginile din dormitoare sunt accesibile doar echipei de producție"
+        ]
+      }
+    ]
+  },
+  "mentors": {
+    "eyebrow": "Echipa",
+    "title": "Mentori",
+    "intro": "Mentorii EFU Reality se numără printre cei mai respectați antrenori, foști campioni și psihologi sportivi din scena artelor marțiale din Europa Centrală. Locuiesc în Casă tot sezonul și se pregătesc cu concurenții pentru fiecare provocare.",
+    "members": [
+      {
+        "name": "István Kovács",
+        "role": "Mentor principal pentru luptă în picioare",
+        "bio": "Triplu campion al Ungariei, 18 ani de experiență internațională. Unul dintre creatorii setului de reguli EFU Stand-Up.",
+        "specialty": "Lovituri, lovituri de picior, tactică de punctare"
+      },
+      {
+        "name": "László Nagy",
+        "role": "Mentor de grappling",
+        "bio": "Curea neagră BJJ, fost campion european IBJJF. Conduce în Casă sesiunile de grappling limitat din setul de reguli Hybrid.",
+        "specialty": "Grappling, apărare la submisiuni, control al poziției"
+      },
+      {
+        "name": "Beatrix Tóth",
+        "role": "Psiholog sportiv și mentor mental",
+        "bio": "Psiholog sportiv și antrenor mental pentru numeroși atleți de echipă națională. Specializată în rezolvarea conflictelor, recuperare și gestionarea presiunii.",
+        "specialty": "Antrenament mental, rezolvarea conflictelor, recuperare"
+      },
+      {
+        "name": "Máté Varga",
+        "role": "Mentor de forță și condiționare",
+        "bio": "Antrenor de forță, fost jucător internațional de rugby. Responsabil cu pregătirea de sezon, protocoalele de recuperare și nutriția.",
+        "specialty": "Condiționare, recuperare, nutriție"
+      }
+    ]
+  },
+  "contestants": {
+    "eyebrow": "Participanții sezonului",
+    "title": "Concurenți",
+    "intro": "Identitățile concurenților din sezonul 2026 vor fi dezvăluite când se deschid ușile Casei. Până atunci, concurenții sunt reprezentați de siluete — toți pornesc în Casă cu șanse egale.",
+    "teaser": "La startul sezonului, siluetele vor fi înlocuite de chipuri și povești reale. Abonează-te ca să afli primul.",
+    "silhouettes": [
+      "Silueta #1 · Specialist în luptă în picioare",
+      "Silueta #2 · Specialist în grappling",
+      "Silueta #3 · All-rounder",
+      "Silueta #4 · All-rounder",
+      "Silueta #5 · Specialist în luptă în picioare",
+      "Silueta #6 · Specialist în grappling",
+      "Silueta #7 · Debutant",
+      "Silueta #8 · Debutant"
+    ],
+    "notifyMe": "Anunță-mă la dezvăluire"
+  },
+  "prize": {
+    "prelaunchBadge": "În curând…",
+    "prelaunchTitle": "Ce este în joc în acest sezon",
+    "prelaunchBody": "Structura exactă a premiilor EFU Reality va fi dezvăluită la deschiderea Casei. Abonează-te ca să fii primul care află.",
+    "launchMainTitle": "Premiul principal",
+    "launchMainAmount": "🏆 10.000.000 HUF",
+    "launchMainNote": "Câștigătorul sezonului primește un premiu principal de 10 milioane de forinți.",
+    "launchCareerTitle": "Oportunitate de carieră",
+    "launchCareerIntro": "EFU Realty nu este doar despre câștigător. Cei mai puternici concurenți pot primi șansa:",
+    "launchCareerBullets": [
+      "de a obține un contract de luptător EFU",
+      "de a apărea la evenimentele EFU Fight Night",
+      "de a primi expunere media semnificativă",
+      "de a participa la interviuri și conținut promoțional",
+      "de a construi un parteneriat pe termen lung în sistemul Elite Fight Universe"
+    ],
+    "swapNote": "Pre-lansare: „În curând…\". La lansare: 10 mil. HUF + contract de luptător EFU."
+  },
+  "applyCta": {
+    "title": "Poți fi următorul luptător EFU",
+    "body": "Aplică pentru sezonul 2026. Casa te așteaptă.",
+    "button": "Aplică ca luptător",
+    "buttonShort": "Aplică pentru Reality"
+  },
+  "footer": {
+    "disclaimer": "Regulamentul exact al Casei, componența juriului și formatul meciurilor sunt finalizate înainte de startul oficial al sezonului."
+  }
+}

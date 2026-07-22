@@ -1,0 +1,19 @@
+{
+  "appName": "EFU",
+  "appFullName": "Elite Fight Universe",
+  "tagline": "MMA Reality",
+  "loading": "Betöltés...",
+  "error": "Hiba történt",
+  "tryAgain": "Próbáld újra",
+  "back": "Vissza",
+  "close": "Bezárás",
+  "yes": "Igen",
+  "no": "Nem",
+  "buy": "Megveszem",
+  "currency": {
+    "huf": "Ft",
+    "eur": "€"
+  },
+  "language": "Nyelv",
+  "selectLanguage": "Válassz nyelvet"
+}

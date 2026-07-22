@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "EFU Reality · Dom",
+    "description": "EFU Reality je náš talentový formát bojových umení: Dom, Pravidlá, Mentori, Súťažiaci a Cena — všetko, čo potrebujete vedieť o sezóne 2026."
+  },
+  "hero": {
+    "eyebrow": "EFU Reality · sezóna 2026",
+    "titleLine1": "DOM",
+    "titleLine2": "ČAKÁ",
+    "tagline": "EFU Reality je náš talentový formát bojových umení. Viac-týždňová súťaž, v ktorej sú účastníci testovaní nielen v klietke, ale aj v každodennom živote — prostredníctvom úloh, výziev a skutočných stretnutí.",
+    "statusPill": "Prihlášky čoskoro"
+  },
+  "house": {
+    "eyebrow": "Kde žije sezóna",
+    "title": "Dom",
+    "intro": "Pre sezónu 2026 sa súťažiaci nasťahujú do EFU Domu: plne vybavený tréningový a obytný komplex pod 24-hodinovým dohľadom. Dom nie je len ubytovanie — je to druhá scéna šou: spoločné tréningy, kuchynské diskusie, ranné behy a domové výzvy sú všetko súčasťou formátu.",
+    "zones": {
+      "nappali": {
+        "name": "Obývačka",
+        "tagline": "Spoločný priestor",
+        "desc": "Centrálny priestor Domu. Hostí spoločné jedlá, porady poroty, oznámenia domových výziev a neformálne rozhovory — väčšina drámy sa rodí práve tu."
+      },
+      "konyha": {
+        "name": "Kuchyňa",
+        "tagline": "Regenerácia a taktika",
+        "desc": "Srdce Domu. Jedálniček zostavený výživovým poradcom a šéfkuchárom podporuje regeneráciu a celosezónnu prípravu. Spoločné varenie je dôležitým momentom budovania tímu."
+      },
+      "halok": {
+        "name": "Spálne",
+        "tagline": "Zóna oddychu",
+        "desc": "Oddelené dámske a pánske spálne s osobnými skrinkami a kamerami v čelách postelí. Oddychový čas je prísne chránený — Dom je postavený na vyváženej príprave, nie na spánkovej deprivácii."
+      },
+      "edzoterem": {
+        "name": "Posilňovňa",
+        "tagline": "Dva tréningy denne",
+        "desc": "Plné MMA vybavenie: klietka, žinenky na postoje a zem, ťažké vrecia, silové stanice, regeneračný kútik. Mentori môžu priestor využívať 24/7 — tréningy sú povinné."
+      },
+      "kert": {
+        "name": "Záhrada",
+        "tagline": "Tréning v exteriéri a čerstvý vzduch",
+        "desc": "Trávnatá plocha na šprint a vytrvalosť, vonkajšia sauna, vírivka a otvorená terasa na spoločné rozhovory. V záhrade sa konajú aj exteriérové výzvy."
+      },
+      "egyeb": {
+        "name": "Ďalšie miestnosti",
+        "tagline": "Sauna, fyzio, medicína",
+        "desc": "Sauna a vírivka na regeneráciu, vyhradená miestnosť na fyzioterapiu a masáže, a 24/7 medicínska miestnosť. Kompletná infraštruktúra Domu slúži bezpečnej, profesionálnej príprave."
+      }
+    }
+  },
+  "rules": {
+    "eyebrow": "Ako to funguje",
+    "title": "Pravidlá",
+    "intro": "EFU Reality stojí na vlastnom pravidlovom systéme EFU. V Dome aj v klietke platia rovnaké zásady: rešpekt, bezpečnosť, fair play.",
+    "items": [
+      {
+        "title": "Nasťahovanie a výber",
+        "tagline": "Domové poradie",
+        "points": [
+          "Mentori stanovia domové poradie do 48 hodín od nasťahovania",
+          "Počiatočné poradie vychádza z výkonov, pohovorov a fyzických testov",
+          "Najnižšie umiestnený účastník prvého týždňa čelí bezprostrednému vylúčeniu"
+        ]
+      },
+      {
+        "title": "Týždenné výzvy",
+        "tagline": "Tréning a hlasovanie",
+        "points": [
+          "Na začiatku každého týždňa mentori vyhlásia verejnú domovú výzvu",
+          "Výzva je povinná — každý účastník vystúpi pred celým Domom",
+          "Porota (mentori + 1 hosť) udeľuje body, domové hlasovanie dopĺňa konečné poradie"
+        ]
+      },
+      {
+        "title": "Stretnutia v klietke",
+        "tagline": "EFU Stand-Up a Hybrid",
+        "points": [
+          "Zápasy prebiehajú výlučne podľa pravidiel EFU (Stand-Up alebo Hybrid)",
+          "Pred každým stretnutím je povinná lekárska prehliadka",
+          "V sporných prípadoch sa rozhodnutie rozhodcu krížovo overí s domovými zápismi bodov"
+        ]
+      },
+      {
+        "title": "Vylúčenie a návrat",
+        "tagline": "Žiadne trvalé vylúčenie z Domu",
+        "points": [
+          "Najnižšie umiestnený účastník musí v nasledujúcom zápase absolvovať duel",
+          "Víťaz duelu zostáva v Dome, porazenému môžu mentori ponúknuť možnosť návratu",
+          "Do finále sa dostane iba kombinácia domového poradia a hlasovania publika"
+        ]
+      },
+      {
+        "title": "Správanie v Dome",
+        "tagline": "Pred kamerou i za ňou",
+        "points": [
+          "Agresia, obťažovanie alebo poškodzovanie infraštruktúry Domu vedie k okamžitému vylúčeniu",
+          "Alkohol a omamné látky sú zakázané — pravidelné testy počas celej sezóny",
+          "Ochrana súkromia: záznamy zo spální sú prístupné iba produkčnému tímu"
+        ]
+      }
+    ]
+  },
+  "mentors": {
+    "eyebrow": "Tím",
+    "title": "Mentori",
+    "intro": "Mentori EFU Reality patria k najrešpektovanejším trénerom, bývalým šampiónom a športovým psychológom stredoeurópskej scény bojových umení. Žijú v Dome celú sezónu a pripravujú sa s účastníkmi na každú výzvu.",
+    "members": [
+      {
+        "name": "István Kovács",
+        "role": "Hlavný mentor postoja",
+        "bio": "Trojnásobný majster Maďarska, 18 rokov medzinárodných skúseností. Jeden z autorov pravidiel EFU Stand-Up.",
+        "specialty": "Postoj, kopacie techniky, bodovacia taktika"
+      },
+      {
+        "name": "László Nagy",
+        "role": "Mentor grapplingu",
+        "bio": "Čierny pás BJJ, bývalý majster Európy IBJJF. Vedie v Dome limitované grapplingové tréningy v rámci pravidiel Hybrid.",
+        "specialty": "Grappling, obrana proti submisiám, kontrola pozície"
+      },
+      {
+        "name": "Beatrix Tóth",
+        "role": "Športová psychologička a mentálna mentorka",
+        "bio": "Športová psychologička a mentálna trénerka mnohých reprezentantov. Špecializuje sa na riešenie konfliktov, regeneráciu a zvládanie tlaku v Dome.",
+        "specialty": "Mentálny tréning, riešenie konfliktov, regenerácia"
+      },
+      {
+        "name": "Máté Varga",
+        "role": "Mentor sily a kondície",
+        "bio": "Silový tréner, bývalý medzinárodný hráč ragby. Zodpovedá za sezónnu prípravu, regeneračné protokoly a výživu.",
+        "specialty": "Kondícia, regenerácia, výživa"
+      }
+    ]
+  },
+  "contestants": {
+    "eyebrow": "Účastníci sezóny",
+    "title": "Súťažiaci",
+    "intro": "Identity súťažiacich sezóny 2026 budú odhalené, keď sa otvoria dvere Domu. Dovtedy súťažiacich zastupujú siluety — v Dome štartuje každý s rovnakými šancami.",
+    "teaser": "So začiatkom sezóny nahradia siluety skutočné tváre a skutočné príbehy. Prihláste sa a buďte medzi prvými, kto sa to dozvie.",
+    "silhouettes": [
+      "Silueta #1 · Špecialista na postoj",
+      "Silueta #2 · Špecialista na grappling",
+      "Silueta #3 · All-rounder",
+      "Silueta #4 · All-rounder",
+      "Silueta #5 · Špecialista na postoj",
+      "Silueta #6 · Špecialista na grappling",
+      "Silueta #7 · Nováčik",
+      "Silueta #8 · Nováčik"
+    ],
+    "notifyMe": "Upozorni ma na odhalenie"
+  },
+  "prize": {
+    "prelaunchBadge": "Už čoskoro…",
+    "prelaunchTitle": "Čo je v tejto sezóne v hre",
+    "prelaunchBody": "Presná štruktúra cien EFU Reality bude odhalená pri otvorení Domu. Prihláste sa, aby ste to vedeli medzi prvými.",
+    "launchMainTitle": "Hlavná cena",
+    "launchMainAmount": "🏆 10 000 000 Ft",
+    "launchMainNote": "Víťaz sezóny získa hlavnú cenu 10 miliónov forintov.",
+    "launchCareerTitle": "Kariérna príležitosť",
+    "launchCareerIntro": "EFU Reality nie je len o víťazovi. Najlepší súťažiaci môžu dostať príležitosť:",
+    "launchCareerBullets": [
+      "získať bojovnícku zmluvu EFU",
+      "objaviť sa na podujatiach EFU Fight Night",
+      "získať výrazné mediálne pokrytie",
+      "zúčastniť sa rozhovorov a propagačného obsahu",
+      "budovať dlhodobú spoluprácu v systéme Elite Fight Universe"
+    ],
+    "swapNote": "Pred spustením: „Už čoskoro…\". Pri spustení: 10 mil. Ft + bojovnícka zmluva EFU."
+  },
+  "applyCta": {
+    "title": "Môžeš byť ďalší bojovník EFU",
+    "body": "Prihlás sa do sezóny 2026. Dom čaká.",
+    "button": "Prihlás sa ako bojovník",
+    "buttonShort": "Prihlásiť sa do Reality"
+  },
+  "footer": {
+    "disclaimer": "Presné domové pravidlá, zloženie poroty a formát zápasov budú finalizované pred oficiálnym štartom sezóny."
+  }
+}

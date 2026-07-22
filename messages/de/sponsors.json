@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "title": "Sponsoren & Partner · EFU",
+    "description": "Die Sponsoren von Elite Fight Universe (EFU) stehen hinter unserer Kampfsport-Talentsuche und unserer Gala-Serie. Entdecke die Partnerschaftsstufen, Integrationsmöglichkeiten und den Kontakt."
+  },
+  "hero": {
+    "eyebrow": "EFU · Partnerschaft",
+    "title": "Sponsoren & Partner",
+    "subtitle": "Elite Fight Universe ist stolz auf seine Partner",
+    "intro": "Die EFU-Partnerschaftsstufen wurden entwickelt, um Sponsoren maßgeschneiderte Sichtbarkeit auf Galas, in Übertragungen und auf unseren digitalen Plattformen zu bieten. Jede Stufe enthält dedizierte Aktivierungen und Sichtbarkeitspakete."
+  },
+  "why": {
+    "eyebrow": "Warum EFU?",
+    "title": "Eine Plattform, drei Formate, neun Märkte",
+    "intro": "EFU betreibt parallel ein Reality-Format, eine Gala-Serie und eine digitale Plattform. Sponsoren steigen nicht nur in eine einzelne Veranstaltung ein — sie werden Teil eines ganzjährigen, integrierten Kommunikations-Ökosystems.",
+    "audience": {
+      "title": "Unsere Zielgruppe",
+      "items": [
+        "Männer und Frauen zwischen 18 und 45 Jahren, die Kampfsport aktiv verfolgen",
+        "Mitteleuropäische Reichweite: Ungarn, Slowakei, Rumänien, Kroatien, Serbien, Slowenien, Deutschland",
+        "Fitnessstudio-Besucher, Sportler, Kampfsport-Fans",
+        "Konsumenten von Reality- und Entertainment-Inhalten",
+        "Mehrsprachiges Publikum — die Plattform ist in 9 Sprachen verfügbar"
+      ]
+    },
+    "values": {
+      "title": "Markenwerte",
+      "items": [
+        "Leistung und Wettkampf — wir transportieren den Geist des Sports",
+        "Community — wir verbinden Sportler, Fans und Partner",
+        "Professionalität — Produktion auf internationalem Niveau",
+        "Integrität — transparente Partnerschaften, klare Regeln"
+      ]
+    },
+    "formats": {
+      "title": "Content-Formate",
+      "items": [
+        "EFU Reality — mehrwöchiger Talent-Wettbewerb mit Episoden, Backstage und Challenges",
+        "EFU Fight Night — Gala-Serie, Ranking-Kämpfe und Meisterschaften",
+        "EFU TV — Live-Übertragungen, Interviews, Behind-the-Scenes und Kurzformate"
+      ]
+    }
+  },
+  "tiers": {
+    "title": "Partnerschaftsstufen",
+    "subtitle": "Wähle die Stufe, die zu deiner Marke passt. Für individuelle Pakete und Preise kontaktiere uns über die Kontaktseite — wir senden dir ein maßgeschneidertes Angebot.",
+    "currencyNote": "Preise sind Richtwerte — jedes Paket ist anpassbar.",
+    "bronze": {
+      "name": "Bronze",
+      "tagline": "Sichtbarkeit auf unseren digitalen Flächen",
+      "price": "Einstiegs-Level",
+      "features": [
+        "Logo-Platzierung auf der EFU-Sponsoren-Seite",
+        "Footer-Erwähnung in Social-Media-Posts (1–2 Mal pro Monat)",
+        "Dank im Reality-Abspann",
+        "Zugang zum EFU-Sponsor-Newsletter"
+      ],
+      "cta": "Bronze-Paket anfragen"
+    },
+    "silver": {
+      "name": "Silber",
+      "tagline": "Digitale Präsenz + Abspann",
+      "price": "Mittleres Level",
+      "features": [
+        "Alles aus dem Bronze-Paket",
+        "Logo im Abspann der EFU Fight Night-Übertragungen",
+        "Kurzer Pre-Roll-Spot vor Reality-Episoden (1 pro Monat)",
+        "Recht zur Nutzung eines Branded Hashtags",
+        "Kurzes Interview / Erwähnung in EFU TV"
+      ],
+      "cta": "Silber-Paket anfragen"
+    },
+    "gold": {
+      "name": "Gold",
+      "tagline": "Gala- + Reality-Präsenz",
+      "price": "Fortgeschritten",
+      "features": [
+        "Alles aus dem Silber-Paket",
+        "Logo auf der Ring-Side-Matte und dem Fight-Card-Plakat",
+        "Eigene gebrandete Zone in der Fight Night-Location",
+        "Produktprobe / Display am Aktivierungsstand vor Ort",
+        "4 Tickets für eine EFU Fight Night-Gala"
+      ],
+      "cta": "Gold-Paket anfragen"
+    },
+    "reality": {
+      "name": "Reality-Integration",
+      "tagline": "Deine Marke zieht ins Reality-Haus",
+      "price": "Premium",
+      "features": [
+        "Product Placement im Reality-Haus",
+        "Branded Zone im Reality-Haus (z. B. Trainings-Ecke, Regenerationsbereich, Kücheninsel)",
+        "Sponsor-kuratierte Challenge für die Kandidaten",
+        "Logo im Reality-Abspann mit Episoden-Erwähnungen",
+        "Exklusive Social-Media-Aktivierung auf den Markenkanälen"
+      ],
+      "cta": "Reality-Integration besprechen"
+    },
+    "fightNight": {
+      "name": "Fight Night-Integration",
+      "tagline": "Deine Marke am Ring",
+      "price": "Premium",
+      "features": [
+        "Ring-Side-Branded-Placement (Matte, Apron, Ecke)",
+        "Sponsorierte Fight Card (Title-Sponsor oder Card-Sponsor-Level)",
+        "Replay-Sponsorship — gebrandeter Bumper bei Wiederholungen",
+        "Dedizierte Kommentatoren-Erwähnungen während der Fight Night-Übertragung",
+        "Teilnahme an der gesamten Fight Night-Saison (3–4 Galas)"
+      ],
+      "cta": "Fight Night-Integration besprechen"
+    }
+  },
+  "integrations": {
+    "title": "Integrationsmöglichkeiten",
+    "subtitle": "Zwei Hauptintegrationsrichtungen — Reality und Fight Night — die auch kombiniert werden können.",
+    "realityTitle": "EFU Reality-Integration",
+    "realityItems": [
+      {
+        "icon": "🏠",
+        "title": "Product Placement im Reality-Haus",
+        "body": "Deine Produkte tauchen natürlich im Alltag des Reality-Hauses auf — von der Küchentheke bis zum Gym."
+      },
+      {
+        "icon": "🎯",
+        "title": "Branded Zonen",
+        "body": "Deine eigene Marken-Ecke im Haus: Trainingsmatte, Regenerationszone, Chill-out-Ecke — oder was immer zu deiner Marke passt."
+      },
+      {
+        "icon": "🏆",
+        "title": "Sponsor-kuratierte Challenges",
+        "body": "Die Kandidaten messen sich in deiner Challenge — die beste Leistung ist mit deinem Namen verbunden."
+      },
+      {
+        "icon": "📺",
+        "title": "Episoden-Erwähnungen + Abspann",
+        "body": "Dein Logo erscheint in jeder Episode, mit einer Kommentatoren-Erwähnung vor dem entsprechenden Segment."
+      }
+    ],
+    "fightNightTitle": "EFU Fight Night-Integration",
+    "fightNightItems": [
+      {
+        "icon": "🥊",
+        "title": "Ring-Side-Placement",
+        "body": "Logo auf Ring-Apron, Canvas und Ecke — die Kamera sieht es immer, das Publikum liest es immer."
+      },
+      {
+        "icon": "🎫",
+        "title": "Sponsorierte Fight Card",
+        "body": "Eine ganze Fight Card trägt deinen Namen — von den Teasern bis zum Sieger-Interview."
+      },
+      {
+        "icon": "🔁",
+        "title": "Replay-Sponsorship",
+        "body": "Branded Bumper bei Wiederholungen und Analyse-Segmenten — Premium-Aufmerksamkeit in den Schlüsselmomenten."
+      },
+      {
+        "icon": "🎙️",
+        "title": "Kommentatoren-Erwähnungen",
+        "body": "Dedizierte Segmente über deine Marke während der gesamten Übertragung — in der Stimme der Experten, im Geist von Fight Night."
+      }
+    ]
+  },
+  "logos": {
+    "title": "Unsere Partner",
+    "subtitle": "Sobald die ersten drei Sponsoren unterschrieben haben, erscheinen ihre Logos hier. Vorerst Platzhalter.",
+    "placeholderNote": "Die Logo-Wand füllt sich, sobald die ersten drei Sponsoren unterschrieben haben."
+  },
+  "contactCta": {
+    "title": "Werde Teil der EFU-Partnerfamilie",
+    "body": "Fordere ein maßgeschneidertes Angebot an und lass uns besprechen, wie deine Marke ins EFU-Ökosystem passt.",
+    "primary": "Kontakt aufnehmen",
+    "secondary": "Zurück zur Startseite"
+  }
+}

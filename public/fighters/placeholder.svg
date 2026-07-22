@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1a1a"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <radialGradient id="spot" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#DC2626" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#DC2626" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#g)"/>
+  <rect width="600" height="800" fill="url(#spot)"/>
+  <g fill="none" stroke="#DC2626" stroke-width="3" opacity="0.55">
+    <rect x="40" y="40" width="520" height="720" rx="12"/>
+  </g>
+  <text x="300" y="380" text-anchor="middle" fill="#F59E0B"
+        font-family="Impact, Arial Black, sans-serif" font-size="120" font-weight="900">
+    EFU
+  </text>
+  <text x="300" y="450" text-anchor="middle" fill="#9CA3AF"
+        font-family="Impact, Arial Black, sans-serif" font-size="36" letter-spacing="6">
+    FIGHTER
+  </text>
+  <text x="300" y="500" text-anchor="middle" fill="#6B7280"
+        font-family="sans-serif" font-size="18" letter-spacing="2">
+    Photo placeholder
+  </text>
+  <text x="300" y="730" text-anchor="middle" fill="#374151"
+        font-family="sans-serif" font-size="14" letter-spacing="3">
+    ELITE FIGHT UNIVERSE
+  </text>
+</svg>

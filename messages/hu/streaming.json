@@ -1,0 +1,38 @@
+{
+  "title": "Élő közvetítés",
+  "subtitle": "Nézd élőben az EFU eseményeit — bárhol, bármikor.",
+  "watchNow": "Nézd most",
+  "preview": "Előzetes megtekintése",
+  "subscribe": "Bérlet vásárlása",
+  "loginRequired": "A közvetítés megtekintéséhez bérlet szükséges",
+  "loginCta": "Bérlet kérése",
+  "previewNote": "Ez egy ingyenes előzetes. A teljes közvetítéshez bérlet szükséges.",
+  "loading": "Stream betöltése...",
+  "noStream": "Jelenleg nincs élő közvetítés",
+  "ended": "A közvetítés véget ért",
+  "startingSoon": "Hamarosan kezdődik",
+  "quality": {
+    "auto": "Automatikus",
+    "1080p": "Full HD (1080p)",
+    "720p": "HD (720p)",
+    "480p": "SD (480p)"
+  },
+  "checkout": {
+    "title": "Fizetés",
+    "subtitle": "Egyszeri fizetés — egész éves hozzáférés",
+    "amount": "2 500 Ft",
+    "methods": "Fizetési módok",
+    "card": "Bankkártya",
+    "applePay": "Apple Pay",
+    "googlePay": "Google Pay",
+    "processing": "Fizetés feldolgozása...",
+    "success": "Sikeres fizetés",
+    "successTitle": "SIKERES VÁSÁRLÁS!",
+    "successMessage": "Köszönjük a bérleted! Most már hozzáférsz az EFU minden élő és visszanézhető tartalmához."
+  },
+  "errors": {
+    "streamUnavailable": "A stream jelenleg nem elérhető",
+    "tokenMissing": "Érvénytelen hozzáférés",
+    "networkError": "Hálózati hiba — próbáld újra"
+  }
+}

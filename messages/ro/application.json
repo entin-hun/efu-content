@@ -1,0 +1,104 @@
+{
+  "homeHero": {
+    "eyebrow": "EFU Reality · sezonul 2026",
+    "venue": "Arena Budapesta",
+    "datetime": "17 iulie 2026 · 15:00 CET",
+    "tagline": "O șansă nouă pentru luptători, un nivel nou pentru fani — în direct și la cerere.",
+    "prize": "EFU Reality — marele premiu 10.000.000 HUF",
+    "countdownLabel": "Timp rămas până la start",
+    "ctaWatch": "Urmărește în direct",
+    "ctaReality": "Descoperă EFU Reality",
+    "ctaApply": "Aplică ca luptător",
+    "ctaFightNight": "Următorul Fight Night",
+    "ctaWatchAria": "Pornește transmisiunea live",
+    "playLiveHint": "Apasă pentru a porni transmisiunea în direct",
+    "liveLabel": "LIVE",
+    "channelHandle": "@EliteFightUniverse",
+    "scrollHint": "Derulează în jos"
+  },
+  "social": {
+    "heading": "Urmărește-ne",
+    "youtube": "YouTube",
+    "twitch": "Twitch",
+    "kick": "Kick",
+    "tiktok": "TikTok",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "x": "X (fostul Twitter)",
+    "dazn": "DAZN"
+  },
+  "hero": {
+    "eyebrow": "EFU Reality · 2026",
+    "title": "Aplică ca luptător",
+    "body": "Elite Fight Universe (EFU) Reality construiește noua generație de luptători EFU.\nPregătire profesionistă, expunere media, loc pe EFU Fight Night și marele premiu de 10.000.000 HUF te așteaptă.\nCompletează formularul — aplică acum!"
+  },
+  "perk": {
+    "training": { "title": "Pregătire profesionistă", "sub": "Echipa de antrenori EFU" },
+    "media": { "title": "Expunere media", "sub": "EFU TV + Fight Night" },
+    "prize": { "title": "10.000.000 HUF", "sub": "Marele premiu + contract" }
+  },
+  "field": {
+    "name": { "label": "Nume" },
+    "age": { "label": "Vârstă" },
+    "city": { "label": "Oraș" },
+    "testSuly": {
+      "label": "Categorie de greutate",
+      "placeholder": "Alege o categorie…"
+    },
+    "sportMult": {
+      "label": "Experiență sportivă",
+      "placeholder": "Ex. 5 ani MMA, 3 ani box, turnee anterioare…"
+    },
+    "motivation": {
+      "label": "Motivație",
+      "placeholder": "De ce vrei să participi la EFU Reality? (min. 20 caractere)"
+    },
+    "videoOrSocialUrl": {
+      "label": "Link video sau social",
+      "hint": "YouTube, Instagram, TikTok, Facebook sau Vimeo"
+    },
+    "contact": {
+      "label": "Contact",
+      "hint": "Email sau telefon — te contactăm noi",
+      "placeholder": "tu@exemplu.ro sau +40 …"
+    }
+  },
+  "gdpr": {
+    "consent": "Sunt de acord ca Elite Fight Universe (EFU) să prelucreze datele cu caracter personal furnizate de mine în scopul evaluării candidaturii și contactării mele. Temeiul legal este articolul 6 alineatul (1) litera (a) din GDPR (consimțământ voluntar). EFU tratează datele în mod confidențial și nu le transmite terților.",
+    "acceptedAt": "Consimțământ înregistrat ✓"
+  },
+  "submit": {
+    "label": "Trimite candidatura",
+    "sending": "Se trimite…"
+  },
+  "success": {
+    "title": "Candidatura ta a fost primită!",
+    "body": "Mulțumim! Echipa noastră va analiza candidatura și te va contacta prin datele furnizate.",
+    "another": "Trimite altă candidatură"
+  },
+  "error": {
+    "summary": "Corectează câmpurile evidențiate cu roșu și încearcă din nou.",
+    "network": "Eroare de rețea — te rugăm încearcă din nou.",
+    "name.too_short": "Numele trebuie să aibă cel puțin 2 caractere.",
+    "name.too_long": "Numele poate avea cel mult 80 caractere.",
+    "age.invalid_number": "Introdu o vârstă validă.",
+    "age.out_of_range": "Vârsta trebuie să fie între 16 și 60.",
+    "city.too_short": "Orașul trebuie să aibă cel puțin 2 caractere.",
+    "city.too_long": "Orașul poate avea cel mult 80 caractere.",
+    "testSuly.required": "Alege o categorie de greutate.",
+    "sportMult.required": "Descrie experiența ta sportivă.",
+    "sportMult.too_long": "Experiența sportivă poate avea cel mult 500 caractere.",
+    "motivation.too_short": "Motivația trebuie să aibă cel puțin 20 caractere.",
+    "motivation.too_long": "Motivația poate avea cel mult 1500 caractere.",
+    "videoOrSocialUrl.required": "Adaugă un link video sau social.",
+    "videoOrSocialUrl.too_long": "Linkul poate avea cel mult 500 caractere.",
+    "videoOrSocialUrl.invalid": "Acceptăm doar linkuri YouTube, Instagram, TikTok, Facebook sau Vimeo.",
+    "contact.invalid": "Introdu un email sau telefon valid.",
+    "contact.too_long": "Contactul poate avea cel mult 120 caractere.",
+    "gdprConsent.required": "Consimțământul GDPR este obligatoriu.",
+    "turnstile_failed": "Verificarea anti-bot a eșuat — reîncarcă pagina."
+  },
+  "form": {
+    "disclaimer": "EFU folosește datele tale exclusiv pentru procesarea candidaturii. Poți retrage consimțământul GDPR oricând."
+  }
+}

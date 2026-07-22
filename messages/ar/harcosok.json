@@ -1,0 +1,106 @@
+{
+  "listing": {
+    "title": "المقاتلون",
+    "subtitle": "تعرّف على مقاتلي EFU Reality و Fight Night — قصصهم ومسيرتهم وسجلّهم.",
+    "empty": "لا يوجد مقاتلون منشورون بعد. قريباً.",
+    "viewProfile": "عرض الملف",
+    "fightRecord": "السجل",
+    "path": "مسار EFU",
+    "filter": {
+      "label": "تصفية",
+      "all": "الكل",
+      "reality": "Reality",
+      "fight_night": "Fight Night",
+      "pro": "محترف"
+    }
+  },
+  "profile": {
+    "intro": "مقدمة",
+    "story": "القصة",
+    "efuPath": "مسار EFU",
+    "efuPathTeaser": "من أين بدأت",
+    "record": "السجل",
+    "recordShort": "ف-خ-ت",
+    "videos": "الفيديوهات",
+    "videosEmpty": "لا توجد فيديوهات لهذا المقاتل بعد.",
+    "fightHistory": "المباريات",
+    "fightHistoryEmpty": "لا يوجد سجل مباريات متاح.",
+    "bio": {
+      "born": "تاريخ الميلاد",
+      "country": "البلد",
+      "hometown": "المدينة",
+      "gym": "النادي",
+      "weightClass": "فئة الوزن",
+      "stance": "الوقفة",
+      "height": "الطول",
+      "reach": "المدى"
+    },
+    "stats": {
+      "wins": "انتصارات",
+      "losses": "هزائم",
+      "draws": "تعادلات",
+      "kos": "ضربة قاضية",
+      "submissions": "استسلام"
+    },
+    "notFound": "لم يتم العثور على هذا المقاتل.",
+    "backToListing": "العودة إلى المقاتلين",
+    "share": "مشاركة",
+    "stages": {
+      "reality": "EFU Reality",
+      "fight_night": "EFU Fight Night",
+      "pro": "مسيرة المحترفين"
+    }
+  },
+  "admin": {
+    "nav": "المقاتلون (المسؤول)",
+    "title": "إدارة المقاتلين",
+    "newFighter": "مقاتل جديد",
+    "editFighter": "تعديل المقاتل",
+    "deleteFighter": "حذف المقاتل",
+    "deleteConfirm": "هل أنت متأكد من حذف هذا المقاتل؟",
+    "fields": {
+      "slug": "معرّف URL",
+      "name": "الاسم",
+      "nickname": "اللقب",
+      "country": "البلد (مثال: 🇭🇺 HU)",
+      "intro": "مقدمة (قصيرة)",
+      "story": "القصة (طويلة، HTML)",
+      "weightClass": "فئة الوزن",
+      "hometown": "المدينة",
+      "gym": "النادي",
+      "dob": "تاريخ الميلاد",
+      "heightCm": "الطول (سم)",
+      "reachCm": "المدى (سم)",
+      "stance": "الوقفة",
+      "photo": "الصورة",
+      "photoUpload": "رفع صورة",
+      "photoHint": "JPG/PNG، حتى 4 ميجابايت",
+      "recordWins": "انتصارات",
+      "recordLosses": "هزائم",
+      "recordDraws": "تعادلات",
+      "recordKos": "ضربة قاضية",
+      "recordSubmissions": "استسلام",
+      "efuPath": "مسار EFU (سطر لكل عنصر: التاريخ | المرحلة | العنوان)",
+      "videos": "الفيديوهات (سطر لكل عنصر: youtube|mp4 | URL | العنوان)",
+      "published": "منشور",
+      "sortOrder": "الترتيب"
+    },
+    "actions": {
+      "save": "حفظ",
+      "cancel": "إلغاء",
+      "delete": "حذف",
+      "upload": "رفع"
+    },
+    "messages": {
+      "saved": "تم حفظ المقاتل.",
+      "deleted": "تم حذف المقاتل.",
+      "slugExists": "معرّف URL مستخدم بالفعل.",
+      "invalid": "بيانات غير صالحة، يرجى التحقق من الحقول."
+    }
+  },
+  "common": {
+    "language": "اللغة",
+    "loading": "جارٍ التحميل...",
+    "error": "حدث خطأ ما."
+  }
+}

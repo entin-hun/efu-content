@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "EFU Reality · The House",
+    "description": "EFU Reality is our martial-arts talent-search format: the House, the Rules, the Mentors, the Contestants, and the Prize — everything you need to know about the 2026 season."
+  },
+  "hero": {
+    "eyebrow": "EFU Reality · 2026 season",
+    "titleLine1": "THE HOUSE",
+    "titleLine2": "AWAITS",
+    "tagline": "EFU Reality is our martial-arts talent-search format. A multi-week competition where contestants are tested in the cage and in everyday life — through challenges, tasks, and real confrontations.",
+    "statusPill": "Applications opening soon"
+  },
+  "house": {
+    "eyebrow": "Where the season lives",
+    "title": "The House",
+    "intro": "For the 2026 season, contestants move into the EFU House: a fully equipped training and living complex under 24-hour observation. The House is more than accommodation — it is the show's second stage: shared training, kitchen arguments, dawn runs, and house challenges are all part of the format.",
+    "zones": {
+      "nappali": {
+        "name": "Living Room",
+        "tagline": "Communal space",
+        "desc": "The central space of the House. It hosts shared meals, jury briefings, house-challenge announcements, and off-the-record conversations — most of the drama is born here."
+      },
+      "konyha": {
+        "name": "Kitchen",
+        "tagline": "Recovery and tactics",
+        "desc": "The heart of the House. The menu designed by the nutrition advisor and the chef supports regeneration and season-long preparation. Cooking together is a key team-building moment."
+      },
+      "halok": {
+        "name": "Bedrooms",
+        "tagline": "Recovery zone",
+        "desc": "Separate male and female bedrooms with personal lockers and headboard-mounted cameras. Rest time is strictly protected — the House is built for balanced preparation, not sleep deprivation."
+      },
+      "edzoterem": {
+        "name": "Gym",
+        "tagline": "Two sessions a day",
+        "desc": "Full MMA equipment: cage, striking and grappling mats, heavy bags, strength stations, recovery corner. Mentors can use the space 24/7 — training sessions are mandatory."
+      },
+      "kert": {
+        "name": "Garden",
+        "tagline": "Outdoor training and fresh air",
+        "desc": "Grass pitch for sprint and endurance work, outdoor sauna, hot tub, and an open terrace for shared conversations. The garden also hosts outdoor challenges."
+      },
+      "egyeb": {
+        "name": "Other rooms",
+        "tagline": "Sauna, physio, medical",
+        "desc": "Sauna and hot tub for recovery, dedicated physio and massage room, and a 24/7 medical bay. The full House infrastructure exists to support safe, professional preparation."
+      }
+    }
+  },
+  "rules": {
+    "eyebrow": "How it works",
+    "title": "Rules",
+    "intro": "EFU Reality is built on EFU's own rule set. The same core principles apply in the House and in the cage: respect, safety, fair play.",
+    "items": [
+      {
+        "title": "Move-in and selection",
+        "tagline": "In-House ranking",
+        "points": [
+          "Mentors set the in-House ranking within 48 hours of move-in",
+          "The initial ranking is based on performance showcases, interviews, and physical tests",
+          "Lowest-ranked contestant of week one faces immediate elimination"
+        ]
+      },
+      {
+        "title": "Weekly challenges",
+        "tagline": "Training and voting",
+        "points": [
+          "At the start of each week mentors announce a public house challenge",
+          "The challenge is mandatory — every contestant performs in front of the full House",
+          "The jury (mentors + 1 guest) scores; an in-House vote supplements the final ranking"
+        ]
+      },
+      {
+        "title": "Cage matchups",
+        "tagline": "EFU Stand-Up and Hybrid",
+        "points": [
+          "Matches follow the EFU Ruleset (Stand-Up or Hybrid) only",
+          "Mandatory medical check before every matchup",
+          "In case of dispute, the referee's decision is cross-checked with in-House scorecards"
+        ]
+      },
+      {
+        "title": "Elimination and return",
+        "tagline": "No permanent House elimination",
+        "points": [
+          "The lowest-ranked contestant must fight a duel in the next match",
+          "The duel's winner stays in the House; the loser may be offered a return slot by the mentors",
+          "Only an aggregate of in-House ranking and audience votes can place someone in the final"
+        ]
+      },
+      {
+        "title": "House conduct",
+        "tagline": "On camera and off",
+        "points": [
+          "Aggression, harassment, or damage to the House infrastructure leads to immediate removal",
+          "Alcohol and substance use are banned — regular testing throughout the season",
+          "Privacy protection: bedroom camera feeds are accessible only to the production crew"
+        ]
+      }
+    ]
+  },
+  "mentors": {
+    "eyebrow": "The staff",
+    "title": "Mentors",
+    "intro": "EFU Reality's mentors are among the most respected coaches, former champions, and sport psychologists of the Central-European fight scene. They live in the House for the entire season and prepare with the contestants for every challenge.",
+    "members": [
+      {
+        "name": "István Kovács",
+        "role": "Head striking mentor",
+        "bio": "Three-time Hungarian champion with 18 years of international experience. One of the architects of the EFU Stand-Up rule set.",
+        "specialty": "Striking, leg kicks, scoring tactics"
+      },
+      {
+        "name": "László Nagy",
+        "role": "Grappling mentor",
+        "bio": "BJJ black belt, former IBJJF European champion. Leads the limited-grappling sessions of the Hybrid rule set in the House.",
+        "specialty": "Grappling, submission defense, position control"
+      },
+      {
+        "name": "Beatrix Tóth",
+        "role": "Sport psychologist and mental mentor",
+        "bio": "Sport psychologist and mental coach for numerous national-team athletes. Specializes in conflict resolution, recovery, and pressure handling in the House.",
+        "specialty": "Mental training, conflict resolution, recovery"
+      },
+      {
+        "name": "Máté Varga",
+        "role": "Strength and conditioning mentor",
+        "bio": "Strength coach and former international rugby player. Responsible for season preparation, recovery protocols, and nutrition.",
+        "specialty": "Conditioning, recovery, nutrition"
+      }
+    ]
+  },
+  "contestants": {
+    "eyebrow": "Season participants",
+    "title": "Contestants",
+    "intro": "The identities of the 2026 season contestants will be revealed when the House doors open. Until then, contestants are represented by silhouettes — everyone in the House starts on equal footing.",
+    "teaser": "When the season opens, real faces and real stories replace the silhouettes. Subscribe to be the first to know.",
+    "silhouettes": [
+      "Silhouette #1 · Striking specialist",
+      "Silhouette #2 · Grappling specialist",
+      "Silhouette #3 · All-rounder",
+      "Silhouette #4 · All-rounder",
+      "Silhouette #5 · Striking specialist",
+      "Silhouette #6 · Grappling specialist",
+      "Silhouette #7 · Rookie",
+      "Silhouette #8 · Rookie"
+    ],
+    "notifyMe": "Notify me when contestants are revealed"
+  },
+  "prize": {
+    "prelaunchBadge": "Coming soon…",
+    "prelaunchTitle": "What's at stake this season",
+    "prelaunchBody": "EFU Reality's exact prize structure will be revealed when the House opens. Subscribe to be the first to know.",
+    "launchMainTitle": "Main prize",
+    "launchMainAmount": "🏆 HUF 10,000,000",
+    "launchMainNote": "The season's winner receives a 10-million-forint main prize.",
+    "launchCareerTitle": "Career opportunity",
+    "launchCareerIntro": "EFU Reality is about more than the winner. The strongest contestants may receive the chance to:",
+    "launchCareerBullets": [
+      "earn an EFU fighter contract",
+      "appear at EFU Fight Night events",
+      "receive major media exposure",
+      "participate in interviews and promotional content",
+      "build a long-term partnership inside the Elite Fight Universe system"
+    ],
+    "swapNote": "Pre-launch: \"Coming soon…\". At launch: HUF 10M + EFU fighter contract."
+  },
+  "applyCta": {
+    "title": "You could be the next EFU fighter",
+    "body": "Apply for the 2026 season. The House is waiting.",
+    "button": "Apply as a fighter",
+    "buttonShort": "Apply for Reality"
+  },
+  "footer": {
+    "disclaimer": "The exact House regulations, jury composition, and match formats are finalised before the official season start."
+  }
+}

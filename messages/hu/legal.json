@@ -1,0 +1,23 @@
+{
+  "title": "Jogi nyilatkozatok",
+  "subtitle": "Az EFU általános szerződési feltételei és adatkezelési tájékoztatója",
+  "sections": {
+    "terms": "Általános Szerződési Feltételek",
+    "privacy": "Adatkezelési tájékoztató",
+    "cookies": "Cookie szabályzat",
+    "impressum": "Impresszum",
+    "refund": "Visszatérítési szabályzat",
+    "codeOfConduct": "Magatartási kódex",
+    "rental": "Bérleti feltételek",
+    "liability": "Felelősségi nyilatkozat"
+  },
+  "lastUpdated": "Utoljára frissítve:",
+  "tableOfContents": "Tartalom",
+  "cookieConsent": {
+    "title": "Cookie-k használata",
+    "body": "Ez a weboldal cookie-kat használ a felhasználói élmény javítása érdekében. A folytatással elfogadod a cookie-k használatát.",
+    "accept": "Elfogadom",
+    "decline": "Elutasítom",
+    "settings": "Beállítások"
+  }
+}

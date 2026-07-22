@@ -1,0 +1,149 @@
+'use client';
+
+import { useState } from 'react';
+import { useRouter, useSearchParams } from 'next/navigation';
+
+const SECRET_KEY = 'epw@qxz_gze-emj0BHR';
+
+const ROLES = [
+  { id: 'Rendszeradminisztrator', name: 'Rendszeradminisztrátor', color: 'red', icon: '👑' },
+  { id: 'Producer', name: 'Producer', color: 'gold', icon: '🎬' },
+  { id: 'Reality_szerkeszto', name: 'Reality szerkesztő', color: 'blue', icon: '📺' },
+  { id: 'Tartalomkeszito', name: 'Tartalomkészítő', color: 'green', icon: '✍️' },
+  { id: 'Marketing', name: 'Marketing', color: 'purple', icon: '📢' },
+  { id: 'Moderator', name: 'Moderátor', color: 'gray', icon: '🛡️' },
+];
+
+export default function AdminLoginPage() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const [selectedRole, setSelectedRole] = useState<string | null>(null);
+  const [showInstructions, setShowInstructions] = useState(false);
+
+  // Titkos query paraméter ellenőrzés
+  const objectParam = searchParams.get('object');
+  if (objectParam !== SECRET_KEY) {
+    return (
+      <div className="min-h-screen bg-brand-dark flex items-center justify-center">
+        <div className="text-center">
+          <h1 className="text-6xl font-black text-brand-red mb-4">404</h1>
+          <p className="text-gray-400 text-lg">Page not found</p>
+        </div>
+      </div>
+    );
+  }
+
+  const handleLogin = () => {
+    if (!selectedRole) return;
+    
+    // Cookie beállítása
+    document.cookie = `efu_role=${selectedRole}; path=/; max-age=${60 * 60 * 24 * 30}; SameSite=Lax`;
+    
+    // Visszairányítás az admin oldalra
+    router.push('/admin');
+  };
+
+  const getCookieCommand = (roleId: string) => {
+    return `document.cookie = "efu_role=${roleId}; path=/; max-age=${60 * 60 * 24 * 30}; SameSite=Lax"`;
+  };
+
+  return (
+    <div className="min-h-screen bg-brand-dark flex items-center justify-center p-4">
+      <div className="max-w-2xl w-full">
+        {/* Header */}
+        <div className="text-center mb-8">
+          <h1 className="text-4xl sm:text-5xl font-black uppercase text-white mb-3" style={{ fontFamily: 'Impact, Arial Black, sans-serif' }}>
+            Admin Belépés
+          </h1>
+          <p className="text-gray-400 text-sm sm:text-base">
+            Válaszd ki a szerepkörödet a belépéshez
+          </p>
+        </div>
+
+        {/* Role Selection */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
+          {ROLES.map((role) => (
+            <button
+              key={role.id}
+              onClick={() => setSelectedRole(role.id)}
+              className={`p-4 rounded-xl border-2 transition-all duration-200 text-left ${
+                selectedRole === role.id
+                  ? 'border-brand-red bg-brand-red/10'
+                  : 'border-brand-dark-border bg-brand-dark-muted hover:border-gray-600'
+              }`}
+            >
+              <div className="flex items-start gap-3">
+                <span className="text-3xl">{role.icon}</span>
+                <div className="flex-1">
+                  <h3 className="text-white font-bold text-lg mb-1">{role.name}</h3>
+                  <p className="text-gray-500 text-xs">
+                    {role.id === 'Rendszeradminisztrator' && 'Teljes hozzáférés'}
+                    {role.id === 'Producer' && 'Fight Night + Reality'}
+                    {role.id === 'Reality_szerkeszto' && 'Csak Reality tartalmak'}
+                    {role.id === 'Tartalomkeszito' && 'Általános tartalom'}
+                    {role.id === 'Marketing' && 'Marketing anyagok'}
+                    {role.id === 'Moderator' && 'Felhasználók moderálása'}
+                  </p>
+                </div>
+                {selectedRole === role.id && (
+                  <span className="text-brand-red text-2xl">✓</span>
+                )}
+              </div>
+            </button>
+          ))}
+        </div>
+
+        {/* Login Button */}
+        <button
+          onClick={handleLogin}
+          disabled={!selectedRole}
+          className={`w-full py-4 rounded-xl font-bold text-lg uppercase tracking-wider transition-all duration-200 ${
+            selectedRole
+              ? 'bg-brand-red hover:bg-red-700 text-white'
+              : 'bg-gray-700 text-gray-500 cursor-not-allowed'
+          }`}
+        >
+          Belépés
+        </button>
+
+        {/* Manual Cookie Instructions */}
+        <div className="mt-8 text-center">
+          <button
+            onClick={() => setShowInstructions(!showInstructions)}
+            className="text-gray-400 hover:text-white text-sm underline transition-colors"
+          >
+            {showInstructions ? 'Bezárás' : 'Manuális belépés (F12 konzol)'}
+          </button>
+
+          {showInstructions && (
+            <div className="mt-4 p-4 bg-brand-dark-muted rounded-xl border border-brand-dark-border text-left">
+              <p className="text-gray-300 text-sm mb-3">
+                Ha a fenti gomb nem működik, nyisd meg a böngésző konzolját (F12) és futtasd le ezt a parancsot:
+              </p>
+              <div className="space-y-3">
+                {ROLES.map((role) => (
+                  <div key={role.id} className="flex flex-col gap-1">
+                    <span className="text-gray-400 text-xs font-semibold">{role.name}:</span>
+                    <code className="block p-2 bg-black/50 rounded text-xs text-brand-gold font-mono break-all">
+                      {getCookieCommand(role.id)}
+                    </code>
+                  </div>
+                ))}
+              </div>
+              <p className="text-gray-500 text-xs mt-3">
+                A parancs futtatása után frissítsd az oldalt (F5).
+              </p>
+            </div>
+          )}
+        </div>
+
+        {/* Back Link */}
+        <div className="mt-6 text-center">
+          <a href="/" className="text-gray-400 hover:text-white text-sm transition-colors">
+            ← Vissza a főoldalra
+          </a>
+        </div>
+      </div>
+    </div>
+  );
+}

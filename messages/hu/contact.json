@@ -1,0 +1,28 @@
+{
+  "title": "Kapcsolat",
+  "subtitle": "Lépj velünk kapcsolatba",
+  "form": {
+    "name": "Neved",
+    "email": "E-mail cím",
+    "subject": "Tárgy",
+    "message": "Üzenet",
+    "submit": "Üzenet küldése",
+    "sending": "Küldés...",
+    "success": "Köszönjük! Hamarosan válaszolunk.",
+    "error": "Hiba történt — kérlek próbáld újra."
+  },
+  "info": {
+    "title": "Elérhetőségek",
+    "address": "Cím",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "hours": "Nyitvatartás"
+  },
+  "channels": {
+    "title": "Közösségi média",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "youtube": "YouTube",
+    "tiktok": "TikTok"
+  }
+}

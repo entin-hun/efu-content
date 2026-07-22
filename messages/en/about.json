@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "About · EFU | Elite Fight Universe",
+    "description": "Meet Elite Fight Universe (EFU): the EFU Reality talent show, the EFU Fight Night gala series, and the EFU TV digital platform. Built on its own rule set, with a 10M HUF grand prize and a real pro career path."
+  },
+  "nav": {
+    "about": "About",
+    "aboutAria": "Jump to the About page"
+  },
+  "hero": {
+    "eyebrow": "About us",
+    "title": "What is EFU?",
+    "intro": "Elite Fight Universe (EFU) is a martial arts and entertainment ecosystem built around an in-house competition system: combat sports events, talent-show formats, and digital broadcasts. EFU exists to create a new kind of stage for fighters — one where fans follow not just the matches but the athletes' full journey."
+  },
+  "pillars": {
+    "eyebrow": "Three pillars",
+    "title": "A full universe, on three pillars",
+    "intro": "EFU rests on three main pillars: Reality, Fight Night and EFU TV.",
+    "realityTitle": "EFU Reality",
+    "realityTag": "Talent search",
+    "realityDesc": "A multi-week competition and talent-show format. Contestants prove themselves through tasks, challenges and fights while viewers get a behind-the-scenes look at their personalities, training and daily lives. EFU Reality's goal is to discover new talent, build characters and introduce the fighters of tomorrow.",
+    "fightNightTitle": "EFU Fight Night",
+    "fightNightTag": "Gala series",
+    "fightNightDesc": "EFU Fight Night is EFU's official gala series. This is where the organisation's headline bouts, ranking fights and title clashes take place. Fight Night events give amateur, semi-pro and pro athletes the same stage to prove themselves.",
+    "tvTitle": "EFU TV",
+    "tvTag": "Digital platform",
+    "tvDesc": "EFU TV is the digital home of Elite Fight Universe. Live broadcasts, reality episodes, galas, interviews, behind-the-scenes content and exclusive programming all live here."
+  },
+  "ruleset": {
+    "eyebrow": "How it works",
+    "title": "EFU Ruleset",
+    "intro": "EFU's own rule book puts continuous action and spectacular fights first.",
+    "standUpTitle": "EFU Stand-Up",
+    "standUpTagline": "Striking only, no ground game",
+    "standUpPoints": [
+      "MMA gloves",
+      "Strikes — punches and kicks",
+      "No ground fighting"
+    ],
+    "hybridTitle": "EFU Hybrid",
+    "hybridTagline": "Striking + limited ground game",
+    "hybridPoints": [
+      "MMA gloves",
+      "Combination of striking and ground fighting",
+      "Time-limited ground exchanges (20–30 seconds)",
+      "Referee stands fighters back up",
+      "3 × 3-minute rounds",
+      "1-minute rest between rounds"
+    ]
+  },
+  "mission": {
+    "eyebrow": "Our mission",
+    "title": "A community that connects",
+    "body": "EFU's mission is to build a Central-European martial-arts community that connects fighters, fans and partners — and to push the relationship between combat sports and digital entertainment to a new level."
+  },
+  "timeline": {
+    "eyebrow": "The brand path",
+    "title": "How does an EFU career unfold?",
+    "intro": "EFU offers a three-step career path: you surface on Reality, you prove yourself at Fight Night, and on the pro rankings your story can come full circle.",
+    "step1Label": "EFU Reality",
+    "step1Title": "Talent search",
+    "step1Desc": "A multi-week format where contestants prove themselves through tasks, challenges and bouts.",
+    "step2Label": "EFU Fight Night",
+    "step2Title": "Gala series",
+    "step2Desc": "The best of Reality face off at EFU's official gala series — across amateur, semi-pro and pro divisions.",
+    "step3Label": "Pro career",
+    "step3Title": "Pro career",
+    "step3Desc": "The growing EFU ranking and title system opens the door to an international pro career."
+  }
+}

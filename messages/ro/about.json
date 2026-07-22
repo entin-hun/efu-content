@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Despre noi · EFU | Elite Fight Universe",
+    "description": "Cunoaște Elite Fight Universe (EFU): talent-show-ul EFU Reality, seria de gale EFU Fight Night și platforma digitală EFU TV. Sistem propriu de reguli, premiu mare de 10M HUF și un traseu real de carieră profesională."
+  },
+  "nav": {
+    "about": "Despre noi",
+    "aboutAria": "Sari la pagina Despre noi"
+  },
+  "hero": {
+    "eyebrow": "Despre noi",
+    "title": "Ce este EFU?",
+    "intro": "Elite Fight Universe (EFU) este un ecosistem de arte marțiale și entertainment construit în jurul unui sistem competițional propriu: evenimente de sporturi de luptă, formate de tip talent-show și transmisiuni digitale. EFU creează o scenă nouă pentru luptători — în care fanii urmăresc nu doar meciurile, ci întregul drum al sportivilor."
+  },
+  "pillars": {
+    "eyebrow": "Trei piloni",
+    "title": "Un univers întreg, pe trei piloni",
+    "intro": "EFU se sprijină pe trei piloni principali: Reality, Fight Night și EFU TV.",
+    "realityTitle": "EFU Reality",
+    "realityTag": "Căutare de talente",
+    "realityDesc": "Un format competițional și de tip talent-show, de mai multe săptămâni. Concurenții se dovedesc prin sarcini, provocări și lupte, în timp ce spectatorii pătrund în personalitatea, pregătirea și viața lor de zi cu zi. Scopul EFU Reality este să descopere talente noi, să construiască personaje și să prezinte luptătorii de mâine.",
+    "fightNightTitle": "EFU Fight Night",
+    "fightNightTag": "Serie de gale",
+    "fightNightDesc": "EFU Fight Night este seria oficială de gale a EFU. Aici au loc meciurile principale, duelurile de clasament și luptele pentru titlu ale organizației. La Fight Night au șansa de a demonstra atât amatorii, cât și semi-profesioniștii și profesioniștii.",
+    "tvTitle": "EFU TV",
+    "tvTag": "Platformă digitală",
+    "tvDesc": "EFU TV este casa digitală a Elite Fight Universe. Transmisiuni în direct, episoade Reality, gale, interviuri, materiale din culise și conținut exclusiv."
+  },
+  "ruleset": {
+    "eyebrow": "Cum funcționează",
+    "title": "Regulament EFU",
+    "intro": "Regulamentul propriu al EFU pune pe primul plan acțiunea continuă și luptele spectaculoase.",
+    "standUpTitle": "EFU Stand-Up",
+    "standUpTagline": "Doar în picioare, fără luptă la sol",
+    "standUpPoints": [
+      "Mănuși MMA",
+      "Lovituri de mână și de picior",
+      "Fără luptă la sol"
+    ],
+    "hybridTitle": "EFU Hybrid",
+    "hybridTagline": "În picioare + luptă la sol limitată",
+    "hybridPoints": [
+      "Mănuși MMA",
+      "Combinație între lupte în picioare și la sol",
+      "Luptă la sol cu timp limitat (20–30 de secunde)",
+      "Arbitrul îi pune pe luptători în picioare",
+      "Reprize de 3 × 3 minute",
+      "1 minut de pauză între reprize"
+    ]
+  },
+  "mission": {
+    "eyebrow": "Misiunea noastră",
+    "title": "O comunitate care conectează",
+    "body": "Misiunea EFU este să construiască o comunitate de arte marțiale din Europa Centrală, care conectează luptători, fani și parteneri — și să ridice relația dintre sporturile de luptă și divertismentul digital la un nou nivel."
+  },
+  "timeline": {
+    "eyebrow": "Drumul mărcii",
+    "title": "Cum se construiește o carieră EFU?",
+    "intro": "EFU oferă un traseu de carieră în trei trepte: apari în Reality, te afirmi la Fight Night, iar în clasamentul profesionist povestea ta poate ajunge la deplinătate.",
+    "step1Label": "EFU Reality",
+    "step1Title": "Căutare de talente",
+    "step1Desc": "Un format de mai multe săptămâni în care concurenții se dovedesc prin sarcini, provocări și lupte.",
+    "step2Label": "EFU Fight Night",
+    "step2Title": "Serie de gale",
+    "step2Desc": "Cei mai buni din Reality se întâlnesc în seria oficială de gale EFU — la amatori, semi-profesioniști și profesioniști.",
+    "step3Label": "Carieră profesionistă",
+    "step3Title": "Carieră profesionistă",
+    "step3Desc": "Sistemul în creștere de clasament și titluri EFU deschide drumul către o carieră profesionistă internațională."
+  }
+}

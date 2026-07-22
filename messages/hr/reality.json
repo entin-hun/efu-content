@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "EFU Reality · Kuća",
+    "description": "EFU Reality naš je format za otkrivanje talenata u borilačkim vještinama: Kuća, Pravila, Mentori, Natjecatelji i Nagrada — sve što trebate znati o sezoni 2026."
+  },
+  "hero": {
+    "eyebrow": "EFU Reality · sezona 2026",
+    "titleLine1": "KUĆA",
+    "titleLine2": "ČEKA",
+    "tagline": "EFU Reality naš je format za otkrivanje talenata u borilačkim vještinama. Višetjedno natjecanje u kojem se kandidati testiraju ne samo u kavezu, već i u svakodnevnom životu — kroz zadatke, izazove i prave obračune.",
+    "statusPill": "Prijave uskoro"
+  },
+  "house": {
+    "eyebrow": "Gdje sezona živi",
+    "title": "Kuća",
+    "intro": "Za sezonu 2026. kandidati se useljavaju u EFU Kuću: potpuno opremljeni trenažni i stambeni kompleks pod 24-satnim nadzorom. Kuća je više od smještaja — ona je druga pozornica emisije: zajednički treninzi, kuhinjske rasprave, jutarnja trčanja i kućni izazovi sve su dio formata.",
+    "zones": {
+      "nappali": {
+        "name": "Dnevni boravak",
+        "tagline": "Zajednički prostor",
+        "desc": "Središnji prostor Kuće. U njemu se odvijaju zajednički obroci, briefingovi žirija, najave kućnih izazova i neslužbeni razgovori — ovdje se rađa većina drame."
+      },
+      "konyha": {
+        "name": "Kuhinja",
+        "tagline": "Oporavak i taktika",
+        "desc": "Srce Kuće. Jelovnik koji sastavljaju nutricionist i chef podupire regeneraciju i cjelosezonsku pripremu. Kuhanje zajedno važan je trenutak izgradnje tima."
+      },
+      "halok": {
+        "name": "Spavaće sobe",
+        "tagline": "Zona odmora",
+        "desc": "Odvojene ženske i muške spavaće sobe s osobnim ormarima i kamerama postavljenim na uzglavlja. Vrijeme za odmor strogo je zaštićeno — Kuća je izgrađena na uravnoteženoj pripremi, a ne na uskraćivanju sna."
+      },
+      "edzoterem": {
+        "name": "Teretana",
+        "tagline": "Dva treninga dnevno",
+        "desc": "Potpuna MMA oprema: kavez, strunjače za udarce i hrvanje, vreće za udaranje, stanice za snagu, kutak za oporavak. Mentori mogu koristiti prostor 24/7 — treninzi su obavezni."
+      },
+      "kert": {
+        "name": "Vrt",
+        "tagline": "Trening na otvorenom i svjež zrak",
+        "desc": "Travnata površina za sprint i izdržljivost, vanjska sauna, jacuzzi i otvorena terasa za zajedničke razgovore. U vrtu se odvijaju i izazovi na otvorenom."
+      },
+      "egyeb": {
+        "name": "Ostale prostorije",
+        "tagline": "Sauna, fizio, medicinski",
+        "desc": "Sauna i jacuzzi za oporavak, namjenska prostorija za fizioterapiju i masažu, te 24/7 medicinska soba. Cjelokupna infrastruktura Kuće služi sigurnoj, profesionalnoj pripremi."
+      }
+    }
+  },
+  "rules": {
+    "eyebrow": "Kako funkcionira",
+    "title": "Pravila",
+    "intro": "EFU Reality temelji se na vlastitom EFU pravilniku. I u Kući i u kavezu vrijede isti principi: poštovanje, sigurnost, fer plej.",
+    "items": [
+      {
+        "title": "Useljenje i odabir",
+        "tagline": "Kućni poredak",
+        "points": [
+          "Mentori postavljaju kućni poredak unutar 48 sati od useljenja",
+          "Početni poredak temelji se na nastupima, intervjuima i fizičkim testovima",
+          "Najslabije plasirani kandidat prvog tjedna suočava se s neposrednim ispadanjem"
+        ]
+      },
+      {
+        "title": "Tjedni izazovi",
+        "tagline": "Trening i glasovanje",
+        "points": [
+          "Na početku svakog tjedna mentori najavljuju javni kućni izazov",
+          "Izazov je obavezan — svaki kandidat nastupa pred cijelom Kućom",
+          "Žiri (mentori + 1 gost) dodjeljuje bodove, kućno glasovanje dopunjuje konačni poredak"
+        ]
+      },
+      {
+        "title": "Obračuni u kavezu",
+        "tagline": "EFU Stand-Up i Hybrid",
+        "points": [
+          "Mečevi se odvijaju isključivo po EFU pravilniku (Stand-Up ili Hybrid)",
+          "Obavezan liječnički pregled prije svakog obračuna",
+          "U spornim slučajevima odluka suca provjerava se kućnim zapisnicima bodova"
+        ]
+      },
+      {
+        "title": "Ispadanje i povratak",
+        "tagline": "Bez trajnog ispadanja iz Kuće",
+        "points": [
+          "Najslabije plasirani kandidat mora u sljedećem meču odigrati dvoboj",
+          "Pobjednik dvoboja ostaje u Kući, a gubitniku mentori mogu ponuditi mogućnost povratka",
+          "Samo kombinacija kućnog poretka i glasovanja publike može nekoga dovesti do finala"
+        ]
+      },
+      {
+        "title": "Ponašanje u Kući",
+        "tagline": "Pred kamerom i izvan nje",
+        "points": [
+          "Agresija, uznemiravanje ili oštećenje infrastrukture Kuće dovodi do trenutnog isključenja",
+          "Alkohol i sredstva ovisnosti zabranjeni su — redoviti testovi tijekom cijele sezone",
+          "Zaštita privatnosti: snimke iz spavaćih soba dostupne su samo produkcijskom timu"
+        ]
+      }
+    ]
+  },
+  "mentors": {
+    "eyebrow": "Tim",
+    "title": "Mentori",
+    "intro": "Mentori EFU Reality među najcjenjenijim su trenerima, bivšim prvacima i sportskim psiholozima srednjoeuropske scene borilačkih vještina. Žive u Kući cijelu sezonu i pripremaju se s kandidatima za svaki izazov.",
+    "members": [
+      {
+        "name": "István Kovács",
+        "role": "Glavni mentor za stajanje",
+        "bio": "Trostruki mađarski prvak s 18 godina međunarodnog iskustva. Jedan od tvoraca EFU Stand-Up pravilnika.",
+        "specialty": "Udarci, tehnike nogu, taktika bodovanja"
+      },
+      {
+        "name": "László Nagy",
+        "role": "Mentor za grappling",
+        "bio": "BJJ crni pojas, bivši IBJJF europski prvak. U Kući vodi ograničene grappling treninge prema Hybrid pravilniku.",
+        "specialty": "Grappling, obrana od submisija, kontrola pozicije"
+      },
+      {
+        "name": "Beatrix Tóth",
+        "role": "Sportska psihologinja i mentalna mentorica",
+        "bio": "Sportska psihologinja i mentalna trenerica brojnih reprezentativaca. Specijalizirana za rješavanje sukoba, oporavak i upravljanje pritiskom u Kući.",
+        "specialty": "Mentalni trening, rješavanje sukoba, oporavak"
+      },
+      {
+        "name": "Máté Varga",
+        "role": "Mentor za snagu i kondiciju",
+        "bio": "Trener snage, bivši međunarodni ragbi igrač. Odgovoran za sezonsku pripremu, protokole oporavka i prehranu.",
+        "specialty": "Kondicija, oporavak, prehrana"
+      }
+    ]
+  },
+  "contestants": {
+    "eyebrow": "Sudionici sezone",
+    "title": "Natjecatelji",
+    "intro": "Identiteti natjecatelja sezone 2026. bit će otkriveni kada se otvore vrata Kuće. Do tada natjecatelje predstavljaju siluete — u Kući svi počinju s jednakim šansama.",
+    "teaser": "Početkom sezone siluete će zamijeniti prava lica i prave priče. Pretplatite se da saznate prvi.",
+    "silhouettes": [
+      "Silueta #1 · Specijalist za stajanje",
+      "Silueta #2 · Specijalist za grappling",
+      "Silueta #3 · Svestrani borac",
+      "Silueta #4 · Svestrani borac",
+      "Silueta #5 · Specijalist za stajanje",
+      "Silueta #6 · Specijalist za grappling",
+      "Silueta #7 · Novajlija",
+      "Silueta #8 · Novajlija"
+    ],
+    "notifyMe": "Obavijesti me o predstavljanju"
+  },
+  "prize": {
+    "prelaunchBadge": "Uskoro…",
+    "prelaunchTitle": "Što je u igri ove sezone",
+    "prelaunchBody": "Točna struktura nagrada EFU Reality bit će otkrivena otvaranjem Kuće. Pretplatite se da saznate prvi.",
+    "launchMainTitle": "Glavna nagrada",
+    "launchMainAmount": "🏆 10.000.000 Ft",
+    "launchMainNote": "Pobjednik sezone dobiva glavnu nagradu od 10 milijuna forinti.",
+    "launchCareerTitle": "Karijerna prilika",
+    "launchCareerIntro": "EFU Reality nije samo o pobjedniku. Najbolji natjecatelji mogu dobiti priliku:",
+    "launchCareerBullets": [
+      "dobiti EFU ugovor za borca",
+      "nastupiti na EFU Fight Night eventima",
+      "dobiti značajnu medijsku izloženost",
+      "sudjelovati u intervjuima i promotivnim sadržajima",
+      "izgraditi dugoročno partnerstvo u sustavu Elite Fight Universe"
+    ],
+    "swapNote": "Prije lansiranja: „Uskoro…\". Kod lansiranja: 10 mil. Ft + EFU ugovor za borca."
+  },
+  "applyCta": {
+    "title": "Ti možeš biti sljedeći EFU borac",
+    "body": "Prijavi se za sezonu 2026. Kuća čeka.",
+    "button": "Prijavi se kao borac",
+    "buttonShort": "Prijavi se za Reality"
+  },
+  "footer": {
+    "disclaimer": "Točni kućni pravilnik, sastav žirija i format mečeva finaliziraju se prije službenog početka sezone."
+  }
+}

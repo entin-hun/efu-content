@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Über uns · EFU | Elite Fight Universe",
+    "description": "Lerne Elite Fight Universe (EFU) kennen: das EFU Reality-Talentformat, die EFU Fight Night-Gala-Reihe und die digitale Plattform EFU TV. Eigenes Regelwerk, 10 Mio. HUF Hauptpreis, echter Profi-Karriereweg."
+  },
+  "nav": {
+    "about": "Über uns",
+    "aboutAria": "Zur Über-uns-Seite springen"
+  },
+  "hero": {
+    "eyebrow": "Über uns",
+    "title": "Was ist EFU?",
+    "intro": "Elite Fight Universe (EFU) ist ein Martial-Arts- und Entertainment-Ökosystem mit eigenem Wettkampfsystem: Kampfsport-Events, Talentformate und digitale Übertragungen. EFU schafft eine neue Bühne für Kämpfer — auf der Fans nicht nur die Kämpfe, sondern den gesamten Weg der Athleten mitverfolgen."
+  },
+  "pillars": {
+    "eyebrow": "Drei Säulen",
+    "title": "Ein Universum, drei Säulen",
+    "intro": "EFU ruht auf drei Säulen: Reality, Fight Night und EFU TV.",
+    "realityTitle": "EFU Reality",
+    "realityTag": "Talentsuche",
+    "realityDesc": "Mehrwöchiges Wettkampf- und Talentformat. Die Teilnehmer beweisen sich in Aufgaben, Challenges und Kämpfen, während die Zuschauer Einblicke in Persönlichkeit, Training und Alltag bekommen. Ziel ist es, neue Talente zu entdecken, Charaktere aufzubauen und die Kämpfer von morgen vorzustellen.",
+    "fightNightTitle": "EFU Fight Night",
+    "fightNightTag": "Gala-Reihe",
+    "fightNightDesc": "EFU Fight Night ist EFUs offizielle Gala-Reihe. Hier finden die Hauptkämpfe, Ranking-Duelle und Titelkämpfe der Organisation statt. Amateur-, Halbprofi- und Profi-Athleten erhalten dieselbe Bühne.",
+    "tvTitle": "EFU TV",
+    "tvTag": "Digitale Plattform",
+    "tvDesc": "EFU TV ist das digitale Zuhause von Elite Fight Universe. Live-Übertragungen, Reality-Episoden, Galas, Interviews, Behind-the-Scenes und exklusive Inhalte."
+  },
+  "ruleset": {
+    "eyebrow": "So funktioniert es",
+    "title": "EFU-Regelwerk",
+    "intro": "EFUs eigenes Regelwerk setzt auf durchgehende Action und spektakuläre Kämpfe.",
+    "standUpTitle": "EFU Stand-Up",
+    "standUpTagline": "Nur Stehen, kein Bodenkampf",
+    "standUpPoints": [
+      "MMA-Handschuhe",
+      "Schlag- und Tritttechniken",
+      "Ohne Bodenkampf"
+    ],
+    "hybridTitle": "EFU Hybrid",
+    "hybridTagline": "Stehen + begrenzter Bodenkampf",
+    "hybridPoints": [
+      "MMA-Handschuhe",
+      "Kombination aus Stehen und Boden",
+      "Zeitlich begrenzter Bodenkampf (20–30 Sekunden)",
+      "Der Schiedsrichter stellt die Kämpfer wieder auf",
+      "3 × 3-Minuten-Runden",
+      "1 Minute Pause zwischen den Runden"
+    ]
+  },
+  "mission": {
+    "eyebrow": "Unsere Mission",
+    "title": "Eine Community, die verbindet",
+    "body": "EFU baut eine mitteleuropäische Martial-Arts-Community auf, die Kämpfer, Fans und Partner verbindet — und die Beziehung zwischen Kampfsport und digitaler Unterhaltung auf ein neues Level hebt."
+  },
+  "timeline": {
+    "eyebrow": "Der Markenweg",
+    "title": "Wie entsteht eine EFU-Karriere?",
+    "intro": "EFU bietet einen Karriereweg in drei Stufen: in Reality entdeckt werden, sich bei Fight Night beweisen und im Profi-Ranking zur Vollendung kommen.",
+    "step1Label": "EFU Reality",
+    "step1Title": "Talentsuche",
+    "step1Desc": "Mehrwöchiges Format, in dem die Teilnehmer sich in Aufgaben, Challenges und Kämpfen beweisen.",
+    "step2Label": "EFU Fight Night",
+    "step2Title": "Gala-Reihe",
+    "step2Desc": "Die Besten aus Reality messen sich auf EFUs offizieller Gala-Reihe — in Amateur-, Halbprofi- und Profi-Divisionen.",
+    "step3Label": "Profi-Karriere",
+    "step3Title": "Profi-Karriere",
+    "step3Desc": "Das wachsende EFU-Ranking und das Titel-System öffnen den Weg zu einer internationalen Profi-Karriere."
+  }
+}

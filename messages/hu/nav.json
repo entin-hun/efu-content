@@ -1,0 +1,29 @@
+{
+  "brand": "Elite Fight Universe",
+  "menu": {
+    "season": "Bérlet",
+    "fight": "Mérkőzés",
+    "live": "Élő adás",
+    "watchLive": "▶ Élő adás",
+    "reality": "Reality",
+    "fighters": "Harcosok",
+    "news": "Hírek",
+    "sponsors": "Szponzorok",
+    "contact": "Kapcsolat"
+  },
+  "auth": {
+    "login": "Bejelentkezés",
+    "logout": "Kijelentkezés",
+    "loggedIn": "Bejelentkezve",
+    "loggedOut": "Kijelentkezve"
+  },
+  "access": {
+    "active": "✅ Bérlet aktív",
+    "inactive": "⚠ Nincs bérlet"
+  },
+  "switcher": {
+    "label": "Nyelv",
+    "current": "Magyar",
+    "menuAria": "Nyelvválasztó menü"
+  }
+}

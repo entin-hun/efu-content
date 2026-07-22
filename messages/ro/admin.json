@@ -1,0 +1,88 @@
+{
+  "shell": {
+    "title": "EFU Admin",
+    "shortTitle": "Admin",
+    "tagline": "Elite Fight Universe — administrație",
+    "backToSite": "Înapoi la site-ul EFU",
+    "openMenu": "Deschide meniul",
+    "closeMenu": "Închide meniul",
+    "collapseSidebar": "Restrange bara laterală",
+    "expandSidebar": "Extinde bara laterală"
+  },
+  "roles": {
+    "guest": "Oaspete",
+    "user": "Utilizator",
+    "Rendszeradminisztrator": "Administrator de sistem",
+    "Producer": "Producer",
+    "RealitySzerkeszto": "Editor Reality",
+    "Tartalomkeszito": "Creator de conținut",
+    "Marketing": "Marketing",
+    "Moderator": "Moderator"
+  },
+  "groups": {
+    "workspace": "Spațiu de lucru",
+    "reality": "Reality & Producer",
+    "content": "Conținut",
+    "marketing": "Marketing",
+    "moderation": "Moderare",
+    "system": "Sistem"
+  },
+  "nav": {
+    "dashboard": "Tablou de bord",
+    "applications": "Aplicații",
+    "analytics": "Analiză",
+    "events": "Evenimente",
+    "fightCards": "Fight cards",
+    "results": "Rezultate",
+    "votes": "Voturi",
+    "realityTriggers": "Declanșatori Reality",
+    "audioLibrary": "Bibliotecă audio",
+    "pages": "Pagini",
+    "news": "Știri",
+    "videos": "Videoclipuri",
+    "photos": "Fotografii",
+    "fighterProfiles": "Profile luptători",
+    "sponsors": "Sponsori",
+    "socialLinks": "Linkuri sociale",
+    "chatModeration": "Moderare chat",
+    "users": "Utilizatori",
+    "roles": "Roluri",
+    "auditLogs": "Jurnale audit",
+    "systemSettings": "Setări sistem"
+  },
+  "dashboard": {
+    "title": "Tablou de bord",
+    "welcome": "Bun venit în EFU admin",
+    "recentActivity": "Activitate recentă",
+    "latestApplications": "Cele mai noi aplicații",
+    "latestEmails": "Cele mai noi emailuri trimise",
+    "analyticsOverview": "Prezentare generală analiză (7 zile)",
+    "noApplications": "Nu există încă aplicații.",
+    "noEmails": "Nu s-au trimis încă emailuri.",
+    "loadingAnalytics": "Se încarcă analiza…",
+    "openApplication": "Deschide aplicația",
+    "noAnalytics": "Nu există încă date. Evenimentele demo se încarcă la prima vizită.",
+    "seeAllApplications": "Toate aplicațiile",
+    "seeAnalytics": "Analiză detaliată",
+    "stats": {
+      "totalApplications": "Total aplicații",
+      "newApplications": "Noi (neprelucrate)",
+      "eventsLast7d": "Evenimente (7 zile)",
+      "viewersNow": "Spectatori acum"
+    }
+  },
+  "common": {
+    "language": "Limbă",
+    "selectLanguage": "Alege limba",
+    "logout": "Deconectare",
+    "loading": "Se încarcă…",
+    "comingSoon": "În curând",
+    "comingSoonBody": "Această vedere este un placeholder până la finalizarea altor cartele L6. Verificarea rolului este deja activă — doar rolurile autorizate pot accesa ruta."
+  },
+  "forbidden": {
+    "title": "Acces refuzat",
+    "code": "403",
+    "body": "Nu ai acces la această vedere. În adminul EFU bara laterală afișează doar secțiunile pe care rolul tău le poate accesa.",
+    "hint": "În dezvoltare rolul se setează prin cookie-ul efu_role. Exemplu: document.cookie = \"efu_role=Rendszeradminisztrator\""
+  }
+}

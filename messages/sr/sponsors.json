@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "title": "Sponzori i partneri · EFU",
+    "description": "Sponzori Elite Fight Universe (EFU) stoje iza našeg talent šoua borilačkih veština i serije gala. Otkrijte nivoe partnerstva, opcije integracije i kontakt."
+  },
+  "hero": {
+    "eyebrow": "EFU · Partnerstvo",
+    "title": "Sponzori i partneri",
+    "subtitle": "Elite Fight Universe je ponosan na svoje partnere",
+    "intro": "Nivoi partnerstva EFU osmišljeni su tako da sponzorima pruže prilagođenu vidljivost na galama, u prenosima i na digitalnim platformama. Svaki nivo uključuje namenske aktivacije i pakete vidljivosti."
+  },
+  "why": {
+    "eyebrow": "Zašto EFU?",
+    "title": "Jedna platforma, tri formata, devet tržišta",
+    "intro": "EFU paralelno vodi reality format, seriju gala i digitalnu platformu. Sponzori ne podržavaju samo jedan događaj — pridružuju se celogodišnjem, integrisanom komunikacionom ekosistemu.",
+    "audience": {
+      "title": "Naša publika",
+      "items": [
+        "Muškarci i žene od 18 do 45 godina koji aktivno prate borilačke sportove",
+        "Srednjoevropska pokrivenost: Mađarska, Slovačka, Rumunija, Hrvatska, Srbija, Slovenija, Nemačka",
+        "Posetioci teretana, sportisti, ljubitelji borilačkih veština",
+        "Konzumenti reality i zabavnog sadržaja",
+        "Višejezična publika — platforma je dostupna u 9 jezika"
+      ]
+    },
+    "values": {
+      "title": "Vrednosti brenda",
+      "items": [
+        "Performanse i takmičenje — prenosimo duh sporta",
+        "Zajednica — povezujemo sportiste, navijače i partnere",
+        "Profesionalnost — produkcija na međunarodnom nivou",
+        "Integritet — transparentna partnerstva, jasna pravila"
+      ]
+    },
+    "formats": {
+      "title": "Formati sadržaja",
+      "items": [
+        "EFU Reality — višenedeljni talent šou sa epizodama, backstageom i izazovima",
+        "EFU Fight Night — serija gala, ranking borbe i šampionski mečevi",
+        "EFU TV — prenosi uživo, intervjui, materijali iz backstagea i kratki formati"
+      ]
+    }
+  },
+  "tiers": {
+    "title": "Nivoi partnerstva",
+    "subtitle": "Izaberite nivo koji odgovara vašem brendu. Za prilagođene pakete i cene, kontaktirajte nas preko stranice Kontakt i poslaćemo vam ponudu po meri.",
+    "currencyNote": "Cene su okvirne — svaki paket je prilagodljiv.",
+    "bronze": {
+      "name": "Bronzani",
+      "tagline": "Vidljivost na našim digitalnim površinama",
+      "price": "Ulazni nivo",
+      "features": [
+        "Logo na stranici Sponzori EFU",
+        "Pojavljivanje u podnožju objava na društvenim mrežama (1–2 puta mesečno)",
+        "Zahvalnica u odjavnoj špici Reality",
+        "Pristup EFU biltenu za sponzore"
+      ],
+      "cta": "Zatraži Bronzani paket"
+    },
+    "silver": {
+      "name": "Srebrni",
+      "tagline": "Digitalna prisutnost + odjavna špica",
+      "price": "Srednji nivo",
+      "features": [
+        "Sve iz Bronzanog paketa",
+        "Logo u odjavnoj špici prenosa EFU Fight Night",
+        "Kratki reklamni spot pre epizoda Reality (1 mesečno)",
+        "Pravo korišćenja brendiranog heštega",
+        "Kratki intervju / pominjanje u EFU TV"
+      ],
+      "cta": "Zatraži Srebrni paket"
+    },
+    "gold": {
+      "name": "Zlatni",
+      "tagline": "Prisutnost na gali + Reality",
+      "price": "Napredni nivo",
+      "features": [
+        "Sve iz Srebrnog paketa",
+        "Logo na prostirci uz ring i na plakatu fight carda",
+        "Namenska brendirana zona na lokaciji Fight Night",
+        "Uzorak proizvoda / izložak na aktivacionom pultu",
+        "4 ulaznice za jednu EFU Fight Night galу"
+      ],
+      "cta": "Zatraži Zlatni paket"
+    },
+    "reality": {
+      "name": "Reality integracija",
+      "tagline": "Vaš brend ulazi u kuću reality",
+      "price": "Premium",
+      "features": [
+        "Product placement u kući reality",
+        "Brendirana zona u kući reality (npr. trenažni kutak, zona oporavka, kuhinjski ostrvo)",
+        "Izazov koji kreira sponzor za takmičare",
+        "Logo u odjavnoj špici Reality sa pominjanjima u epizodama",
+        "Ekskluzivna aktivacija na društvenim mrežama brenda"
+      ],
+      "cta": "Razgovarajmo o Reality integraciji"
+    },
+    "fightNight": {
+      "name": "Fight Night integracija",
+      "tagline": "Vaš brend uz ring",
+      "price": "Premium",
+      "features": [
+        "Brendirani plasman uz ring (prostirka, platno, ugao)",
+        "Sponzorirani fight card (title-sponzor ili card-sponzor nivo)",
+        "Sponzorstvo repriza — brendirani bumper tokom repriza",
+        "Namenski komentatorski pomeni tokom prenosa Fight Night",
+        "Učešće u celoj sezoni Fight Night (3–4 gale)"
+      ],
+      "cta": "Razgovarajmo o Fight Night integraciji"
+    }
+  },
+  "integrations": {
+    "title": "Opcije integracije",
+    "subtitle": "Dva glavna smera integracije — Reality i Fight Night — koji se mogu i kombinovati.",
+    "realityTitle": "EFU Reality integracija",
+    "realityItems": [
+      {
+        "icon": "🏠",
+        "title": "Product placement u kući reality",
+        "body": "Vaši proizvodi prirodno se pojavljuju u svakodnevnom životu kuće reality — od kuhinjskog pulta do teretane."
+      },
+      {
+        "icon": "🎯",
+        "title": "Brendirane zone",
+        "body": "Vaš sopstveni brendirani kutak u kući: trenažna podloga, zona oporavka, chill-out kutak — ili bilo šta što pristaje vašem brendu."
+      },
+      {
+        "icon": "🏆",
+        "title": "Izazovi koje kreira sponzor",
+        "body": "Takmičari se mere u vašem izazovu — najbolji rezultat vezan je za vaše ime."
+      },
+      {
+        "icon": "📺",
+        "title": "Pominjanja u epizodama + odjavna špica",
+        "body": "Vaš logo pojavljuje se u svakoj epizodi, uz komentatorsko pominjanje pre relevantnog segmenta."
+      }
+    ],
+    "fightNightTitle": "EFU Fight Night integracija",
+    "fightNightItems": [
+      {
+        "icon": "🥊",
+        "title": "Plasman uz ring",
+        "body": "Logo na platnu ringa, na platnu i u uglu — kamera ga uvek vidi, publika ga uvek čita."
+      },
+      {
+        "icon": "🎫",
+        "title": "Sponzorirani fight card",
+        "body": "Ceo fight card nosi vaše ime — od teasera do intervjua sa pobednikom."
+      },
+      {
+        "icon": "🔁",
+        "title": "Sponzorstvo repriza",
+        "body": "Brendirani bumperi tokom repriza i analitičkih segmenata — premium pažnja u ključnim trenucima."
+      },
+      {
+        "icon": "🎙️",
+        "title": "Komentatorska pominjanja",
+        "body": "Namenski segmenti o vašem brendu tokom celog prenosa — glasom stručnjaka, u duhu Fight Night."
+      }
+    ]
+  },
+  "logos": {
+    "title": "Naši partneri",
+    "subtitle": "Čim potpišemo prva tri sponzora, njihovi logotipi će se pojaviti ovde. Za sada — placeholder.",
+    "placeholderNote": "Zid logotipa popunjava se nakon potpisa prva tri sponzora."
+  },
+  "contactCta": {
+    "title": "Pridružite se porodici partnera EFU",
+    "body": "Zatražite ponudu po meri i razgovarajmo o tome kako vaš brend pristaje u EFU ekosistem.",
+    "primary": "Kontaktirajte nas",
+    "secondary": "Nazad na naslovnu"
+  }
+}

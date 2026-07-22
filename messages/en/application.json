@@ -1,0 +1,104 @@
+{
+  "homeHero": {
+    "eyebrow": "EFU Reality · 2026 season",
+    "venue": "Budapest Arena",
+    "datetime": "July 17, 2026 · 15:00 CET",
+    "tagline": "A new opportunity for fighters, a new level for fans — live and on demand.",
+    "prize": "EFU Reality — Grand prize 10,000,000 HUF",
+    "countdownLabel": "Time until kickoff",
+    "ctaWatch": "Watch live",
+    "ctaReality": "Discover EFU Reality",
+    "ctaApply": "Apply as a fighter",
+    "ctaFightNight": "Next Fight Night",
+    "ctaWatchAria": "Start live stream",
+    "playLiveHint": "Click to start the live broadcast",
+    "liveLabel": "LIVE",
+    "channelHandle": "@EliteFightUniverse",
+    "scrollHint": "Scroll down"
+  },
+  "social": {
+    "heading": "Follow us",
+    "youtube": "YouTube",
+    "twitch": "Twitch",
+    "kick": "Kick",
+    "tiktok": "TikTok",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "x": "X (formerly Twitter)",
+    "dazn": "DAZN"
+  },
+  "hero": {
+    "eyebrow": "EFU Reality · 2026",
+    "title": "Apply as a fighter",
+    "body": "The Elite Fight Universe (EFU) Reality is about building the next EFU fighter generation.\nPro coaching, media exposure, an EFU Fight Night slot and a 10,000,000 HUF grand prize await.\nFill in the form — apply now!"
+  },
+  "perk": {
+    "training": { "title": "Pro coaching", "sub": "EFU trainer team" },
+    "media": { "title": "Media exposure", "sub": "EFU TV + Fight Night" },
+    "prize": { "title": "10,000,000 HUF", "sub": "Grand prize + contract" }
+  },
+  "field": {
+    "name": { "label": "Name" },
+    "age": { "label": "Age" },
+    "city": { "label": "City" },
+    "testSuly": {
+      "label": "Weight class",
+      "placeholder": "Choose a class…"
+    },
+    "sportMult": {
+      "label": "Athletic background",
+      "placeholder": "E.g. 5 years MMA, 3 years boxing, prior tournaments…"
+    },
+    "motivation": {
+      "label": "Motivation",
+      "placeholder": "Why do you want to join EFU Reality? (min. 20 characters)"
+    },
+    "videoOrSocialUrl": {
+      "label": "Video or social link",
+      "hint": "YouTube, Instagram, TikTok, Facebook or Vimeo link"
+    },
+    "contact": {
+      "label": "Contact",
+      "hint": "Email or phone — we will get back to you",
+      "placeholder": "you@example.com or +36 …"
+    }
+  },
+  "gdpr": {
+    "consent": "I consent to Elite Fight Universe (EFU) processing the personal data I provide for the purpose of evaluating my application and contacting me. The legal basis is Article 6(1)(a) of the GDPR (voluntary consent). EFU treats the data confidentially and does not pass it on to third parties.",
+    "acceptedAt": "Consent recorded ✓"
+  },
+  "submit": {
+    "label": "Submit application",
+    "sending": "Sending…"
+  },
+  "success": {
+    "title": "Your application has been received!",
+    "body": "Thank you! Our team will review your submission and get back to you at the contact you provided.",
+    "another": "Submit another application"
+  },
+  "error": {
+    "summary": "Please correct the fields highlighted in red and try again.",
+    "network": "Network error — please try again.",
+    "name.too_short": "Name must be at least 2 characters.",
+    "name.too_long": "Name must be at most 80 characters.",
+    "age.invalid_number": "Please enter a valid age.",
+    "age.out_of_range": "Age must be between 16 and 60.",
+    "city.too_short": "City must be at least 2 characters.",
+    "city.too_long": "City must be at most 80 characters.",
+    "testSuly.required": "Please choose a weight class.",
+    "sportMult.required": "Please describe your athletic background.",
+    "sportMult.too_long": "Athletic background must be at most 500 characters.",
+    "motivation.too_short": "Motivation must be at least 20 characters.",
+    "motivation.too_long": "Motivation must be at most 1500 characters.",
+    "videoOrSocialUrl.required": "Please provide a video or social link.",
+    "videoOrSocialUrl.too_long": "Link must be at most 500 characters.",
+    "videoOrSocialUrl.invalid": "Only YouTube, Instagram, TikTok, Facebook or Vimeo links are accepted.",
+    "contact.invalid": "Please provide a valid email or phone number.",
+    "contact.too_long": "Contact must be at most 120 characters.",
+    "gdprConsent.required": "GDPR consent is required to submit.",
+    "turnstile_failed": "Bot check failed — please reload the page."
+  },
+  "form": {
+    "disclaimer": "EFU uses your data solely for processing your application. You may withdraw your GDPR consent at any time."
+  }
+}

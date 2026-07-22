@@ -1,0 +1,88 @@
+{
+  "shell": {
+    "title": "EFU Admin",
+    "shortTitle": "Admin",
+    "tagline": "Elite Fight Universe — administrácia",
+    "backToSite": "Späť na stránku EFU",
+    "openMenu": "Otvoriť menu",
+    "closeMenu": "Zavrieť menu",
+    "collapseSidebar": "Zbaliť bočný panel",
+    "expandSidebar": "Rozbaliť bočný panel"
+  },
+  "roles": {
+    "guest": "Hosť",
+    "user": "Používateľ",
+    "Rendszeradminisztrator": "Systémový administrátor",
+    "Producer": "Producer",
+    "RealitySzerkeszto": "Reality redaktor",
+    "Tartalomkeszito": "Tvorca obsahu",
+    "Marketing": "Marketing",
+    "Moderator": "Moderátor"
+  },
+  "groups": {
+    "workspace": "Pracovná plocha",
+    "reality": "Reality & Producer",
+    "content": "Obsah",
+    "marketing": "Marketing",
+    "moderation": "Moderácia",
+    "system": "Systém"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "applications": "Prihlášky",
+    "analytics": "Analytika",
+    "events": "Udalosti",
+    "fightCards": "Fight cards",
+    "results": "Výsledky",
+    "votes": "Hlasovania",
+    "realityTriggers": "Reality triggery",
+    "audioLibrary": "Audio knižnica",
+    "pages": "Stránky",
+    "news": "Novinky",
+    "videos": "Videá",
+    "photos": "Fotky",
+    "fighterProfiles": "Profily bojovníkov",
+    "sponsors": "Sponzori",
+    "socialLinks": "Sociálne odkazy",
+    "chatModeration": "Chat moderácia",
+    "users": "Používatelia",
+    "roles": "Role",
+    "auditLogs": "Audit denník",
+    "systemSettings": "Systémové nastavenia"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Vitaj v EFU admin",
+    "recentActivity": "Nedávne aktivity",
+    "latestApplications": "Najnovšie prihlášky",
+    "latestEmails": "Najnovšie odchádzajúce e-maily",
+    "analyticsOverview": "Prehľad analytiky (7 dní)",
+    "noApplications": "Zatiaľ žiadne prihlášky.",
+    "noEmails": "Zatiaľ žiadne odoslané e-maily.",
+    "loadingAnalytics": "Načítava sa analytika…",
+    "openApplication": "Otvoriť prihlášku",
+    "noAnalytics": "Zatiaľ žiadne dáta. Demo udalosti sa načítajú pri prvej návšteve.",
+    "seeAllApplications": "Všetky prihlášky",
+    "seeAnalytics": "Podrobná analytika",
+    "stats": {
+      "totalApplications": "Celkovo prihlášok",
+      "newApplications": "Nové (nespracované)",
+      "eventsLast7d": "Udalosti (7 dní)",
+      "viewersNow": "Sledujúci teraz"
+    }
+  },
+  "common": {
+    "language": "Jazyk",
+    "selectLanguage": "Vyber jazyk",
+    "logout": "Odhlásiť sa",
+    "loading": "Načítava sa…",
+    "comingSoon": "Čoskoro",
+    "comingSoonBody": "Tento pohľad je zástupca, kým sa nedokončia ďalšie L6 karty. Role-guard už funguje — cestu môžu otvoriť len autorizované role."
+  },
+  "forbidden": {
+    "title": "Prístup zamietnutý",
+    "code": "403",
+    "body": "Nemáš prístup k tomuto pohľadu. V EFU admin bočný panel zobrazuje len tie sekcie, ktoré tvoja rola smie otvoriť.",
+    "hint": "Vo vývoji sa rola nastavuje cez efu_role cookie. Príklad: document.cookie = \"efu_role=Rendszeradminisztrator\""
+  }
+}

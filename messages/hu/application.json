@@ -1,0 +1,104 @@
+{
+  "homeHero": {
+    "eyebrow": "EFU Reality · 2026 szezon",
+    "venue": "Budapest Aréna",
+    "datetime": "2026. július 17. · 15:00 CET",
+    "tagline": "Új lehetőség a harcosoknak, új szint a nézőknek — élőben és visszanézhetően.",
+    "prize": "EFU Reality – Fődíj 10 000 000 Ft",
+    "countdownLabel": "Kezdésig hátralévő idő",
+    "ctaWatch": "Nézd élőben",
+    "ctaReality": "Ismerd meg az EFU Realityt",
+    "ctaApply": "Jelentkezz harcosnak",
+    "ctaFightNight": "Következő Fight Night",
+    "ctaWatchAria": "Élő közvetítés indítása",
+    "playLiveHint": "Kattints az élő adás indításához",
+    "liveLabel": "LIVE",
+    "channelHandle": "@EliteFightUniverse",
+    "scrollHint": "Görgess lejjebb"
+  },
+  "social": {
+    "heading": "Kövess minket",
+    "youtube": "YouTube",
+    "twitch": "Twitch",
+    "kick": "Kick",
+    "tiktok": "TikTok",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "x": "X (korábban Twitter)",
+    "dazn": "DAZN"
+  },
+  "hero": {
+    "eyebrow": "EFU Reality · 2026",
+    "title": "Jelentkezz harcosnak",
+    "body": "Az Elite Fight Universe (EFU) Reality a következő EFU-harcos generáció felépítéséről szól.\nProfi felkészítés, média-megjelenés, EFU Fight Night fellépés és egy 10 000 000 HUF fődíj vár.\nTöltsd ki az űrlapot — jelentkezz most!"
+  },
+  "perk": {
+    "training": { "title": "Profi felkészítés", "sub": "EFU edzői stáb" },
+    "media": { "title": "Média-megjelenés", "sub": "EFU TV + Fight Night" },
+    "prize": { "title": "10 000 000 HUF", "sub": "Fődíj + szerződés" }
+  },
+  "field": {
+    "name": { "label": "Név" },
+    "age": { "label": "Életkor" },
+    "city": { "label": "Város" },
+    "testSuly": {
+      "label": "Testsúly kategória",
+      "placeholder": "Válassz kategóriát…"
+    },
+    "sportMult": {
+      "label": "Sportmúlt",
+      "placeholder": "Pl. 5 év MMA, 3 év boksz, korábbi versenyek…"
+    },
+    "motivation": {
+      "label": "Motiváció",
+      "placeholder": "Miért szeretnél részt venni az EFU Reality-ben? (min. 20 karakter)"
+    },
+    "videoOrSocialUrl": {
+      "label": "Videó vagy social link",
+      "hint": "YouTube, Instagram, TikTok, Facebook vagy Vimeo link"
+    },
+    "contact": {
+      "label": "Elérhetőség",
+      "hint": "E-mail cím vagy telefonszám — visszajelzünk",
+      "placeholder": "te@pelda.hu vagy +36 …"
+    }
+  },
+  "gdpr": {
+    "consent": "Hozzájárulok, hogy az Elite Fight Universe (EFU) az általam megadott személyes adatokat a jelentkezésem feldolgozásához, valamint a kapcsolatfelvételhez felhasználja. Az adatkezelés jogalapja az Általános Adatvédelmi Rendelet (GDPR) 6. cikk (1) bekezdés a) pontja szerinti önkéntes hozzájárulás. Az adatokat az EFU bizalmasan kezeli, harmadik félnek nem adja át.",
+    "acceptedAt": "Hozzájárulás rögzítve ✓"
+  },
+  "submit": {
+    "label": "Jelentkezés elküldése",
+    "sending": "Beküldés…"
+  },
+  "success": {
+    "title": "Jelentkezésed beérkezett!",
+    "body": "Köszönjük! Csapatunk átnézi a pályázatodat, és hamarosan jelentkezünk vissza a megadott elérhetőségen.",
+    "another": "Új jelentkezés beküldése"
+  },
+  "error": {
+    "summary": "Kérlek javítsd a pirossal jelölt mezőket, majd próbáld újra.",
+    "network": "Hálózati hiba — kérlek próbáld újra.",
+    "name.too_short": "A név legalább 2 karakter hosszú legyen.",
+    "name.too_long": "A név legfeljebb 80 karakter lehet.",
+    "age.invalid_number": "Adj meg egy érvényes életkort.",
+    "age.out_of_range": "Az életkornak 16 és 60 közé kell esnie.",
+    "city.too_short": "A város legalább 2 karakter hosszú legyen.",
+    "city.too_long": "A város legfeljebb 80 karakter lehet.",
+    "testSuly.required": "Válassz testsúly kategóriát.",
+    "sportMult.required": "Írd le a sportmúltadat.",
+    "sportMult.too_long": "A sportmúlt legfeljebb 500 karakter lehet.",
+    "motivation.too_short": "A motiváció legalább 20 karakter legyen.",
+    "motivation.too_long": "A motiváció legfeljebb 1500 karakter lehet.",
+    "videoOrSocialUrl.required": "Add meg a videó vagy social linket.",
+    "videoOrSocialUrl.too_long": "A link legfeljebb 500 karakter lehet.",
+    "videoOrSocialUrl.invalid": "Csak YouTube, Instagram, TikTok, Facebook vagy Vimeo linket fogadunk el.",
+    "contact.invalid": "Adj meg egy érvényes e-mail címet vagy telefonszámot.",
+    "contact.too_long": "Az elérhetőség legfeljebb 120 karakter lehet.",
+    "gdprConsent.required": "Az adatkezelési hozzájárulás kötelező a beküldéshez.",
+    "turnstile_failed": "A bot-ellenőrzés nem sikerült — töltsd újra az oldalt."
+  },
+  "form": {
+    "disclaimer": "Adataidat az EFU kizárólag a jelentkezés feldolgozásához használja. A GDPR-hozzájárulás bármikor visszavonható."
+  }
+}

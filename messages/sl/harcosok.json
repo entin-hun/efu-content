@@ -1,0 +1,106 @@
+{
+  "listing": {
+    "title": "Borcevalci",
+    "subtitle": "Spoznajte borce EFU Reality in Fight Night — njihove zgodbe, pot in izkupiček.",
+    "empty": "Trenutno ni objavljenih borcev. Kmalu.",
+    "viewProfile": "Ogled profila",
+    "fightRecord": "Izkupiček",
+    "path": "EFU pot",
+    "filter": {
+      "label": "Filter",
+      "all": "Vsi",
+      "reality": "Reality",
+      "fight_night": "Fight Night",
+      "pro": "Pro"
+    }
+  },
+  "profile": {
+    "intro": "Predstavitev",
+    "story": "Zgodba",
+    "efuPath": "EFU pot",
+    "efuPathTeaser": "Kje so začeli",
+    "record": "Izkupiček",
+    "recordShort": "Z-P-R",
+    "videos": "Videi",
+    "videosEmpty": "Ta borec še nima videev.",
+    "fightHistory": "Borbe",
+    "fightHistoryEmpty": "Zgodovina borib ni na voljo.",
+    "bio": {
+      "born": "Datum rojstva",
+      "country": "Država",
+      "hometown": "Mesto",
+      "gym": "Klub",
+      "weightClass": "Težnostna kategorija",
+      "stance": "Stav",
+      "height": "Višina",
+      "reach": "Doseg"
+    },
+    "stats": {
+      "wins": "Zmage",
+      "losses": "Porazi",
+      "draws": "Neodločeno",
+      "kos": "Nokavti",
+      "submissions": "Predaje"
+    },
+    "notFound": "Ta borec ni bil najden.",
+    "backToListing": "Nazaj na borce",
+    "share": "Deli",
+    "stages": {
+      "reality": "EFU Reality",
+      "fight_night": "EFU Fight Night",
+      "pro": "Pro kariera"
+    }
+  },
+  "admin": {
+    "nav": "Borcevalci (admin)",
+    "title": "Upravljanje borcev",
+    "newFighter": "Nov borec",
+    "editFighter": "Uredi borca",
+    "deleteFighter": "Izbriši borca",
+    "deleteConfirm": "Ali ste prepričani, da želite izbrisati tega borca?",
+    "fields": {
+      "slug": "URL slug",
+      "name": "Ime",
+      "nickname": "Vzdevek",
+      "country": "Država (npr. 🇭🇺 HU)",
+      "intro": "Predstavitev (kratka)",
+      "story": "Zgodba (dolga, HTML)",
+      "weightClass": "Težnostna kategorija",
+      "hometown": "Mesto",
+      "gym": "Klub",
+      "dob": "Datum rojstva",
+      "heightCm": "Višina (cm)",
+      "reachCm": "Doseg (cm)",
+      "stance": "Stav",
+      "photo": "Fotografija",
+      "photoUpload": "Naloži fotografijo",
+      "photoHint": "JPG/PNG, največ 4MB",
+      "recordWins": "Zmage",
+      "recordLosses": "Porazi",
+      "recordDraws": "Neodločeno",
+      "recordKos": "Nokavti",
+      "recordSubmissions": "Predaje",
+      "efuPath": "EFU pot (ena na vrstico: datum | stopnja | naslov)",
+      "videos": "Videi (ena na vrstico: youtube|mp4 | URL | naslov)",
+      "published": "Objavljeno",
+      "sortOrder": "Vrstni red"
+    },
+    "actions": {
+      "save": "Shrani",
+      "cancel": "Prekliči",
+      "delete": "Izbriši",
+      "upload": "Naloži"
+    },
+    "messages": {
+      "saved": "Borec shranjen.",
+      "deleted": "Borec izbrisan.",
+      "slugExists": "Ta slug je že zaseden.",
+      "invalid": "Neveljavni podatki, preverite polja."
+    }
+  },
+  "common": {
+    "language": "Jezik",
+    "loading": "Nalaganje...",
+    "error": "Nekaj je šlo narobe."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "listing": {
+    "title": "Fighters",
+    "subtitle": "Meet the EFU Reality and Fight Night fighters — their stories, their path, their record.",
+    "empty": "No published fighters yet. Coming soon.",
+    "viewProfile": "View profile",
+    "fightRecord": "Record",
+    "path": "EFU path",
+    "filter": {
+      "label": "Filter",
+      "all": "All",
+      "reality": "Reality",
+      "fight_night": "Fight Night",
+      "pro": "Pro"
+    }
+  },
+  "profile": {
+    "intro": "Intro",
+    "story": "Story",
+    "efuPath": "EFU path",
+    "efuPathTeaser": "Where they started",
+    "record": "Record",
+    "recordShort": "W-L-D",
+    "videos": "Videos",
+    "videosEmpty": "No videos for this fighter yet.",
+    "fightHistory": "Fights",
+    "fightHistoryEmpty": "No fight history available.",
+    "bio": {
+      "born": "Born",
+      "country": "Country",
+      "hometown": "Hometown",
+      "gym": "Gym",
+      "weightClass": "Weight class",
+      "stance": "Stance",
+      "height": "Height",
+      "reach": "Reach"
+    },
+    "stats": {
+      "wins": "Wins",
+      "losses": "Losses",
+      "draws": "Draws",
+      "kos": "KOs",
+      "submissions": "Submissions"
+    },
+    "notFound": "This fighter could not be found.",
+    "backToListing": "Back to fighters",
+    "share": "Share",
+    "stages": {
+      "reality": "EFU Reality",
+      "fight_night": "EFU Fight Night",
+      "pro": "Pro career"
+    }
+  },
+  "admin": {
+    "nav": "Fighters (admin)",
+    "title": "Manage fighters",
+    "newFighter": "New fighter",
+    "editFighter": "Edit fighter",
+    "deleteFighter": "Delete fighter",
+    "deleteConfirm": "Are you sure you want to delete this fighter?",
+    "fields": {
+      "slug": "URL slug",
+      "name": "Name",
+      "nickname": "Nickname",
+      "country": "Country (e.g. 🇭🇺 HU)",
+      "intro": "Intro (short)",
+      "story": "Story (long, HTML)",
+      "weightClass": "Weight class",
+      "hometown": "Hometown",
+      "gym": "Gym",
+      "dob": "Date of birth",
+      "heightCm": "Height (cm)",
+      "reachCm": "Reach (cm)",
+      "stance": "Stance",
+      "photo": "Photo",
+      "photoUpload": "Upload photo",
+      "photoHint": "JPG/PNG, max 4MB",
+      "recordWins": "Wins",
+      "recordLosses": "Losses",
+      "recordDraws": "Draws",
+      "recordKos": "KOs",
+      "recordSubmissions": "Submissions",
+      "efuPath": "EFU path (one per line: date | stage | title)",
+      "videos": "Videos (one per line: youtube|mp4 | URL | title)",
+      "published": "Published",
+      "sortOrder": "Sort order"
+    },
+    "actions": {
+      "save": "Save",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "upload": "Upload"
+    },
+    "messages": {
+      "saved": "Fighter saved.",
+      "deleted": "Fighter deleted.",
+      "slugExists": "This slug is already in use.",
+      "invalid": "Invalid data, please check the fields."
+    }
+  },
+  "common": {
+    "language": "Language",
+    "loading": "Loading...",
+    "error": "Something went wrong."
+  }
+}

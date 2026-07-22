@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "EFU Reality · Hiša",
+    "description": "EFU Reality je naš format za odkrivanje talentov v borilnih veščinah: Hiša, Pravila, Mentorji, Tekmovalci in Nagrada — vse, kar morate vedeti o sezoni 2026."
+  },
+  "hero": {
+    "eyebrow": "EFU Reality · sezona 2026",
+    "titleLine1": "HIŠA",
+    "titleLine2": "ČAKA",
+    "tagline": "EFU Reality je naš format za odkrivanje talentov v borilnih veščinah. Večtedensko tekmovanje, kjer se kandidati preizkusijo ne le v kletki, ampak tudi v vsakdanjem življenju — skozi naloge, izzive in prave spopade.",
+    "statusPill": "Prijave kmalu"
+  },
+  "house": {
+    "eyebrow": "Kjer sezona živi",
+    "title": "Hiša",
+    "intro": "Za sezono 2026 se kandidati vselijo v EFU Hišo: popolnoma opremljen trenažni in stanovanjski kompleks pod 24-urnim nadzorom. Hiša je več kot nastanitev — je drugi oder oddaje: skupni treningi, kuhinjske debate, jutranji teki in hišni izzivi so vse del formata.",
+    "zones": {
+      "nappali": {
+        "name": "Dnevna soba",
+        "tagline": "Skupni prostor",
+        "desc": "Osrednji prostor Hiše. Tu potekajo skupni obroki, briefinži žirije, najave hišnih izzivov in neuradni pogovori — večina drame se rodi prav tu."
+      },
+      "konyha": {
+        "name": "Kuhinja",
+        "tagline": "Regeneracija in taktika",
+        "desc": "Srce Hiše. Jedilnik, ki ga sestavljata nutricionist in kuhar, podpira regeneracijo in celosezonsko pripravo. Kuhanje skupaj je pomemben trenutek gradnje ekipe."
+      },
+      "halok": {
+        "name": "Spalnice",
+        "tagline": "Cona počitka",
+        "desc": "Ločene ženske in moške spalnice z osebnimi omaricami in kamerami na vzglavjih. Čas počitka je strogo zaščiten — Hiša temelji na uravnoteženi pripravi, ne na pomanjkanju spanca."
+      },
+      "edzoterem": {
+        "name": "Telovadnica",
+        "tagline": "Dva treninga na dan",
+        "desc": "Popolna MMA oprema: kletka, blazine za udarce in parter, vreče, postaje za moč, kotiček za regeneracijo. Mentorji lahko prostor uporabljajo 24/7 — treningi so obvezni."
+      },
+      "kert": {
+        "name": "Vrt",
+        "tagline": "Trening na prostem in svež zrak",
+        "desc": "Travnata površina za sprint in vzdržljivost, zunanja savna, jacuzzi in odprta terasa za skupne pogovore. Na vrtu potekajo tudi zunanji izzivi."
+      },
+      "egyeb": {
+        "name": "Drugi prostori",
+        "tagline": "Savna, fizio, medicinski",
+        "desc": "Savna in jacuzzi za regeneracijo, namenska soba za fizioterapijo in masažo, ter 24/7 medicinska soba. Celotna infrastruktura Hiše služi varni, profesionalni pripravi."
+      }
+    }
+  },
+  "rules": {
+    "eyebrow": "Kako deluje",
+    "title": "Pravila",
+    "intro": "EFU Reality gradi na lastnem EFU pravilniku. V Hiši in v kletki veljajo enaka načela: spoštovanje, varnost, fer plej.",
+    "items": [
+      {
+        "title": "Vselitev in izbor",
+        "tagline": "Hišni vrstni red",
+        "points": [
+          "Mentorji določijo hišni vrstni red v 48 urah po vselitvi",
+          "Začetni vrstni red temelji na nastopih, intervjujih in fizičnih testih",
+          "Najnižje uvrščeni kandidat prvega tedna se sooča s takojšnjim izpadom"
+        ]
+      },
+      {
+        "title": "Tedenski izzivi",
+        "tagline": "Trening in glasovanje",
+        "points": [
+          "Na začetku vsakega tedna mentorji razglasijo javni hišni izziv",
+          "Izziv je obvezen — vsak kandidat nastopa pred celotno Hišo",
+          "Žirija (mentorji + 1 gost) podeljuje točke, hišno glasovanje dopolnjuje končni vrstni red"
+        ]
+      },
+      {
+        "title": "Spopadi v kletki",
+        "tagline": "EFU Stand-Up in Hybrid",
+        "points": [
+          "Dvoboji potekajo izključno po EFU pravilniku (Stand-Up ali Hybrid)",
+          "Obvezen zdravniški pregled pred vsakim spopadom",
+          "V spornih primerih se sodnikova odločitev preveri s hišnimi zapisniki točk"
+        ]
+      },
+      {
+        "title": "Izpad in vrnitev",
+        "tagline": "Brez trajnega izpada iz Hiše",
+        "points": [
+          "Najnižje uvrščeni kandidat mora v naslednjem dvoboju odigrati dvoboj",
+          "Zmagovalec dvoboja ostane v Hiši, poražencu lahko mentorji ponudijo možnost vrnitve",
+          "Samo kombinacija hišnega vrstnega reda in glasovanja občinstva lahko koga pripelje v finale"
+        ]
+      },
+      {
+        "title": "Vedenje v Hiši",
+        "tagline": "Pred kamero in za njo",
+        "points": [
+          "Agresija, nadlegovanje ali poškodovanje infrastrukture Hiše vodi v takojšnjo izključitev",
+          "Alkohol in psihoaktivne snovi so prepovedani — redni testi skozi celotno sezono",
+          "Zaščita zasebnosti: posnetki spalnic so dostopni le produkcijski ekipi"
+        ]
+      }
+    ]
+  },
+  "mentors": {
+    "eyebrow": "Ekipa",
+    "title": "Mentorji",
+    "intro": "Mentorji EFU Reality so med najbolj cenjenimi trenerji, nekdanjimi prvaki in športnimi psihologi srednjeevropske scene borilnih veščin. Živijo v Hiši celo sezono in se s kandidati pripravljajo na vsak izziv.",
+    "members": [
+      {
+        "name": "István Kovács",
+        "role": "Glavni mentor za stoječi boj",
+        "bio": "Triplni madžarski prvak z 18 leti mednarodnih izkušenj. Eden od avtorjev EFU Stand-Up pravilnika.",
+        "specialty": "Udarci, tehnike nog, točkovna taktika"
+      },
+      {
+        "name": "László Nagy",
+        "role": "Mentor za grappling",
+        "bio": "BJJ črni pas, nekdanji IBJJF evropski prvak. V Hiši vodi omejene grappling treninge po pravilniku Hybrid.",
+        "specialty": "Grappling, obramba pred submisijo, nadzor položaja"
+      },
+      {
+        "name": "Beatrix Tóth",
+        "role": "Športna psihologinja in mentalna mentorica",
+        "bio": "Športna psihologinja in mentalna trenerka številnih reprezentantov. Specializirana za reševanje sporov, regeneracijo in obvladovanje pritiska v Hiši.",
+        "specialty": "Mentalni trening, reševanje sporov, regeneracija"
+      },
+      {
+        "name": "Máté Varga",
+        "role": "Mentor za moč in kondicijo",
+        "bio": "Trener moči, nekdanji mednarodni ragbi igralec. Odgovoren za sezonsko pripravo, protokole regeneracije in prehrano.",
+        "specialty": "Kondicija, regeneracija, prehrana"
+      }
+    ]
+  },
+  "contestants": {
+    "eyebrow": "Udeleženci sezone",
+    "title": "Tekmovalci",
+    "intro": "Identitete tekmovalcev sezone 2026 bodo razkrite, ko se odprejo vrata Hiše. Do takrat tekmovalce predstavljajo silhuete — v Hiši vsi začnejo z enakimi možnostmi.",
+    "teaser": "Ob začetku sezone bodo silhuete zamenjali resnični obrazi in resnične zgodbe. Naročite se, da izveste prvi.",
+    "silhouettes": [
+      "Silhueta #1 · Specialist za stoječi boj",
+      "Silhueta #2 · Specialist za grappling",
+      "Silhueta #3 · Vseobvladujoči borec",
+      "Silhueta #4 · Vseobvladujoči borec",
+      "Silhueta #5 · Specialist za stoječi boj",
+      "Silhueta #6 · Specialist za grappling",
+      "Silhueta #7 · Novinec",
+      "Silhueta #8 · Novinec"
+    ],
+    "notifyMe": "Obvesti me ob razkritju"
+  },
+  "prize": {
+    "prelaunchBadge": "Kmalu…",
+    "prelaunchTitle": "Kaj je na kocki v tej sezoni",
+    "prelaunchBody": "Točna struktura nagrad EFU Reality bo razkrita ob odprtju Hiše. Naročite se, da izveste prvi.",
+    "launchMainTitle": "Glavna nagrada",
+    "launchMainAmount": "🏆 10.000.000 Ft",
+    "launchMainNote": "Zmagovalec sezone prejme glavno nagrado 10 milijonov forintov.",
+    "launchCareerTitle": "Karierna priložnost",
+    "launchCareerIntro": "EFU Reality ni samo o zmagovalcu. Najmočnejši tekmovalci lahko dobijo priložnost:",
+    "launchCareerBullets": [
+      "pridobiti EFU boraško pogodbo",
+      "nastopiti na EFU Fight Night dogodkih",
+      "prejeti večjo medijsko izpostavljenost",
+      "sodelovati v intervjujih in promocijskih vsebinah",
+      "zgraditi dolgoročno partnerstvo v sistemu Elite Fight Universe"
+    ],
+    "swapNote": "Pred zagonom: „Kmalu…\". Ob zagonu: 10 mil. Ft + EFU boraška pogodba."
+  },
+  "applyCta": {
+    "title": "Ti lahko postaneš naslednji EFU borec",
+    "body": "Prijavi se za sezono 2026. Hiša čaka.",
+    "button": "Prijavi se kot borec",
+    "buttonShort": "Prijavi se za Reality"
+  },
+  "footer": {
+    "disclaimer": "Točni hišni pravilnik, sestava žirije in format dvobojev se dokončno določijo pred uradnim začetkom sezone."
+  }
+}

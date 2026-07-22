@@ -1,0 +1,104 @@
+{
+  "homeHero": {
+    "eyebrow": "EFU Reality · sezona 2026",
+    "venue": "Budimpeštanska Arena",
+    "datetime": "17. julij 2026 · 15:00 CET",
+    "tagline": "Nova priložnost za borce, nova raven za gledalce — v živo in na zahtevo.",
+    "prize": "EFU Reality — glavna nagrada 10.000.000 HUF",
+    "countdownLabel": "Čas do začetka",
+    "ctaWatch": "Glej v živo",
+    "ctaReality": "Odkrij EFU Reality",
+    "ctaApply": "Prijavi se kot borec",
+    "ctaFightNight": "Naslednji Fight Night",
+    "ctaWatchAria": "Zaženi prenos v živo",
+    "playLiveHint": "Klikni za zagon prenosa v živo",
+    "liveLabel": "V ŽIVO",
+    "channelHandle": "@EliteFightUniverse",
+    "scrollHint": "Pomakni se navzdol"
+  },
+  "social": {
+    "heading": "Sledi nam",
+    "youtube": "YouTube",
+    "twitch": "Twitch",
+    "kick": "Kick",
+    "tiktok": "TikTok",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "x": "X (nekdanji Twitter)",
+    "dazn": "DAZN"
+  },
+  "hero": {
+    "eyebrow": "EFU Reality · 2026",
+    "title": "Prijavi se kot borec",
+    "body": "Elite Fight Universe (EFU) Reality gradi novo generacijo EFU borcev.\nProfesionalni trening, medijska izpostavljenost, mesto na EFU Fight Night in glavna nagrada 10.000.000 HUF čakajo.\nIzpolni obrazec — prijavi se zdaj!"
+  },
+  "perk": {
+    "training": { "title": "Profesionalni trening", "sub": "EFU trenerska ekipa" },
+    "media": { "title": "Medijska izpostavljenost", "sub": "EFU TV + Fight Night" },
+    "prize": { "title": "10.000.000 HUF", "sub": "Glavna nagrada + pogodba" }
+  },
+  "field": {
+    "name": { "label": "Ime" },
+    "age": { "label": "Starost" },
+    "city": { "label": "Mesto" },
+    "testSuly": {
+      "label": "Težnostna kategorija",
+      "placeholder": "Izberi kategorijo…"
+    },
+    "sportMult": {
+      "label": "Športna preteklost",
+      "placeholder": "Npr. 5 let MMA, 3 leta boksa, prejšnja tekmovanja…"
+    },
+    "motivation": {
+      "label": "Motivacija",
+      "placeholder": "Zakaj bi se pridružil EFU Realityju? (najmanj 20 znakov)"
+    },
+    "videoOrSocialUrl": {
+      "label": "Video ali družabna povezava",
+      "hint": "YouTube, Instagram, TikTok, Facebook ali Vimeo"
+    },
+    "contact": {
+      "label": "Kontakt",
+      "hint": "E-pošta ali telefon — javimo se ti",
+      "placeholder": "ti@primer.si ali +386 …"
+    }
+  },
+  "gdpr": {
+    "consent": "Strinjam se, da Elite Fight Universe (EFU) obdeluje moje osebne podatke, ki jih posredujem, za namen obravnave moje prijave in stika z menoj. Pravna podlaga je člen 6(1)(a) GDPR (prostovoljno soglasje). EFU podatke obravnava zaupno in jih ne posreduje tretjim osebam.",
+    "acceptedAt": "Soglasje zabeleženo ✓"
+  },
+  "submit": {
+    "label": "Pošlji prijavo",
+    "sending": "Pošiljanje…"
+  },
+  "success": {
+    "title": "Tvoja prijava je bila prejeta!",
+    "body": "Hvala! Naša ekipa bo pregledala tvojo prijavo in ti bo odgovorila preko posredovanih kontaktnih podatkov.",
+    "another": "Pošlji novo prijavo"
+  },
+  "error": {
+    "summary": "Popravi polja, označena z rdečo, in poskusi znova.",
+    "network": "Napaka v omrežju — poskusi znova.",
+    "name.too_short": "Ime mora imeti vsaj 2 znaka.",
+    "name.too_long": "Ime ima lahko največ 80 znakov.",
+    "age.invalid_number": "Vnesi veljavno starost.",
+    "age.out_of_range": "Starost mora biti med 16 in 60.",
+    "city.too_short": "Mesto mora imeti vsaj 2 znaka.",
+    "city.too_long": "Mesto ima lahko največ 80 znakov.",
+    "testSuly.required": "Izberi težnostno kategorijo.",
+    "sportMult.required": "Opiši svojo športno preteklost.",
+    "sportMult.too_long": "Športna preteklost ima lahko največ 500 znakov.",
+    "motivation.too_short": "Motivacija mora imeti vsaj 20 znakov.",
+    "motivation.too_long": "Motivacija ima lahko največ 1500 znakov.",
+    "videoOrSocialUrl.required": "Dodaj video ali družabno povezavo.",
+    "videoOrSocialUrl.too_long": "Povezava ima lahko največ 500 znakov.",
+    "videoOrSocialUrl.invalid": "Sprejemamo samo povezave z YouTube, Instagram, TikTok, Facebook ali Vimeo.",
+    "contact.invalid": "Vnesi veljaven e-poštni naslov ali telefonsko številko.",
+    "contact.too_long": "Kontakt ima lahko največ 120 znakov.",
+    "gdprConsent.required": "Za oddajo je potrebno soglasje GDPR.",
+    "turnstile_failed": "Preverjanje proti botom ni uspelo — ponovno naloži stran."
+  },
+  "form": {
+    "disclaimer": "EFU tvoje podatke uporablja izključno za obdelavo tvoje prijave. Soglasje GDPR lahko kadarkoli prekličeš."
+  }
+}

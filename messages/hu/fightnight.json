@@ -1,0 +1,17 @@
+{
+  "title": "EFU Fight Night",
+  "intro": "Az EFU Fight Night az EFU hivatalos gálasorozata. Kiemelt mérkőzések, rangsoroló összecsapások és bajnoki küzdelmek — amatőr, félprofi és profi versenyzőknek.",
+  "nextEvent": "Következő esemény",
+  "fights": "Mérkőzések",
+  "mainEvent": "Főmérkőzés",
+  "coMain": "Társmérkőzés",
+  "undercard": "Kártya",
+  "rounds": "{count} menet",
+  "buyTicket": "Jegyvásárlás",
+  "watchLive": "Élő közvetítés",
+  "types": {
+    "mainEvent": "Főmérkőzés · Súlycsoport bajnoki cím",
+    "coMain": "Társmérkőzés · Súlycsoport",
+    "undercard": "Kártya · Súlycsoport"
+  }
+}

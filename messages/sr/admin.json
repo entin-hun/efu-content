@@ -1,0 +1,88 @@
+{
+  "shell": {
+    "title": "EFU Admin",
+    "shortTitle": "Admin",
+    "tagline": "Elite Fight Universe — administracija",
+    "backToSite": "Nazad na EFU sajt",
+    "openMenu": "Otvori meni",
+    "closeMenu": "Zatvori meni",
+    "collapseSidebar": "Skupi bočnu traku",
+    "expandSidebar": "Proširi bočnu traku"
+  },
+  "roles": {
+    "guest": "Gost",
+    "user": "Korisnik",
+    "Rendszeradminisztrator": "Sistemski administrator",
+    "Producer": "Producer",
+    "RealitySzerkeszto": "Reality urednik",
+    "Tartalomkeszito": "Tvorac sadržaja",
+    "Marketing": "Marketing",
+    "Moderator": "Moderator"
+  },
+  "groups": {
+    "workspace": "Radni prostor",
+    "reality": "Reality i Producer",
+    "content": "Sadržaj",
+    "marketing": "Marketing",
+    "moderation": "Moderacija",
+    "system": "Sistem"
+  },
+  "nav": {
+    "dashboard": "Kontrolna tabla",
+    "applications": "Prijave",
+    "analytics": "Analitika",
+    "events": "Događaji",
+    "fightCards": "Fight cardovi",
+    "results": "Rezultati",
+    "votes": "Glasanja",
+    "realityTriggers": "Reality okidači",
+    "audioLibrary": "Audio biblioteka",
+    "pages": "Stranice",
+    "news": "Vesti",
+    "videos": "Videi",
+    "photos": "Fotografije",
+    "fighterProfiles": "Profili boraca",
+    "sponsors": "Sponzori",
+    "socialLinks": "Društvene veze",
+    "chatModeration": "Moderacija četa",
+    "users": "Korisnici",
+    "roles": "Uloge",
+    "auditLogs": "Audit zapisi",
+    "systemSettings": "Podešavanja sistema"
+  },
+  "dashboard": {
+    "title": "Kontrolna tabla",
+    "welcome": "Dobrodošli u EFU admin",
+    "recentActivity": "Nedavne aktivnosti",
+    "latestApplications": "Najnovije prijave",
+    "latestEmails": "Najnoviji odlazni emailovi",
+    "analyticsOverview": "Pregled analitike (7 dana)",
+    "noApplications": "Još nema prijava.",
+    "noEmails": "Još nema poslatih emailova.",
+    "loadingAnalytics": "Učitavanje analitike…",
+    "openApplication": "Otvori prijavu",
+    "noAnalytics": "Još nema podataka. Demo događaji se učitavaju pri prvoj poseti.",
+    "seeAllApplications": "Sve prijave",
+    "seeAnalytics": "Detaljna analitika",
+    "stats": {
+      "totalApplications": "Ukupno prijava",
+      "newApplications": "Novo (neobrađeno)",
+      "eventsLast7d": "Događaji (7 dana)",
+      "viewersNow": "Gledalaca sada"
+    }
+  },
+  "common": {
+    "language": "Jezik",
+    "selectLanguage": "Izaberi jezik",
+    "logout": "Odjava",
+    "loading": "Učitavanje…",
+    "comingSoon": "Uskoro",
+    "comingSoonBody": "Ovaj prikaz je privremeni dok se ne završe druge L6 kartice. Provera uloge je već aktivna — samo ovlašćene uloge mogu pristupiti ovoj ruti."
+  },
+  "forbidden": {
+    "title": "Pristup odbijen",
+    "code": "403",
+    "body": "Nemate pristup ovom prikazu. U EFU adminu bočna traka prikazuje samo sekcije koje vaša uloga može da dosegne.",
+    "hint": "U razvoju se uloga postavlja preko efu_role kolačića. Primer: document.cookie = \"efu_role=Rendszeradminisztrator\""
+  }
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "kozak-peter",
+    "name": {
+      "hu": "Kozák Péter",
+      "en": "Kozák Péter"
+    },
+    "intro": {
+      "hu": "<p>Kozák Péter az EFU Reality 2026-os szériájának egyik legígéretesebb versenyzője.</p>",
+      "en": "<p>Kozák Péter is one of the most promising contestants of the EFU Reality 2026 season.</p>"
+    },
+    "story": {
+      "hu": "<p>Kozák Péter több mint tíz éve küzd különböző szabályrendszerekben. Az EFU Realitybe azért jelentkezett, hogy egy saját versenyrendszerben mérhesse össze magát a régió legjobbjaival. Az EFU Ruleset — kéz- és lábtechnikák, korlátozott idejű földharc — pontosan az a környezet, ahol a technikai repertoárja érvényesülni tud.</p><p>Az EFU stábja a szezon során végigkíséri a felkészülését, és a legjobb teljesítményt nyújtó versenyzők számára megnyílik az út az EFU Fight Night gálák felé.</p>",
+      "en": "<p>Kozák Péter has been competing for over a decade across multiple rule sets. They joined EFU Reality to test themselves in a homegrown format against the region's best. The EFU Ruleset — striking with limited ground time — is exactly the environment where their technical range can shine.</p><p>The EFU staff follows their progress throughout the season, with the top performers earning a path to EFU Fight Night events.</p>"
+    },
+    "nickname": {
+      "hu": "„A Pusztító\"",
+      "en": "\"The Destroyer\""
+    },
+    "country": "🇭🇺 HU",
+    "weightClass": {
+      "hu": "Nehézsúly",
+      "en": "Heavyweight"
+    },
+    "hometown": {
+      "hu": "Budapest",
+      "en": "Budapest"
+    },
+    "gym": {
+      "hu": "EFU Training Center",
+      "en": "EFU Training Center"
+    },
+    "dob": "1995-06-15",
+    "heightCm": 188,
+    "reachCm": 192,
+    "stance": "orthodox",
+    "photo": "/fighters/kozak-peter.jpg",
+    "record": {
+      "wins": 18,
+      "losses": 2,
+      "draws": 0,
+      "kos": 12,
+      "submissions": 4
+    },
+    "fightHistory": [],
+    "efuPath": [
+      {
+        "stage": "reality",
+        "date": "2026-07-17",
+        "title": {
+          "hu": "EFU Reality 2026 — Versenyző",
+          "en": "EFU Reality 2026 — Contestant"
+        },
+        "description": {
+          "hu": "<p>2026 nyarán csatlakozott az EFU Reality 2026-os szériájához.</p>",
+          "en": "<p>Joined the EFU Reality 2026 season in summer 2026.</p>"
+        }
+      }
+    ],
+    "videos": [],
+    "published": true,
+    "sortOrder": 1,
+    "updatedAt": "2026-07-07T08:16:11.897Z"
+  },
+  {
+    "slug": "varga-bence",
+    "name": {
+      "hu": "Varga Bence",
+      "en": "Varga Bence"
+    },
+    "intro": {
+      "hu": "<p>Varga Bence az EFU Reality 2026-os szériájának egyik legígéretesebb versenyzője.</p>",
+      "en": "<p>Varga Bence is one of the most promising contestants of the EFU Reality 2026 season.</p>"
+    },
+    "story": {
+      "hu": "<p>Varga Bence több mint tíz éve küzd különböző szabályrendszerekben. Az EFU Realitybe azért jelentkezett, hogy egy saját versenyrendszerben mérhesse össze magát a régió legjobbjaival. Az EFU Ruleset — kéz- és lábtechnikák, korlátozott idejű földharc — pontosan az a környezet, ahol a technikai repertoárja érvényesülni tud.</p><p>Az EFU stábja a szezon során végigkíséri a felkészülését, és a legjobb teljesítményt nyújtó versenyzők számára megnyílik az út az EFU Fight Night gálák felé.</p>",
+      "en": "<p>Varga Bence has been competing for over a decade across multiple rule sets. They joined EFU Reality to test themselves in a homegrown format against the region's best. The EFU Ruleset — striking with limited ground time — is exactly the environment where their technical range can shine.</p><p>The EFU staff follows their progress throughout the season, with the top performers earning a path to EFU Fight Night events.</p>"
+    },
+    "nickname": {
+      "hu": "„A Pusztító\"",
+      "en": "\"The Destroyer\""
+    },
+    "country": "🇭🇺 HU",
+    "weightClass": {
+      "hu": "Nehézsúly",
+      "en": "Heavyweight"
+    },
+    "hometown": {
+      "hu": "Budapest",
+      "en": "Budapest"
+    },
+    "gym": {
+      "hu": "EFU Training Center",
+      "en": "EFU Training Center"
+    },
+    "dob": "1995-06-15",
+    "heightCm": 188,
+    "reachCm": 192,
+    "stance": "orthodox",
+    "photo": "/fighters/varga-bence.jpg",
+    "record": {
+      "wins": 12,
+      "losses": 1,
+      "draws": 0,
+      "kos": 7,
+      "submissions": 2
+    },
+    "fightHistory": [],
+    "efuPath": [
+      {
+        "stage": "reality",
+        "date": "2026-07-17",
+        "title": {
+          "hu": "EFU Reality 2026 — Versenyző",
+          "en": "EFU Reality 2026 — Contestant"
+        },
+        "description": {
+          "hu": "<p>2026 nyarán csatlakozott az EFU Reality 2026-os szériájához.</p>",
+          "en": "<p>Joined the EFU Reality 2026 season in summer 2026.</p>"
+        }
+      }
+    ],
+    "videos": [],
+    "published": true,
+    "sortOrder": 2,
+    "updatedAt": "2026-07-07T08:16:11.897Z"
+  }
+]

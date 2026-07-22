@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "title": "Sponsori și parteneri · EFU",
+    "description": "Sponsorii Elite Fight Universe (EFU) susțin talent-show-ul nostru de arte marțiale și seria de gale. Descoperă nivelurile de parteneriat, opțiunile de integrare și cum ne poți contacta."
+  },
+  "hero": {
+    "eyebrow": "EFU · Parteneriat",
+    "title": "Sponsori și parteneri",
+    "subtitle": "Elite Fight Universe este mândru de partenerii săi",
+    "intro": "Nivelurile de parteneriat EFU sunt create pentru a oferi sponsorilor vizibilitate personalizată la gale, în transmisiuni și pe platformele noastre digitale. Fiecare nivel include activări dedicate și pachete de vizibilitate."
+  },
+  "why": {
+    "eyebrow": "De ce EFU?",
+    "title": "O platformă, trei formate, nouă piețe",
+    "intro": "EFU rulează în paralel un format reality, o serie de gale și o platformă digitală. Sponsorii nu se alătură doar unui eveniment — ci unui ecosistem de comunicare integrat, pe tot parcursul anului.",
+    "audience": {
+      "title": "Publicul nostru",
+      "items": [
+        "Bărbați și femei cu vârsta 18–45 de ani care urmăresc activ sporturile de contact",
+        "Acoperire în Europa Centrală: Ungaria, Slovacia, România, Croația, Serbia, Slovenia, Germania",
+        "Vizitatori de sală, sportivi, pasionați de arte marțiale",
+        "Consumatori de conținut reality și entertainment",
+        "Public multilingv — platforma este disponibilă în 9 limbi"
+      ]
+    },
+    "values": {
+      "title": "Valorile brandului",
+      "items": [
+        "Performanță și competiție — transmitem spiritul sportului",
+        "Comunitate — conectăm sportivii, fanii și partenerii",
+        "Profesionalism — producție de clasă internațională",
+        "Integritate — parteneriate transparente, reguli clare"
+      ]
+    },
+    "formats": {
+      "title": "Formatele de conținut",
+      "items": [
+        "EFU Reality — talent-show de mai multe săptămâni, cu episoade, culise și provocări",
+        "EFU Fight Night — seria de gale, meciuri de ranking și campionate",
+        "EFU TV — transmisiuni live, interviuri, materiale din culise și conținut scurt"
+      ]
+    }
+  },
+  "tiers": {
+    "title": "Niveluri de parteneriat",
+    "subtitle": "Alege nivelul potrivit brandului tău. Pentru pachete și prețuri personalizate, contactează-ne prin pagina Contact și îți trimitem o ofertă dedicată.",
+    "currencyNote": "Prețurile sunt orientative — fiecare pachet este personalizabil.",
+    "bronze": {
+      "name": "Bronz",
+      "tagline": "Vizibilitate pe suprafețele noastre digitale",
+      "price": "Nivel de intrare",
+      "features": [
+        "Logo pe pagina Sponsori EFU",
+        "Mențiune în subsolul postărilor sociale (1–2 ori pe lună)",
+        "Mulțumire în genericele Reality",
+        "Acces la newsletter-ul pentru sponsori EFU"
+      ],
+      "cta": "Solicită pachetul Bronz"
+    },
+    "silver": {
+      "name": "Argint",
+      "tagline": "Prezență digitală + generic",
+      "price": "Nivel mediu",
+      "features": [
+        "Tot ce include pachetul Bronz",
+        "Logo în genericele transmisiunii EFU Fight Night",
+        "Spot scurt înaintea episoadelor Reality (1 pe lună)",
+        "Drept de utilizare a unui hashtag branded",
+        "Interviu scurt / mențiune EFU TV"
+      ],
+      "cta": "Solicită pachetul Argint"
+    },
+    "gold": {
+      "name": "Aur",
+      "tagline": "Prezență la gală + Reality",
+      "price": "Nivel avansat",
+      "features": [
+        "Tot ce include pachetul Argint",
+        "Logo pe covorul ring-side și pe afișul fight card-ului",
+        "Zonă branded dedicată la sala Fight Night",
+        "Eșantion de produs / display la standul de activare",
+        "4 invitații la o gală EFU Fight Night"
+      ],
+      "cta": "Solicită pachetul Aur"
+    },
+    "reality": {
+      "name": "Integrare Reality",
+      "tagline": "Brandul tău intră în casa reality",
+      "price": "Premium",
+      "features": [
+        "Product placement în casa reality",
+        "Zonă branded în casa reality (colț de antrenament, zonă de recuperare, insulă de bucătărie)",
+        "Provocare curatoriată de sponsor pentru concurenți",
+        "Logo în genericele Reality cu mențiuni pe episod",
+        "Activare exclusivă pe rețelele brandului"
+      ],
+      "cta": "Discută integrarea Reality"
+    },
+    "fightNight": {
+      "name": "Integrare Fight Night",
+      "tagline": "Brandul tău lângă ring",
+      "price": "Premium",
+      "features": [
+        "Placement branded ring-side (pres, covor, colț)",
+        "Fight card sponsorizat (nivel title-sponsor sau card-sponsor)",
+        "Replay sponsorship — bumper branded în reluări",
+        "Mențiuni dedicate din partea comentatorului pe parcursul transmisiunii Fight Night",
+        "Participare pe întregul sezon Fight Night (3–4 gale)"
+      ],
+      "cta": "Discută integrarea Fight Night"
+    }
+  },
+  "integrations": {
+    "title": "Opțiuni de integrare",
+    "subtitle": "Două direcții principale de integrare — Reality și Fight Night — care pot fi și combinate.",
+    "realityTitle": "Integrare EFU Reality",
+    "realityItems": [
+      {
+        "icon": "🏠",
+        "title": "Product placement în casa reality",
+        "body": "Produsele tale apar natural în viața de zi cu zi a casei reality — de la blatul de bucătărie până la sala de antrenament."
+      },
+      {
+        "icon": "🎯",
+        "title": "Zone branded",
+        "body": "Colțul tău branded în casă: pad de antrenament, zonă de recuperare, colț de relaxare — sau orice se potrivește brandului tău."
+      },
+      {
+        "icon": "🏆",
+        "title": "Provocări curatoriate de sponsor",
+        "body": "Concurenții se întrec în provocarea ta — cea mai bună performanță este legată de numele tău."
+      },
+      {
+        "icon": "📺",
+        "title": "Mențiuni pe episod + generice",
+        "body": "Logo-ul tău apare în fiecare episod, cu mențiune din partea comentatorului înaintea segmentului relevant."
+      }
+    ],
+    "fightNightTitle": "Integrare EFU Fight Night",
+    "fightNightItems": [
+      {
+        "icon": "🥊",
+        "title": "Placement ring-side",
+        "body": "Logo pe covorul ringului, pe pânza ringului și în colț — camera îl vede mereu, publicul îl citește mereu."
+      },
+      {
+        "icon": "🎫",
+        "title": "Fight card sponsorizat",
+        "body": "Un întreg fight card poartă numele tău — de la materialele teaser până la interviul câștigătorului."
+      },
+      {
+        "icon": "🔁",
+        "title": "Replay sponsorship",
+        "body": "Bumpere branded în reluări și în segmentele de analiză — atenție premium în momentele cheie."
+      },
+      {
+        "icon": "🎙️",
+        "title": "Mențiuni ale comentatorului",
+        "body": "Segmente dedicate despre brandul tău pe parcursul transmisiunii — pe vocea experților, în spiritul Fight Night."
+      }
+    ]
+  },
+  "logos": {
+    "title": "Partenerii noștri",
+    "subtitle": "După semnarea primilor trei sponsori, logo-urile lor vor apărea aici. Deocamdată, placeholder.",
+    "placeholderNote": "Zidul de logo-uri se completează după semnarea primilor trei sponsori."
+  },
+  "contactCta": {
+    "title": "Alătură-te familiei de parteneri EFU",
+    "body": "Solicită o ofertă personalizată și hai să discutăm cum se potrivește brandul tău în ecosistemul EFU.",
+    "primary": "Contactează-ne",
+    "secondary": "Înapoi la pagina principală"
+  }
+}

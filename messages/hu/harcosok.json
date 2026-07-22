@@ -1,0 +1,106 @@
+{
+  "listing": {
+    "title": "Harcosok",
+    "subtitle": "Ismerd meg az EFU Reality és Fight Night harcosait — a történetüket, az útjukat és a mérlegüket.",
+    "empty": "Jelenleg nincs megjelent harcos. Hamarosan érkeznek.",
+    "viewProfile": "Profil megtekintése",
+    "fightRecord": "Mérleg",
+    "path": "EFU út",
+    "filter": {
+      "label": "Szűrés",
+      "all": "Mind",
+      "reality": "Reality",
+      "fight_night": "Fight Night",
+      "pro": "Profi"
+    }
+  },
+  "profile": {
+    "intro": "Bemutatkozás",
+    "story": "Történet",
+    "efuPath": "EFU út",
+    "efuPathTeaser": "Honnan indult",
+    "record": "Mérleg",
+    "recordShort": "Gy-D-V",
+    "videos": "Videók",
+    "videosEmpty": "Ehhez a harcoshoz még nincs videó.",
+    "fightHistory": "Mérkőzések",
+    "fightHistoryEmpty": "Még nincs elérhető mérkőzés.",
+    "bio": {
+      "born": "Született",
+      "country": "Ország",
+      "hometown": "Székhely",
+      "gym": "Edzőterem",
+      "weightClass": "Súlycsoport",
+      "stance": "Állás",
+      "height": "Magasság",
+      "reach": "Hatótáv"
+    },
+    "stats": {
+      "wins": "Győzelem",
+      "losses": "Vereség",
+      "draws": "Döntetlen",
+      "kos": "Kiütés",
+      "submissions": "Megadás"
+    },
+    "notFound": "Ez a harcos nem található.",
+    "backToListing": "Vissza a harcosokhoz",
+    "share": "Megosztás",
+    "stages": {
+      "reality": "EFU Reality",
+      "fight_night": "EFU Fight Night",
+      "pro": "Profi karrier"
+    }
+  },
+  "admin": {
+    "nav": "Harcosok (admin)",
+    "title": "Harcosok kezelése",
+    "newFighter": "Új harcos",
+    "editFighter": "Harcos szerkesztése",
+    "deleteFighter": "Harcos törlése",
+    "deleteConfirm": "Biztosan törlöd ezt a harcost?",
+    "fields": {
+      "slug": "URL slug",
+      "name": "Név",
+      "nickname": "Becenév",
+      "country": "Ország (pl. 🇭🇺 HU)",
+      "intro": "Bemutatkozás (rövid)",
+      "story": "Történet (hosszú, HTML)",
+      "weightClass": "Súlycsoport",
+      "hometown": "Város",
+      "gym": "Edzőterem",
+      "dob": "Születési dátum",
+      "heightCm": "Magasság (cm)",
+      "reachCm": "Hatótáv (cm)",
+      "stance": "Állás",
+      "photo": "Fénykép",
+      "photoUpload": "Fénykép feltöltése",
+      "photoHint": "JPG/PNG, max 4MB",
+      "recordWins": "Győzelmek",
+      "recordLosses": "Vereségek",
+      "recordDraws": "Döntetlenek",
+      "recordKos": "Kiütések",
+      "recordSubmissions": "Megadások",
+      "efuPath": "EFU út (soronként: dátum | szintaszám | cím)",
+      "videos": "Videók (soronként: youtube|mp4 | URL | cím)",
+      "published": "Publikálva",
+      "sortOrder": "Sorrend"
+    },
+    "actions": {
+      "save": "Mentés",
+      "cancel": "Mégse",
+      "delete": "Törlés",
+      "upload": "Feltöltés"
+    },
+    "messages": {
+      "saved": "Harcos elmentve.",
+      "deleted": "Harcos törölve.",
+      "slugExists": "Ez a slug már foglalt.",
+      "invalid": "Hibás adatok, kérlek ellenőrizd a mezőket."
+    }
+  },
+  "common": {
+    "language": "Nyelv",
+    "loading": "Betöltés...",
+    "error": "Hiba történt."
+  }
+}

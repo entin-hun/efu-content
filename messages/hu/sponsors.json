@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "title": "Szponzorok és partnerek · EFU",
+    "description": "Az Elite Fight Universe (EFU) szponzorai a harcművészeti tehetségkutatás és a gálasorozat mellé állnak. Ismerd meg a partnerszinteket, az integrációs lehetőségeket és a kapcsolatfelvételt."
+  },
+  "hero": {
+    "eyebrow": "EFU · Partnerség",
+    "title": "Szponzorok és partnerek",
+    "subtitle": "Az Elite Fight Universe büszke partnereire",
+    "intro": "Az EFU partnerszintek célja, hogy a szponzorok testre szabott megjelenést kapjanak a gálákon, a közvetítésekben és a digitális platformjainkon. Minden partnerszinthez dedikált aktivációk és láthatósági csomagok tartoznak."
+  },
+  "why": {
+    "eyebrow": "Miért az EFU?",
+    "title": "Egy platform, három formátum, kilenc piac",
+    "intro": "Az EFU egyszerre épít reality-formátumot, gálasorozatot és digitális platformot. A szponzorok ezáltal nem egy-egy esemény mellé, hanem egy egész éves, integrált kommunikációs ökoszisztémához csatlakoznak.",
+    "audience": {
+      "title": "Célcsoportunk",
+      "items": [
+        "18–45 éves férfiak és nők, akik aktívan követik a küzdősportokat",
+        "Közép-európai közönség: Magyarország, Szlovákia, Románia, Horvátország, Szerbia, Szlovénia, Németország",
+        "Edzőterem-látogatók, sportolók, harcművészet-kedvelők",
+        "Reality- és szórakoztató tartalomfogyasztók",
+        "Többnyelvű közönség — a platform 9 nyelven érhető el"
+      ]
+    },
+    "values": {
+      "title": "Márkaértékek",
+      "items": [
+        "Teljesítmény és küzdelem — a sport szellemiségét közvetítjük",
+        "Közösség — összekötjük a sportolókat, szurkolókat és partnereket",
+        "Professzionalizmus — nemzetközi színvonalú produkció",
+        "Integritás — átlátható partnerség, tiszta szabályok"
+      ]
+    },
+    "formats": {
+      "title": "Tartalomformátumok",
+      "items": [
+        "EFU Reality — többhetes tehetségkutató, epizódok, backstage, kihívások",
+        "EFU Fight Night — gálasorozat, körmérkőzések, bajnoki címek",
+        "EFU TV — élő közvetítések, interjúk, háttéranyagok, rövid formátumú tartalmak"
+      ]
+    }
+  },
+  "tiers": {
+    "title": "Partnerszintek",
+    "subtitle": "Válaszd ki a márkádhoz illő partnerszintet. Az árakról az egyedi csomagokról a Kapcsolat menüpontban kérhetsz személyre szabott ajánlatot.",
+    "currencyNote": "Az árak tájékoztató jellegűek — a végleges csomag testre szabható.",
+    "bronze": {
+      "name": "Bronz",
+      "tagline": "Láthatóság a digitális felületeken",
+      "price": "Belépő szint",
+      "features": [
+        "Logó megjelenítése az EFU weboldal Szponzorok oldalán",
+        "Megjelenés a közösségi média posztok láblécében (havi 1-2 alkalommal)",
+        "Hálás köszönet a Reality stáblistájában",
+        "Hozzáférés az EFU zárt szponzori hírleveléhez"
+      ],
+      "cta": "Bronz csomag kérése"
+    },
+    "silver": {
+      "name": "Ezüst",
+      "tagline": "Digitális jelenlét + stáblista",
+      "price": "Közép szint",
+      "features": [
+        "A Bronz csomag minden eleme",
+        "Logó megjelenítése az EFU Fight Night közvetítések stáblistájában",
+        "Rövid reklámszpot a Reality epizódok előtt (havi 1 db)",
+        "Egyedi branded hashtag használati joga",
+        "EFU TV rövid interjú / mention"
+      ],
+      "cta": "Ezüst csomag kérése"
+    },
+    "gold": {
+      "name": "Arany",
+      "tagline": "Gála + Reality jelenlét",
+      "price": "Haladó szint",
+      "features": [
+        "Az Ezüst csomag minden eleme",
+        "Logó a ring-side szőnyegen és a fight card poszteren",
+        "Dedikált branded zóna a Fight Night helyszínen",
+        "Termékminta / display a helyszíni aktivációs pultnál",
+        "Részvétel 1 EFU Fight Night gálán 4 fő részére"
+      ],
+      "cta": "Arany csomag kérése"
+    },
+    "reality": {
+      "name": "Reality-integráció",
+      "tagline": "Márkád belép a reality házba",
+      "price": "Prémium",
+      "features": [
+        "Termékmegjelenés a reality-házban (product placement)",
+        "Branded zóna a reality-házban (pl. edzősarok, pihenősarok, konyhai sziget)",
+        "Szponzor által kurált kihívás / feladat a versenyzőknek",
+        "Logó a Reality stáblistájában, epizódonkénti említéssel",
+        "Exkluzív social media aktiváció a saját márka social csatornáin"
+      ],
+      "cta": "Reality-integráció egyeztetés"
+    },
+    "fightNight": {
+      "name": "Fight Night-integráció",
+      "tagline": "Márkád a ring mellett",
+      "price": "Prémium",
+      "features": [
+        "Ring-side branded placement (lábtörlő, palánk, sarok)",
+        "Szponzorált fight card (címszponzori vagy kártya-szponzori szinten)",
+        "Replay sponsorship — a visszajátszások alatti branded átkötés",
+        "Dedikált kommentátori említések a Fight Night közvetítésben",
+        "Részvétel a teljes Fight Night szezonra (3-4 gála)"
+      ],
+      "cta": "Fight Night-integráció egyeztetés"
+    }
+  },
+  "integrations": {
+    "title": "Integrációs lehetőségek",
+    "subtitle": "Két fő integrációs irány — Reality és Fight Night — amelyek egymással kombinálhatók is.",
+    "realityTitle": "EFU Reality integráció",
+    "realityItems": [
+      {
+        "icon": "🏠",
+        "title": "Product placement a reality-házban",
+        "body": "Termékeid természetesen jelennek meg a reality-ház mindennapjaiban — a konyhapulttól az edzőteremig."
+      },
+      {
+        "icon": "🎯",
+        "title": "Branded zónák",
+        "body": "Saját márkás sarok a házban: edző-pad, regeneráló zóna, pihenősarok, vagy bármi, ami a márkádhoz illik."
+      },
+      {
+        "icon": "🏆",
+        "title": "Szponzor által kurált kihívások",
+        "body": "A versenyzők a te feladatodon mérik össze magukat — a legjobb teljesítmény díjazása a te nevedhez kötődik."
+      },
+      {
+        "icon": "📺",
+        "title": "Epizódonkénti említés + stáblista",
+        "body": "Minden epizódban megjelenik a logód + a kommentátori említés az adott szegmens előtt."
+      }
+    ],
+    "fightNightTitle": "EFU Fight Night integráció",
+    "fightNightItems": [
+      {
+        "icon": "🥊",
+        "title": "Ring-side placement",
+        "body": "Logó a ring szélén, a palánkon és a sarokban — a kamera mindig látja, a közönség mindig olvassa."
+      },
+      {
+        "icon": "🎫",
+        "title": "Sponsored fight card",
+        "body": "Egy teljes fight cardot a te nevedről nevezünk el — a beharangozó videóktól a győztes interjúig."
+      },
+      {
+        "icon": "🔁",
+        "title": "Replay sponsorship",
+        "body": "A visszajátszások és az elemző szegmensek alatt branded átkötés — prémium figyelem a kulcsmomentumoknál."
+      },
+      {
+        "icon": "🎙️",
+        "title": "Kommentátori említések",
+        "body": "A teljes közvetítés alatt dedikált szegmensek a márkádról — szakértői hangon, a Fight Night szellemiségével összhangban."
+      }
+    ]
+  },
+  "logos": {
+    "title": "Partnereink",
+    "subtitle": "Az első három szponzor aláírása után itt jelennek meg a partnereink logói. Addig helyőrző.",
+    "placeholderNote": "A logófal az első három szponzor aláírása után töltődik fel."
+  },
+  "contactCta": {
+    "title": "Csatlakozz az EFU partnereihez",
+    "body": "Kérj személyre szabott ajánlatot, és beszéljük meg, hogyan illeszkedik a márkád az EFU ökoszisztémájába.",
+    "primary": "Kapcsolatfelvétel",
+    "secondary": "Vissza a főoldalra"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "homeHero": {
+    "eyebrow": "EFU Reality · موسم 2026",
+    "venue": "بودابست أرينا",
+    "datetime": "17 يوليو 2026 · 15:00 بتوقيت وسط أوروبا",
+    "tagline": "فرصة جديدة للمقاتلين، مستوى جديد للمشاهدين — مباشرة وعند الطلب.",
+    "prize": "EFU Reality — الجائزة الكبرى 10,000,000 فورنت",
+    "countdownLabel": "الوقت المتبقي حتى البداية",
+    "ctaWatch": "شاهد مباشرة",
+    "ctaReality": "اكتشف EFU Reality",
+    "ctaApply": "تقدم كمقاتل",
+    "ctaFightNight": "Fight Night القادم",
+    "ctaWatchAria": "بدء البث المباشر",
+    "playLiveHint": "اضغط لبدء البث المباشر",
+    "liveLabel": "مباشر",
+    "channelHandle": "@EliteFightUniverse",
+    "scrollHint": "مرر للأسفل"
+  },
+  "social": {
+    "heading": "تابعنا",
+    "youtube": "YouTube",
+    "twitch": "Twitch",
+    "kick": "Kick",
+    "tiktok": "TikTok",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "x": "X (تويتر سابقاً)",
+    "dazn": "DAZN"
+  },
+  "hero": {
+    "eyebrow": "EFU Reality · 2026",
+    "title": "تقدم كمقاتل",
+    "body": "برنامج Elite Fight Universe (EFU) Reality يبني الجيل القادم من مقاتلي EFU.\nتدريب احترافي، ظهور إعلامي، مكان في EFU Fight Night وجائزة كبرى قدرها 10,000,000 فورنت.\nاملأ النموذج وقدّم الآن!"
+  },
+  "perk": {
+    "training": { "title": "تدريب احترافي", "sub": "فريق مدربي EFU" },
+    "media": { "title": "ظهور إعلامي", "sub": "EFU TV + Fight Night" },
+    "prize": { "title": "10,000,000 فورنت", "sub": "جائزة كبرى + عقد" }
+  },
+  "field": {
+    "name": { "label": "الاسم" },
+    "age": { "label": "العمر" },
+    "city": { "label": "المدينة" },
+    "testSuly": {
+      "label": "فئة الوزن",
+      "placeholder": "اختر فئة…"
+    },
+    "sportMult": {
+      "label": "الخبرة الرياضية",
+      "placeholder": "مثلاً: 5 سنوات MMA، 3 سنوات ملاكمة، بطولات سابقة…"
+    },
+    "motivation": {
+      "label": "الدافع",
+      "placeholder": "لماذا تريد الانضمام إلى EFU Reality؟ (20 حرفاً على الأقل)"
+    },
+    "videoOrSocialUrl": {
+      "label": "رابط فيديو أو اجتماعي",
+      "hint": "YouTube أو Instagram أو TikTok أو Facebook أو Vimeo"
+    },
+    "contact": {
+      "label": "التواصل",
+      "hint": "بريد إلكتروني أو هاتف — سنعود إليك",
+      "placeholder": "you@example.com أو +36 …"
+    }
+  },
+  "gdpr": {
+    "consent": "أوافق على قيام Elite Fight Universe (EFU) بمعالجة البيانات الشخصية التي أقدمها لغرض تقييم طلبي والتواصل معي. الأساس القانوني هو المادة 6(1)(أ) من اللائحة العامة لحماية البيانات (الموافقة الطوعية). تتعامل EFU مع البيانات بسرية ولا تنقلها إلى أطراف ثالثة.",
+    "acceptedAt": "تم تسجيل الموافقة ✓"
+  },
+  "submit": {
+    "label": "إرسال الطلب",
+    "sending": "جارٍ الإرسال…"
+  },
+  "success": {
+    "title": "تم استلام طلبك!",
+    "body": "شكراً لك! سيراجع فريقنا طلبك وسيتواصل معك عبر بيانات التواصل التي قدمتها.",
+    "another": "إرسال طلب آخر"
+  },
+  "error": {
+    "summary": "يرجى تصحيح الحقول المميزة باللون الأحمر وإعادة المحاولة.",
+    "network": "خطأ في الشبكة — يرجى إعادة المحاولة.",
+    "name.too_short": "يجب أن يكون الاسم حرفين على الأقل.",
+    "name.too_long": "يجب ألا يتجاوز الاسم 80 حرفاً.",
+    "age.invalid_number": "يرجى إدخال عمر صحيح.",
+    "age.out_of_range": "يجب أن يكون العمر بين 16 و60.",
+    "city.too_short": "يجب أن يكون اسم المدينة حرفين على الأقل.",
+    "city.too_long": "يجب ألا يتجاوز اسم المدينة 80 حرفاً.",
+    "testSuly.required": "يرجى اختيار فئة الوزن.",
+    "sportMult.required": "يرجى وصف خبرتك الرياضية.",
+    "sportMult.too_long": "يجب ألا تتجاوز الخبرة الرياضية 500 حرف.",
+    "motivation.too_short": "يجب أن يكون الدافع 20 حرفاً على الأقل.",
+    "motivation.too_long": "يجب ألا يتجاوز الدافع 1500 حرف.",
+    "videoOrSocialUrl.required": "يرجى تقديم رابط فيديو أو اجتماعي.",
+    "videoOrSocialUrl.too_long": "يجب ألا يتجاوز الرابط 500 حرف.",
+    "videoOrSocialUrl.invalid": "يُقبل فقط روابط YouTube أو Instagram أو TikTok أو Facebook أو Vimeo.",
+    "contact.invalid": "يرجى تقديم بريد إلكتروني أو رقم هاتف صحيح.",
+    "contact.too_long": "يجب ألا يتجاوز التواصل 120 حرفاً.",
+    "gdprConsent.required": "موافقة GDPR مطلوبة للإرسال.",
+    "turnstile_failed": "فشل التحقق من الروبوت — يرجى إعادة تحميل الصفحة."
+  },
+  "form": {
+    "disclaimer": "تستخدم EFU بياناتك فقط لمعالجة طلبك. يمكنك سحب موافقة GDPR في أي وقت."
+  }
+}

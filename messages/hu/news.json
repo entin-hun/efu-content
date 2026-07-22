@@ -1,0 +1,18 @@
+{
+  "title": "Hírek",
+  "subtitle": "Friss hírek az EFU világából",
+  "readMore": "Tovább olvasom",
+  "allNews": "Összes hír",
+  "categories": {
+    "all": "Mind",
+    "announcements": "Bejelentések",
+    "fightNight": "Fight Night",
+    "reality": "Reality",
+    "fighters": "Harcosok",
+    "media": "Média"
+  },
+  "publishedOn": "Megjelent:",
+  "by": "Szerző:",
+  "share": "Megosztás",
+  "empty": "Jelenleg nincs elérhető hír."
+}

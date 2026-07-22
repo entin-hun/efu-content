@@ -1,0 +1,106 @@
+{
+  "listing": {
+    "title": "Bojovníci",
+    "subtitle": "Spoznajte bojovníkov EFU Reality a Fight Night — ich príbehy, cestu a bilanciu.",
+    "empty": "Zatiaľ nie sú publikovaní bojovníci. Čoskoro.",
+    "viewProfile": "Zobraziť profil",
+    "fightRecord": "Bilancia",
+    "path": "EFU cesta",
+    "filter": {
+      "label": "Filter",
+      "all": "Všetci",
+      "reality": "Reality",
+      "fight_night": "Fight Night",
+      "pro": "Profi"
+    }
+  },
+  "profile": {
+    "intro": "Úvod",
+    "story": "Príbeh",
+    "efuPath": "EFU cesta",
+    "efuPathTeaser": "Odkiaľ začali",
+    "record": "Bilancia",
+    "recordShort": "V-P-R",
+    "videos": "Videá",
+    "videosEmpty": "Tento bojovník zatiaľ nemá videá.",
+    "fightHistory": "Zápasy",
+    "fightHistoryEmpty": "História zápasov nie je k dispozícii.",
+    "bio": {
+      "born": "Dátum narodenia",
+      "country": "Krajina",
+      "hometown": "Mesto",
+      "gym": "Klub",
+      "weightClass": "Váhová kategória",
+      "stance": "Postoj",
+      "height": "Výška",
+      "reach": "Dosah"
+    },
+    "stats": {
+      "wins": "Víťazstvá",
+      "losses": "Prehry",
+      "draws": "Remízy",
+      "kos": "Knockouty",
+      "submissions": "Submisie"
+    },
+    "notFound": "Tento bojovník sa nenašiel.",
+    "backToListing": "Späť na bojovníkov",
+    "share": "Zdieľať",
+    "stages": {
+      "reality": "EFU Reality",
+      "fight_night": "EFU Fight Night",
+      "pro": "Profi kariéra"
+    }
+  },
+  "admin": {
+    "nav": "Bojovníci (admin)",
+    "title": "Správa bojovníkov",
+    "newFighter": "Nový bojovník",
+    "editFighter": "Upraviť bojovníka",
+    "deleteFighter": "Vymazať bojovníka",
+    "deleteConfirm": "Naozaj chcete vymazať tohto bojovníka?",
+    "fields": {
+      "slug": "URL slug",
+      "name": "Meno",
+      "nickname": "Prezývka",
+      "country": "Krajina (napr. 🇭🇺 HU)",
+      "intro": "Úvod (krátky)",
+      "story": "Príbeh (dlhý, HTML)",
+      "weightClass": "Váhová kategória",
+      "hometown": "Mesto",
+      "gym": "Klub",
+      "dob": "Dátum narodenia",
+      "heightCm": "Výška (cm)",
+      "reachCm": "Dosah (cm)",
+      "stance": "Postoj",
+      "photo": "Fotografia",
+      "photoUpload": "Nahrať fotografiu",
+      "photoHint": "JPG/PNG, max 4MB",
+      "recordWins": "Víťazstvá",
+      "recordLosses": "Prehry",
+      "recordDraws": "Remízy",
+      "recordKos": "Knockouty",
+      "recordSubmissions": "Submisie",
+      "efuPath": "EFU cesta (po riadkoch: dátum | fáza | názov)",
+      "videos": "Videá (po riadkoch: youtube|mp4 | URL | názov)",
+      "published": "Publikované",
+      "sortOrder": "Poradie"
+    },
+    "actions": {
+      "save": "Uložiť",
+      "cancel": "Zrušiť",
+      "delete": "Vymazať",
+      "upload": "Nahrať"
+    },
+    "messages": {
+      "saved": "Bojovník uložený.",
+      "deleted": "Bojovník vymazaný.",
+      "slugExists": "Tento slug sa už používa.",
+      "invalid": "Neplatné údaje, skontrolujte polia."
+    }
+  },
+  "common": {
+    "language": "Jazyk",
+    "loading": "Načítava sa...",
+    "error": "Niečo sa pokazilo."
+  }
+}

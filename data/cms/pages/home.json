@@ -1,0 +1,49 @@
+{
+  "id": "home",
+  "slug": "home",
+  "title": {
+    "hu": "Főoldal",
+    "en": "Home"
+  },
+  "blocks": [
+    {
+      "id": "hero-1",
+      "type": "hero",
+      "layout": "full",
+      "content": {
+        "title": {
+          "hu": "Elite Fight Universe",
+          "en": "Elite Fight Universe"
+        },
+        "subtitle": {
+          "hu": "A jövő harcművészete",
+          "en": "The future of martial arts"
+        },
+        "ctaText": {
+          "hu": "Csatlakozz most",
+          "en": "Join now"
+        },
+        "ctaLink": "/register"
+      },
+      "settings": {
+        "backgroundColor": "#0A0A0A",
+        "padding": "large"
+      },
+      "order": 0,
+      "visible": true
+    }
+  ],
+  "seo": {
+    "title": {
+      "hu": "EFU - Elite Fight Universe",
+      "en": "EFU - Elite Fight Universe"
+    },
+    "description": {
+      "hu": "A jövő harcművészeti univerzuma",
+      "en": "The future martial arts universe"
+    }
+  },
+  "published": true,
+  "createdAt": "2026-07-12T18:03:43.750Z",
+  "updatedAt": "2026-07-12T18:03:43.750Z"
+}

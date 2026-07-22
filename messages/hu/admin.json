@@ -1,0 +1,88 @@
+{
+  "shell": {
+    "title": "EFU Admin",
+    "shortTitle": "Admin",
+    "tagline": "Elite Fight Universe — adminisztráció",
+    "backToSite": "Vissza az EFU oldalra",
+    "openMenu": "Menü megnyitása",
+    "closeMenu": "Menü bezárása",
+    "collapseSidebar": "Oldalsáv összecsukása",
+    "expandSidebar": "Oldalsáv kibontása"
+  },
+  "roles": {
+    "guest": "Vendég",
+    "user": "Felhasználó",
+    "Rendszeradminisztrator": "Rendszeradminisztrátor",
+    "Producer": "Producer",
+    "RealitySzerkeszto": "Reality szerkesztő",
+    "Tartalomkeszito": "Tartalomkészítő",
+    "Marketing": "Marketing",
+    "Moderator": "Moderátor"
+  },
+  "groups": {
+    "workspace": "Munkafelület",
+    "reality": "Reality & Producer",
+    "content": "Tartalom",
+    "marketing": "Marketing",
+    "moderation": "Moderálás",
+    "system": "Rendszer"
+  },
+  "nav": {
+    "dashboard": "Irányítópult",
+    "applications": "Jelentkezések",
+    "analytics": "Analitika",
+    "events": "Események",
+    "fightCards": "Fight Cardok",
+    "results": "Eredmények",
+    "votes": "Szavazások",
+    "realityTriggers": "Reality triggerek",
+    "audioLibrary": "Audiókönyvtár",
+    "pages": "Oldalak",
+    "news": "Hírek",
+    "videos": "Videók",
+    "photos": "Fotók",
+    "fighterProfiles": "Harcos profilok",
+    "sponsors": "Szponzorok",
+    "socialLinks": "Social linkek",
+    "chatModeration": "Chat moderálás",
+    "users": "Felhasználók",
+    "roles": "Szerepkörök",
+    "auditLogs": "Audit napló",
+    "systemSettings": "Rendszer beállítások"
+  },
+  "dashboard": {
+    "title": "Irányítópult",
+    "welcome": "Üdvözöl az EFU admin",
+    "recentActivity": "Legutóbbi tevékenységek",
+    "latestApplications": "Legutóbbi jelentkezések",
+    "latestEmails": "Legutóbbi kimenő emailek",
+    "analyticsOverview": "Analitikai áttekintő (7 nap)",
+    "noApplications": "Még nincs jelentkezés.",
+    "noEmails": "Még nem ment ki email.",
+    "loadingAnalytics": "Analitika betöltése…",
+    "openApplication": "Jelentkezés megnyitása",
+    "noAnalytics": "Még nincs adat. A demó események seed-elődnek az első látogatáskor.",
+    "seeAllApplications": "Összes jelentkezés",
+    "seeAnalytics": "Részletes analitika",
+    "stats": {
+      "totalApplications": "Összes jelentkezés",
+      "newApplications": "Új (feldolgozatlan)",
+      "eventsLast7d": "Események (7 nap)",
+      "viewersNow": "Nézők most"
+    }
+  },
+  "common": {
+    "language": "Nyelv",
+    "selectLanguage": "Válassz nyelvet",
+    "logout": "Kijelentkezés",
+    "loading": "Betöltés…",
+    "comingSoon": "Hamarosan",
+    "comingSoonBody": "Ez a felület a L6 további kártyáinak befejezéséig placeholder. A role-guard már él — a route-ot csak a jogosult szerepkörök érik el."
+  },
+  "forbidden": {
+    "title": "Hozzáférés megtagadva",
+    "code": "403",
+    "body": "Ehhez a felülethez nincs hozzáférésed. Az EFU adminban való navigáláshoz a szerepköröd alapján jogosított felületeket láthatod az oldalsávon.",
+    "hint": "Fejlesztői környezetben a szerepkört az efu_role süti határozza meg. Példa: document.cookie = \"efu_role=Rendszeradminisztrator\""
+  }
+}

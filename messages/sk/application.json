@@ -1,0 +1,104 @@
+{
+  "homeHero": {
+    "eyebrow": "EFU Reality · sezóna 2026",
+    "venue": "Budapeštianska Aréna",
+    "datetime": "17. júl 2026 · 15:00 CET",
+    "tagline": "Nová šanca pre bojovníkov, nová úroveň pre divákov — naživo a zo záznamu.",
+    "prize": "EFU Reality — hlavná cena 10 000 000 HUF",
+    "countdownLabel": "Čas do začiatku",
+    "ctaWatch": "Sledovať naživo",
+    "ctaReality": "Spoznaj EFU Reality",
+    "ctaApply": "Prihlás sa ako bojovník",
+    "ctaFightNight": "Ďalší Fight Night",
+    "ctaWatchAria": "Spustiť živý prenos",
+    "playLiveHint": "Klikni pre spustenie živého vysielania",
+    "liveLabel": "LIVE",
+    "channelHandle": "@EliteFightUniverse",
+    "scrollHint": "Posuň sa nižšie"
+  },
+  "social": {
+    "heading": "Sleduj nás",
+    "youtube": "YouTube",
+    "twitch": "Twitch",
+    "kick": "Kick",
+    "tiktok": "TikTok",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "x": "X (predtým Twitter)",
+    "dazn": "DAZN"
+  },
+  "hero": {
+    "eyebrow": "EFU Reality · 2026",
+    "title": "Prihlás sa ako bojovník",
+    "body": "Elite Fight Universe (EFU) Reality je o budovaní novej generácie EFU bojovníkov.\nProfesionálna príprava, mediálne pokrytie, miesto na EFU Fight Night a hlavná cena 10 000 000 HUF čaká.\nVyplň formulár — prihlás sa teraz!"
+  },
+  "perk": {
+    "training": { "title": "Profesionálna príprava", "sub": "Trénerský tím EFU" },
+    "media": { "title": "Mediálne pokrytie", "sub": "EFU TV + Fight Night" },
+    "prize": { "title": "10 000 000 HUF", "sub": "Hlavná cena + zmluva" }
+  },
+  "field": {
+    "name": { "label": "Meno" },
+    "age": { "label": "Vek" },
+    "city": { "label": "Mesto" },
+    "testSuly": {
+      "label": "Váhová kategória",
+      "placeholder": "Vyber kategóriu…"
+    },
+    "sportMult": {
+      "label": "Športová minulosť",
+      "placeholder": "Napr. 5 rokov MMA, 3 roky box, predošlé turnaje…"
+    },
+    "motivation": {
+      "label": "Motivácia",
+      "placeholder": "Prečo sa chceš zúčastniť EFU Reality? (min. 20 znakov)"
+    },
+    "videoOrSocialUrl": {
+      "label": "Video alebo sociálny odkaz",
+      "hint": "YouTube, Instagram, TikTok, Facebook alebo Vimeo"
+    },
+    "contact": {
+      "label": "Kontakt",
+      "hint": "E-mail alebo telefón — ozveme sa ti",
+      "placeholder": "ty@priklad.sk alebo +421 …"
+    }
+  },
+  "gdpr": {
+    "consent": "Súhlasím, aby Elite Fight Universe (EFU) spracúval nimi poskytnuté osobné údaje na účel vyhodnotenia mojej prihlášky a kontaktovania ma. Právny základ je článok 6 ods. 1 písm. a) GDPR (dobrovoľný súhlas). EFU údaje dôverne spracúva a neposkytuje ich tretím stranám.",
+    "acceptedAt": "Súhlas zaznamenaný ✓"
+  },
+  "submit": {
+    "label": "Odoslať prihlášku",
+    "sending": "Odosielam…"
+  },
+  "success": {
+    "title": "Tvoja prihláška bola prijatá!",
+    "body": "Ďakujeme! Náš tím skontroluje tvoju prihlášku a ozve sa ti na uvedený kontakt.",
+    "another": "Odoslať ďalšiu prihlášku"
+  },
+  "error": {
+    "summary": "Oprav prosím polia označené červenou a skús to znova.",
+    "network": "Chyba siete — skús to prosím znova.",
+    "name.too_short": "Meno musí mať aspoň 2 znaky.",
+    "name.too_long": "Meno môže mať najviac 80 znakov.",
+    "age.invalid_number": "Zadaj platný vek.",
+    "age.out_of_range": "Vek musí byť medzi 16 a 60.",
+    "city.too_short": "Mesto musí mať aspoň 2 znaky.",
+    "city.too_long": "Mesto môže mať najviac 80 znakov.",
+    "testSuly.required": "Vyber váhovú kategóriu.",
+    "sportMult.required": "Popíš svoju športovú minulosť.",
+    "sportMult.too_long": "Športová minulosť môže mať najviac 500 znakov.",
+    "motivation.too_short": "Motivácia musí mať aspoň 20 znakov.",
+    "motivation.too_long": "Motivácia môže mať najviac 1500 znakov.",
+    "videoOrSocialUrl.required": "Pridaj video alebo sociálny odkaz.",
+    "videoOrSocialUrl.too_long": "Odkaz môže mať najviac 500 znakov.",
+    "videoOrSocialUrl.invalid": "Akceptujeme len odkazy z YouTube, Instagram, TikTok, Facebook alebo Vimeo.",
+    "contact.invalid": "Zadaj platný e-mail alebo telefón.",
+    "contact.too_long": "Kontakt môže mať najviac 120 znakov.",
+    "gdprConsent.required": "Súhlas so spracovaním údajov je potrebný.",
+    "turnstile_failed": "Antispam kontrola zlyhala — obnov stránku."
+  },
+  "form": {
+    "disclaimer": "EFU používa tvoje údaje výlučne na spracovanie prihlášky. Súhlas so spracovaním môžeš kedykoľvek odvolať."
+  }
+}

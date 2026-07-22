@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app/success/page.tsx -> qrcode.react":{"id":7586,"files":["static/chunks/586.5494d3b9e44e4e12.js"]},"components/PricingCard.tsx -> qrcode.react":{"id":7586,"files":["static/chunks/586.5494d3b9e44e4e12.js"]}}';

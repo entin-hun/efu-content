@@ -1,0 +1,88 @@
+{
+  "shell": {
+    "title": "EFU Admin",
+    "shortTitle": "Admin",
+    "tagline": "Elite Fight Universe — Verwaltung",
+    "backToSite": "Zurück zur EFU-Seite",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "collapseSidebar": "Seitenleiste einklappen",
+    "expandSidebar": "Seitenleiste ausklappen"
+  },
+  "roles": {
+    "guest": "Gast",
+    "user": "Benutzer",
+    "Rendszeradminisztrator": "Systemadministrator",
+    "Producer": "Producer",
+    "RealitySzerkeszto": "Reality-Redakteur",
+    "Tartalomkeszito": "Content-Ersteller",
+    "Marketing": "Marketing",
+    "Moderator": "Moderator"
+  },
+  "groups": {
+    "workspace": "Arbeitsbereich",
+    "reality": "Reality & Producer",
+    "content": "Inhalt",
+    "marketing": "Marketing",
+    "moderation": "Moderation",
+    "system": "System"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "applications": "Bewerbungen",
+    "analytics": "Analytik",
+    "events": "Veranstaltungen",
+    "fightCards": "Fight Cards",
+    "results": "Ergebnisse",
+    "votes": "Abstimmungen",
+    "realityTriggers": "Reality-Trigger",
+    "audioLibrary": "Audiobibliothek",
+    "pages": "Seiten",
+    "news": "Neuigkeiten",
+    "videos": "Videos",
+    "photos": "Fotos",
+    "fighterProfiles": "Kämpferprofile",
+    "sponsors": "Sponsoren",
+    "socialLinks": "Social Links",
+    "chatModeration": "Chat-Moderation",
+    "users": "Benutzer",
+    "roles": "Rollen",
+    "auditLogs": "Audit-Logs",
+    "systemSettings": "Systemeinstellungen"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Willkommen im EFU-Admin",
+    "recentActivity": "Letzte Aktivitäten",
+    "latestApplications": "Letzte Bewerbungen",
+    "latestEmails": "Letzte ausgehende E-Mails",
+    "analyticsOverview": "Analytik-Übersicht (7 Tage)",
+    "noApplications": "Noch keine Bewerbungen.",
+    "noEmails": "Noch keine E-Mails versendet.",
+    "loadingAnalytics": "Analytik wird geladen…",
+    "openApplication": "Bewerbung öffnen",
+    "noAnalytics": "Noch keine Daten. Demo-Events werden beim ersten Besuch geladen.",
+    "seeAllApplications": "Alle Bewerbungen",
+    "seeAnalytics": "Detaillierte Analytik",
+    "stats": {
+      "totalApplications": "Bewerbungen gesamt",
+      "newApplications": "Neu (unbearbeitet)",
+      "eventsLast7d": "Events (7 Tage)",
+      "viewersNow": "Zuschauer jetzt"
+    }
+  },
+  "common": {
+    "language": "Sprache",
+    "selectLanguage": "Sprache wählen",
+    "logout": "Abmelden",
+    "loading": "Lädt…",
+    "comingSoon": "Demnächst",
+    "comingSoonBody": "Diese Ansicht ist ein Platzhalter, bis weitere L6-Karten fertig sind. Die Rollenprüfung greift bereits — nur autorisierte Rollen erreichen diese Route."
+  },
+  "forbidden": {
+    "title": "Zugriff verweigert",
+    "code": "403",
+    "body": "Du hast keinen Zugriff auf diese Ansicht. Im EFU-Admin zeigt die Seitenleiste nur die Bereiche, die deine Rolle erreichen darf.",
+    "hint": "In der Entwicklung wird die Rolle über das efu_role-Cookie gesetzt. Beispiel: document.cookie = \"efu_role=Rendszeradminisztrator\""
+  }
+}

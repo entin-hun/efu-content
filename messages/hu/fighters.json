@@ -1,0 +1,29 @@
+{
+  "title": "Harcosok",
+  "intro": "Ismerd meg az EFU harcosait. Profi, félprofi és feltörekvő tehetségek — mind egy helyen.",
+  "allFighters": "Összes harcos",
+  "byWeightClass": "Súlycsoport szerint",
+  "byCountry": "Ország szerint",
+  "profile": {
+    "record": "Mérleg",
+    "country": "Ország",
+    "nickname": "Becenév",
+    "weightClass": "Súlycsoport",
+    "age": "Kor",
+    "team": "Csapat",
+    "wins": "Győzelem",
+    "losses": "Vereség",
+    "draws": "Döntetlen",
+    "ko": "KO",
+    "sub": "Submission",
+    "dec": "Döntés",
+    "follow": "Követem",
+    "following": "Követve"
+  },
+  "filter": {
+    "title": "Szűrők",
+    "all": "Mind",
+    "male": "Férfi",
+    "female": "Nő"
+  }
+}
