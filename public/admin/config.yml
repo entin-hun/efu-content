@@ -71,8 +71,18 @@ collections:
                     fields:
                       - { label: "Magyar", name: "hu", widget: "string" }
                       - { label: "English", name: "en", widget: "string" }
-                  - { label: "CTA szöveg", name: "ctaText", widget: "string" }
-                  - { label: "CTA link", name: "ctaLink", widget: "string" }
+                  - label: "CTA szöveg"
+                    name: "ctaText"
+                    widget: "object"
+                    fields:
+                      - { label: "Magyar", name: "hu", widget: "string" }
+                      - { label: "English", name: "en", widget: "string" }
+                  - label: "CTA link"
+                    name: "ctaLink"
+                    widget: "object"
+                    fields:
+                      - { label: "Magyar", name: "hu", widget: "string" }
+                      - { label: "English", name: "en", widget: "string" }
               - label: "Beállítások"
                 name: "settings"
                 widget: "object"
