@@ -4,6 +4,10 @@
   command = "npm run build"
   publish = ".next"
 
+# Disable secrets scanning for .env.example (placeholders only)
+[build.environment]
+  SECRETS_SCAN_OMIT_PATHS = ".env.example,.env.sample"
+
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
